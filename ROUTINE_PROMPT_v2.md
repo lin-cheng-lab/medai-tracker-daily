@@ -166,6 +166,8 @@ all_entries = []
 LEGAL_THEMES = {"RAG","Agent","多智能体","FM","多模态融合","对齐","临床推理","医学影像","医学NLP","数字孪生","监管伦理","评测基准","联邦隐私","XAI","知识图谱","病理组学",
                 "眼科×FM","眼科×多模态","眼科×Agent","眼科×临床推理","眼科×影像","眼科×Oculomics"}
 EYE_PARENT = {"眼科×FM":"FM","眼科×多模态":"多模态融合","眼科×Agent":"Agent","眼科×临床推理":"临床推理","眼科×影像":"医学影像","眼科×Oculomics":"病理组学"}
+# v1.0.1：眼科×Agent 父主题放宽，接受 Agent 或 多智能体（任一即满足双 tag）
+EYE_PARENT_LOOSE = {"眼科×Agent": {"Agent", "多智能体"}}
 
 for f in sorted(glob.glob(".tmp/cluster*.md")):
     text = open(f).read()
@@ -204,10 +206,12 @@ for e in all_entries:
     themes = e.get("themes",[]) or []
     themes = [t for t in themes if t in LEGAL_THEMES]
     if not themes: themes = ["评测基准"]  # 兜底
-    # 双 tag 校验
+    # 双 tag 校验（v1.0.1：眼科×Agent 接受 Agent 或 多智能体任一）
     for eye_t, parent_t in EYE_PARENT.items():
-        if eye_t in themes and parent_t not in themes:
-            themes.append(parent_t)
+        if eye_t in themes:
+            accepted = EYE_PARENT_LOOSE.get(eye_t, {parent_t})
+            if not (accepted & set(themes)):
+                themes.append(parent_t)
     e["themes"] = themes
     unique.append(e)
 ```
