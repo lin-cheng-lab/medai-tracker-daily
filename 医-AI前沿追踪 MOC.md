@@ -46,6 +46,7 @@ type: tracker-moc
 |:---:|:---:|:---:|---|
 | 2026-05-05 | 91 | [[2026-05-05\|查看]] | MASAI RCT：AI辅助乳腺X线筛查灵敏度提升6.7%（Lancet，>10.5万女性） |
 | 2026-05-06 | 83 | [[2026-05-06\|查看]] | SPARK Agent病理AI（Nature Medicine）：跨18队列>5400例自主生成并验证肿瘤生物标志物 |
+| 2026-05-08 | 80 | [[2026-05-08\|查看]] | Xuanwu-NeuroAid：神经急诊专用LLM前瞻性433例，诊断准确率79.4%显著优于急诊医师65.4%（npj Digital Medicine） |
 
 ---
 
@@ -61,6 +62,9 @@ type: tracker-moc
 | 2026-05-06 | SPARK：自主病理Agent AI / Autonomous pathology research using agentic AI | University Hospital Cologne | SPARK系统跨18队列>5400例自主生成生物学假设并验证肿瘤生物标志物，Nature Medicine，开创病理AI自主科研新范式。 | [链接](https://doi.org/10.1038/s41591-026-04403-9) |
 | 2026-05-06 | 临床LLM安全与准确度遵循不同扩展律 / Safety and accuracy scaling laws in clinical LLMs | Friedrich-Alexander-Universität | SaFE-Scale框架+RadSaFE-200基准：高质量证据将准确率从73.5%提升至94.1%，高危错误从12%降至2.6%。 | [链接](https://arxiv.org/abs/2605.04039) |
 | 2026-05-06 | DeepMind AI联合临床医生计划 / Google DeepMind AI Co-Clinician Initiative | Google DeepMind | 基于Gemini+Astra多模态远程医疗辅助，98项真实查询零重大错误，68/140评估维度达到或超越全科医生水平。 | [链接](https://deepmind.google/blog/ai-co-clinician/) |
+| 2026-05-08 | 宣武神经急诊LLM Xuanwu-NeuroAid前瞻性评估 / Prospective evaluation of Xuanwu-NeuroAid | Xuanwu Hospital, Capital Medical University | 神经急诊专用LLM前瞻433例真实患者，诊断准确率79.4%显著超越急诊医师65.4%，npj Digital Medicine发表。 | [doi:10.1038/s41746-026-02644-z](https://doi.org/10.1038/s41746-026-02644-z) |
+| 2026-05-08 | OphMAE：跨模态眼科基础模型 / OphMAE multi-imaging ophthalmology foundation model | Indiana University | 三维OCT与二维en face OCT协同训练，17项诊断任务AMROC最优，AMD AUC 96.9%。 | [arxiv:2605.02714](https://arxiv.org/abs/2605.02714) |
+| 2026-05-08 | Hygieia：多模态罕见病诊断智能体 / Hygieia rare disease diagnosis agent | Yale School of Medicine | 融合表型、基因组与临床记录，诊断性能较医生提升12%-60%，实现罕见病精准诊断与风险基因优先排序。 | [arxiv:2605.06226](https://arxiv.org/abs/2605.06226) |
 
 ---
 
