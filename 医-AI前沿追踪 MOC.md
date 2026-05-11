@@ -48,6 +48,7 @@ type: tracker-moc
 | 2026-05-06 | 83 | [[2026-05-06\|查看]] | SPARK Agent病理AI（Nature Medicine）：跨18队列>5400例自主生成并验证肿瘤生物标志物 |
 | 2026-05-08 | 80 | [[2026-05-08\|查看]] | Xuanwu-NeuroAid：神经急诊专用LLM前瞻性433例，诊断准确率79.4%显著优于急诊医师65.4%（npj Digital Medicine） |
 | 2026-05-09 | 81 | [[2026-05-09\|查看]] | LLM聊天机器人PreA促进诊疗转诊：2069例RCT证实专科问诊时长缩短28.7%（Nature Medicine） |
+| 2026-05-10 | 49 | [[2026-05-10\|查看]] | 环境AI改善医疗从业者职业福祉：66人阶梯楔形RCT，工作耗竭感显著降低（NEJM AI） |
 
 ---
 
@@ -69,6 +70,9 @@ type: tracker-moc
 | 2026-05-09 | LLM聊天机器人PreA促进基层-专科诊疗转诊：随机对照试验 / LLM Chatbot (PreA) to Facilitate Primary-to-Specialist Care Transitions | 多中心（中国，24科室111名专科医生） | 2069例RCT证实LLM聊天机器人PreA使专科医生单次问诊时长缩短28.7%（3.14 vs 4.41分钟），患者与医生满意度均提升，Nature Medicine发表。 | [链接](https://www.nature.com/articles/s41591-025-04176-7) |
 | 2026-05-09 | 环境AI医疗助手随机试验：DAX Copilot与Nabla对医生文档效率的影响 / Ambient AI Scribes in Clinical Practice: A Randomized Trial | 多机构（美国，238名门诊医生） | 238名门诊医生RCT：Nabla使每条记录书写时间减少约41秒（9.5%），两款AI助手均使职业倦怠评分改善约7%，NEJM AI发表。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2501000) |
 | 2026-05-09 | 生成式AI发现TNIK抑制剂Rentosertib治疗特发性肺纤维化：随机IIa期试验 / AI-Discovered Rentosertib for IPF: A Randomized Phase 2a Trial | Insilico Medicine / 多中心（中国21个中心） | 71例IPF患者RCT：AI设计的首个候选药物Rentosertib 60mg组FVC改善+98.4mL，发现至IIa期仅~18个月，成本约600万美元，Nature Medicine发表。 | [链接](https://www.nature.com/articles/s41591-025-03743-2) |
+| 2026-05-10 | 环境AI改善医疗从业者职业福祉实用RCT / Ambient AI to Improve Health Practitioner Well-Being | University of Wisconsin | 66人24周阶梯楔形RCT：环境AI文档助手显著降低工作耗竭感和人际疏离，NEJM AI发表。 | [doi:10.1056/AIoa2500945](https://ai.nejm.org/doi/abs/10.1056/AIoa2500945) |
+| 2026-05-10 | AI辅助私人诊所结直肠病变检测RCT / AI-assisted colorectal lesion detection in private practices | University Hospital Erlangen | 5中心933例RCT：EndoMind实时AI系统显著提升结直肠病变检测率，npj Digital Medicine发表。 | [doi:10.1038/s41746-026-02576-8](https://www.nature.com/articles/s41746-026-02576-8) |
+| 2026-05-10 | Synapsis AI病历审查识别罕见病试验候选患者 / AI-Driven Chart Review for Rare Disease Trial Participants | Cleveland Clinic | LLM以96.2%准确率在1476份病历中识别ATTR-CM试验候选者，显著提升黑人患者入组比例。 | [链接](https://newsroom.clevelandclinic.org/2026/03/03/ai-driven-chart-review-accurately-identifies-potential-rare-disease-trial-participants-in-new-study) |
 
 ---
 
