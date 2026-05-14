@@ -50,6 +50,8 @@ type: tracker-moc
 | 2026-05-09 | 81 | [[2026-05-09\|查看]] | LLM聊天机器人PreA促进诊疗转诊：2069例RCT证实专科问诊时长缩短28.7%（Nature Medicine） |
 | 2026-05-10 | 49 | [[2026-05-10\|查看]] | 环境AI改善医疗从业者职业福祉：66人阶梯楔形RCT，工作耗竭感显著降低（NEJM AI） |
 | 2026-05-11 | 38 | [[2026-05-11\|查看]] | APOL1高风险队列AI肾脏风险预测（Nature Medicine）+ AI眼科筛查RCT（NCT06877988，新加坡） |
+| 2026-05-12 | 35 | [[2026-05-12\|查看]] | AI素养培训医师暴露LLM错误建议诊断准确率下降14%（NEJM AI RCT）+ 机器学习预测脓毒症恶化轨迹47,936例 |
+| 2026-05-13 | 38 | [[2026-05-13\|查看]] | MASAI RCT Lancet最终结果：AI辅助乳腺筛查减少12%间期癌（n=105,000+）+ PANORAMA AI超越放射科医生检测胰腺癌（n=3,440） |
 
 ---
 
@@ -76,7 +78,10 @@ type: tracker-moc
 | 2026-05-10 | Synapsis AI病历审查识别罕见病试验候选患者 / AI-Driven Chart Review for Rare Disease Trial Participants | Cleveland Clinic | LLM以96.2%准确率在1476份病历中识别ATTR-CM试验候选者，显著提升黑人患者入组比例。 | [链接](https://newsroom.clevelandclinic.org/2026/03/03/ai-driven-chart-review-accurately-identifies-potential-rare-disease-trial-participants-in-new-study) |
 | 2026-05-11 | APOL1高风险基因型早期肾脏风险预测 / Early kidney risk prediction in APOL1 high-risk genotype carriers | Penn Medicine, Univ. of Pennsylvania | 大规模真实世界队列（851例）利用EHR数据构建AI肾脏风险预测模型，可在肾脏事件前5年预警，发表于Nature Medicine。 | [链接](https://www.nature.com/articles/s41591-026-04343-4) |
 | 2026-05-11 | AI辅助社区视力损伤筛查双臂实用性RCT方案 / Community AI visual impairment screening RCT (NCT06877988) | JMIR Research Protocols / 新加坡 | 注册于新加坡的双臂实用性RCT，对比AI眼科筛查与标准护理流程对社区视力损伤检测的影响，是眼科AI首批前瞻性临床试验之一。 | [链接](https://www.researchprotocols.org/2026/1/e74164) |
-| 2026-05-11 | WHO首发EU27国医疗AI现状报告 / WHO Europe first-ever AI in health report across EU member states | WHO/Europe | WHO欧洲区发布首份全面覆盖EU27成员国的医疗AI现状图景报告，涵盖政策框架、监管成熟度与落地差距，为全球治理协调提供权威基线。 | [链接](https://www.who.int/europe/news/item/20-04-2026-new-who-europe-report-provides-first-ever-snapshot-of-ai-in-health-care-across-european-union-member-states) |
+| 2026-05-11 | WHO首发EU27国医疗AI现状报告 / WHO Europe first-ever AI in health report across EU member states | WHO/Europe | WHO欧洲区发布首份全面覆盖EU27成员国的医疗AI现状图景报告，涵盖政策框架、监管成熟度与落地差距，为全球治理协调提供权威基线。 | [链接](https://www.who.int/europe/news/item/20-04-2026-new-who-europe-report-provides-first-ever-snapshot-of-ai-in-health-care-across-enhagen-new-who-europe-report-provides-first-ever-snapshot-of-ai-in-health-care-across-european-union-member-states) |
+| 2026-05-13 | MASAI试验最终结果（Lancet）：AI辅助乳腺X线筛查减少12%间期癌 / MASAI Trial Final Results | Lund University / Karolinska | RCT n=105,000+，AI辅助单读替代标准双读，间期癌减少12%，灵敏度80.5% vs 73.8%，Lancet发表，乳腺癌AI筛查最高级别循证证据。 | [链接](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)02464-X/abstract) |
+| 2026-05-13 | PANORAMA研究（Lancet Oncology）：AI在常规CT上检测胰腺癌优于放射科医生 / PANORAMA AI pancreatic cancer detection | Johns Hopkins / 多中心 | 国际多中心3440例配对研究，68名放射科医生参与盲测，AI系统检测PDAC准确性显著优于放射科医生平均水平。 | [链接](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00567-4/abstract) |
+| 2026-05-13 | 欧盟AI全能法协议：医疗器械高风险AI合规期限延至2028年8月 / EU AI Omnibus: Medical Device High-Risk AI Deadline Extended | EMA/欧盟 | 2026年5月7日欧盟政治协议，医疗器械等受监管产品嵌入高风险AI系统合规期限从2026年8月延至2028年8月。 | [链接](https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/) |
 
 ---
 
