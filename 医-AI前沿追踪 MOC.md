@@ -52,6 +52,7 @@ type: tracker-moc
 | 2026-05-11 | 38 | [[2026-05-11\|查看]] | APOL1高风险队列AI肾脏风险预测（Nature Medicine）+ AI眼科筛查RCT（NCT06877988，新加坡） |
 | 2026-05-12 | 35 | [[2026-05-12\|查看]] | AI素养培训医师暴露LLM错误建议诊断准确率下降14%（NEJM AI RCT）+ 机器学习预测脓毒症恶化轨迹47,936例 |
 | 2026-05-13 | 38 | [[2026-05-13\|查看]] | MASAI RCT Lancet最终结果：AI辅助乳腺筛查减少12%间期癌（n=105,000+）+ PANORAMA AI超越放射科医生检测胰腺癌（n=3,440） |
+| 2026-05-14 | 73 | [[2026-05-14\|查看]] | 对话式AI代理改善精神症状RCT（JAMA，n=995）+ OBSCORE肥胖风险预测（Nature Medicine，n=20万，Cambridge） |
 
 ---
 
@@ -82,6 +83,9 @@ type: tracker-moc
 | 2026-05-13 | MASAI试验最终结果（Lancet）：AI辅助乳腺X线筛查减少12%间期癌 / MASAI Trial Final Results | Lund University / Karolinska | RCT n=105,000+，AI辅助单读替代标准双读，间期癌减少12%，灵敏度80.5% vs 73.8%，Lancet发表，乳腺癌AI筛查最高级别循证证据。 | [链接](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)02464-X/abstract) |
 | 2026-05-13 | PANORAMA研究（Lancet Oncology）：AI在常规CT上检测胰腺癌优于放射科医生 / PANORAMA AI pancreatic cancer detection | Johns Hopkins / 多中心 | 国际多中心3440例配对研究，68名放射科医生参与盲测，AI系统检测PDAC准确性显著优于放射科医生平均水平。 | [链接](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00567-4/abstract) |
 | 2026-05-13 | 欧盟AI全能法协议：医疗器械高风险AI合规期限延至2028年8月 / EU AI Omnibus: Medical Device High-Risk AI Deadline Extended | EMA/欧盟 | 2026年5月7日欧盟政治协议，医疗器械等受监管产品嵌入高风险AI系统合规期限从2026年8月延至2028年8月。 | [链接](https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/) |
+| 2026-05-14 | 对话式AI代理改善精神症状及数字治疗联盟效能的随机临床试验 / AI Agent RCT for Mental Health Symptoms | Reichman University, Israel | 995名以色列大学生RCT，对话式AI平台在焦虑减轻和幸福感提升方面优于主动对照及等待名单组，JAMA Network Open发表，数字心理健康AI首个大型RCT证据。 | [链接](https://doi.org/10.1001/jamanetworkopen.2026.6713) |
+| 2026-05-14 | OBSCORE：基于数据驱动的肥胖风险分层与减重干预高风险个体优先排序 / OBSCORE Obesity Risk Stratification | University of Cambridge / Karolinska Institutet | UK Biobank约20万成人数据，20个临床特征预测10年肥胖相关并发症风险并在外部队列验证，Nature Medicine双文发表。 | [链接](https://www.nature.com/articles/s41591-026-04353-2) |
+| 2026-05-14 | 经AI素养培训的医生在LLM辅助诊断中的自动化偏见：随机临床试验 / AI Literacy Training Cannot Eliminate Automation Bias in LLM-Assisted Diagnosis | LUMS (Pakistan) + Partners | 44名医师RCT，AI素养培训不能消除LLM辅助诊断的自动化偏见，错误建议时诊断准确率下降，NEJM AI发表。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2501001) |
 
 ---
 
