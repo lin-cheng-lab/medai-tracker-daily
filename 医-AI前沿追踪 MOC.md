@@ -53,6 +53,7 @@ type: tracker-moc
 | 2026-05-12 | 35 | [[2026-05-12\|查看]] | AI素养培训医师暴露LLM错误建议诊断准确率下降14%（NEJM AI RCT）+ 机器学习预测脓毒症恶化轨迹47,936例 |
 | 2026-05-13 | 38 | [[2026-05-13\|查看]] | MASAI RCT Lancet最终结果：AI辅助乳腺筛查减少12%间期癌（n=105,000+）+ PANORAMA AI超越放射科医生检测胰腺癌（n=3,440） |
 | 2026-05-14 | 73 | [[2026-05-14\|查看]] | 对话式AI代理改善精神症状RCT（JAMA，n=995）+ OBSCORE肥胖风险预测（Nature Medicine，n=20万，Cambridge） |
+| 2026-05-15 | 23 | [[2026-05-15\|查看]] | DT-Transformer：170万患者EHR预训练基础模型896病种轨迹预测（Harvard/BWH）+ Valar Labs膀胱癌AI获FDA突破性认定（2026-05-15） |
 
 ---
 
@@ -86,6 +87,9 @@ type: tracker-moc
 | 2026-05-14 | 对话式AI代理改善精神症状及数字治疗联盟效能的随机临床试验 / AI Agent RCT for Mental Health Symptoms | Reichman University, Israel | 995名以色列大学生RCT，对话式AI平台在焦虑减轻和幸福感提升方面优于主动对照及等待名单组，JAMA Network Open发表，数字心理健康AI首个大型RCT证据。 | [链接](https://doi.org/10.1001/jamanetworkopen.2026.6713) |
 | 2026-05-14 | OBSCORE：基于数据驱动的肥胖风险分层与减重干预高风险个体优先排序 / OBSCORE Obesity Risk Stratification | University of Cambridge / Karolinska Institutet | UK Biobank约20万成人数据，20个临床特征预测10年肥胖相关并发症风险并在外部队列验证，Nature Medicine双文发表。 | [链接](https://www.nature.com/articles/s41591-026-04353-2) |
 | 2026-05-14 | 经AI素养培训的医生在LLM辅助诊断中的自动化偏见：随机临床试验 / AI Literacy Training Cannot Eliminate Automation Bias in LLM-Assisted Diagnosis | LUMS (Pakistan) + Partners | 44名医师RCT，AI素养培训不能消除LLM辅助诊断的自动化偏见，错误建议时诊断准确率下降，NEJM AI发表。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2501001) |
+| 2026-05-15 | DT-Transformer：真实世界EHR疾病轨迹预测基础模型 / DT-Transformer for Disease Trajectory Prediction | Brigham and Women's Hospital / Harvard Medical School | 170万患者、5710万条EHR记录预训练，896病种下一事件预测中位AUC 0.871，真实世界大规模临床AI基础模型。 | [链接](https://arxiv.org/abs/2605.14227) |
+| 2026-05-15 | Valar Labs膀胱癌AI病理风险分层获FDA突破性认定 / FDA Breakthrough Device for Bladder Cancer AI Pathology | Valar Labs / FDA | 首款获FDA突破性认定的AI数字病理预后产品，分析常规H&E切片生成膀胱癌复发风险评估，于2026-05-15获认定。 | [链接](https://www.businesswire.com/news/home/20260515224660/en/Valar-Labs-Receives-FDA-Breakthrough-Device-Designation-for-Vesta-Bladder-Risk-Stratify-Dx) |
+| 2026-05-15 | 多模态AMIE对话式诊断AI升级 / Multimodal AMIE Conversational Diagnostic AI | Google DeepMind / Google Research | 多模态AMIE整合Gemini 2.0 Flash与状态感知对话框架，远程问诊多模态推理在OSCE评估中29/32项优于全科医生，Nature Medicine。 | [链接](https://www.nature.com/articles/s41591-026-04371-0) |
 
 ---
 
