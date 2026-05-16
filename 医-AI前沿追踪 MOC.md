@@ -54,6 +54,7 @@ type: tracker-moc
 | 2026-05-13 | 38 | [[2026-05-13\|查看]] | MASAI RCT Lancet最终结果：AI辅助乳腺筛查减少12%间期癌（n=105,000+）+ PANORAMA AI超越放射科医生检测胰腺癌（n=3,440） |
 | 2026-05-14 | 73 | [[2026-05-14\|查看]] | 对话式AI代理改善精神症状RCT（JAMA，n=995）+ OBSCORE肥胖风险预测（Nature Medicine，n=20万，Cambridge） |
 | 2026-05-15 | 23 | [[2026-05-15\|查看]] | DT-Transformer：170万患者EHR预训练基础模型896病种轨迹预测（Harvard/BWH）+ Valar Labs膀胱癌AI获FDA突破性认定（2026-05-15） |
+| 2026-05-16 | 33 | [[2026-05-16\|查看]] | 可解释XGBoost整合PET心肌灌注10参数多中心1664例冠心病诊断（npj Digital Medicine）+ Aidoc基础模型AI首次FDA清关可筛查14种急症 |
 
 ---
 
@@ -90,6 +91,9 @@ type: tracker-moc
 | 2026-05-15 | DT-Transformer：真实世界EHR疾病轨迹预测基础模型 / DT-Transformer for Disease Trajectory Prediction | Brigham and Women's Hospital / Harvard Medical School | 170万患者、5710万条EHR记录预训练，896病种下一事件预测中位AUC 0.871，真实世界大规模临床AI基础模型。 | [链接](https://arxiv.org/abs/2605.14227) |
 | 2026-05-15 | Valar Labs膀胱癌AI病理风险分层获FDA突破性认定 / FDA Breakthrough Device for Bladder Cancer AI Pathology | Valar Labs / FDA | 首款获FDA突破性认定的AI数字病理预后产品，分析常规H&E切片生成膀胱癌复发风险评估，于2026-05-15获认定。 | [链接](https://www.businesswire.com/news/home/20260515224660/en/Valar-Labs-Receives-FDA-Breakthrough-Device-Designation-for-Vesta-Bladder-Risk-Stratify-Dx) |
 | 2026-05-15 | 多模态AMIE对话式诊断AI升级 / Multimodal AMIE Conversational Diagnostic AI | Google DeepMind / Google Research | 多模态AMIE整合Gemini 2.0 Flash与状态感知对话框架，远程问诊多模态推理在OSCE评估中29/32项优于全科医生，Nature Medicine。 | [链接](https://www.nature.com/articles/s41591-026-04371-0) |
+| 2026-05-16 | 可解释AI多中心评估冠状动脉疾病诊断（PET生物标志物）/ Multicenter evaluation of interpretable AI for CAD | Brigham and Women's Hospital, Harvard Medical School | 整合PET心肌灌注10参数的可解释XGBoost在4中心1664例患者中提升阻塞性冠心病诊断准确率，npj Digital Medicine。 | [链接](https://www.nature.com/articles/s41746-026-02338-6) |
+| 2026-05-16 | Aidoc基础模型AI获FDA清关：单次腹部CT筛查14种急症 / Aidoc CARE Foundation Model FDA Clearance | Aidoc / FDA | 首款综合基础模型AI获FDA清关，整合14个适应症单次CT分析，平均灵敏度97%、特异性98%，是医疗AI落地里程碑事件。 | [链接](https://www.prnewswire.com/news-releases/aidoc-secures-fda-clearance-for-healthcares-first-comprehensive-foundation-model-ai-302666640.html) |
+| 2026-05-16 | RadThinking：面向放射科纵向临床推理的数据集 / RadThinking Dataset for Longitudinal Radiology Reasoning | Johns Hopkins University | 含20362例CT扫描、9131名患者的VQA数据集，三级推理难度（原子→单步→多步链），覆盖43种癌症类型的指南分级。 | [链接](https://arxiv.org/abs/2605.10761) |
 
 ---
 
