@@ -55,6 +55,7 @@ type: tracker-moc
 | 2026-05-14 | 73 | [[2026-05-14\|查看]] | 对话式AI代理改善精神症状RCT（JAMA，n=995）+ OBSCORE肥胖风险预测（Nature Medicine，n=20万，Cambridge） |
 | 2026-05-15 | 23 | [[2026-05-15\|查看]] | DT-Transformer：170万患者EHR预训练基础模型896病种轨迹预测（Harvard/BWH）+ Valar Labs膀胱癌AI获FDA突破性认定（2026-05-15） |
 | 2026-05-16 | 33 | [[2026-05-16\|查看]] | 可解释XGBoost整合PET心肌灌注10参数多中心1664例冠心病诊断（npj Digital Medicine）+ Aidoc基础模型AI首次FDA清关可筛查14种急症 |
+| 2026-05-17 | 27 | [[2026-05-17\|查看]] | 自主AI糖网筛查显著提升高危患者眼科就诊率（npj Digital Medicine，n=3,745）+ 谷歌乳腺癌AI多中心研究灵敏度超初读医师（Nature Cancer，n=125,239） |
 
 ---
 
@@ -94,6 +95,9 @@ type: tracker-moc
 | 2026-05-16 | 可解释AI多中心评估冠状动脉疾病诊断（PET生物标志物）/ Multicenter evaluation of interpretable AI for CAD | Brigham and Women's Hospital, Harvard Medical School | 整合PET心肌灌注10参数的可解释XGBoost在4中心1664例患者中提升阻塞性冠心病诊断准确率，npj Digital Medicine。 | [链接](https://www.nature.com/articles/s41746-026-02338-6) |
 | 2026-05-16 | Aidoc基础模型AI获FDA清关：单次腹部CT筛查14种急症 / Aidoc CARE Foundation Model FDA Clearance | Aidoc / FDA | 首款综合基础模型AI获FDA清关，整合14个适应症单次CT分析，平均灵敏度97%、特异性98%，是医疗AI落地里程碑事件。 | [链接](https://www.prnewswire.com/news-releases/aidoc-secures-fda-clearance-for-healthcares-first-comprehensive-foundation-model-ai-302666640.html) |
 | 2026-05-16 | RadThinking：面向放射科纵向临床推理的数据集 / RadThinking Dataset for Longitudinal Radiology Reasoning | Johns Hopkins University | 含20362例CT扫描、9131名患者的VQA数据集，三级推理难度（原子→单步→多步链），覆盖43种癌症类型的指南分级。 | [链接](https://arxiv.org/abs/2605.10761) |
+| 2026-05-17 | 自主AI糖尿病视网膜病变筛查提升高危患者就诊率 / Autonomous AI-assisted DR screening improves referral | Johns Hopkins Medicine | 3,745例队列研究显示自主AI筛查后高危黑人患者眼科就诊率显著提升，验证了AI筛查的健康公平促进效应，npj Digital Medicine。 | [链接](https://www.nature.com/articles/s41746-026-02460-5) |
+| 2026-05-17 | 谷歌乳腺癌AI筛查多中心研究：灵敏度超初读医师 / Google AI Mammography Multicenter Study | Google / NHS / Imperial | Nature Cancer 多中心研究（n=125,239），AI灵敏度0.541 vs 医师0.437，减少40%筛查工作量，每千名癌症检出率从7.54升至9.33。 | [链接](https://www.nature.com/articles/s43018-026-01127-0) |
+| 2026-05-17 | VeriFact：EHR事实核查LLM生成临床文档 / VeriFact Clinical Document Fact-Checking | Stanford University | NEJM AI发表，13,070条陈述基准上RAG+LLM-as-Judge达92.7%一致率，超越人类临床医生核实能力。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIdbp2500418) |
 
 ---
 
