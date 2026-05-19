@@ -57,6 +57,7 @@ type: tracker-moc
 | 2026-05-16 | 33 | [[2026-05-16\|查看]] | 可解释XGBoost整合PET心肌灌注10参数多中心1664例冠心病诊断（npj Digital Medicine）+ Aidoc基础模型AI首次FDA清关可筛查14种急症 |
 | 2026-05-17 | 27 | [[2026-05-17\|查看]] | 自主AI糖网筛查显著提升高危患者眼科就诊率（npj Digital Medicine，n=3,745）+ 谷歌乳腺癌AI多中心研究灵敏度超初读医师（Nature Cancer，n=125,239） |
 | 2026-05-18 | 43 | [[2026-05-18\|查看]] | CLAiR视网膜AI：874例前瞻性多中心RCT证实心血管风险筛查灵敏度91.1%（ACC.26）+ 多智能体辅助轴性脊柱关节炎早期诊断（npj Digital Medicine） |
+| 2026-05-19 | 36 | [[2026-05-19\|查看]] | AI心房颤动筛查超越年龄阈值（Stanford，npj Digital Medicine，5000万人群）+ 帕金森多模态生物标志物诊断策略（Nature Medicine，229例前瞻队列） |
 
 ---
 
@@ -102,6 +103,9 @@ type: tracker-moc
 | 2026-05-18 | CLAiR视网膜AI心血管风险筛查RCT / CLAiR Retinal AI Cardiovascular Risk Screening | Toku / Stanford Health Care | 874例前瞻性多中心RCT证实AI分析视网膜图像识别高心血管风险灵敏度91.1%，已获FDA突破性器械认定，ACC.26发布。评分69。 | [链接](https://www.acc.org/About-ACC/Press-Releases/2026/03/30/16/17/With-Help-from-AI-Eye-Images-Offer-Window-into-Cardiovascular-Risk) |
 | 2026-05-18 | 多智能体辅助轴性脊柱关节炎早期诊断 / Multi-agent Early Diagnosis of Axial Spondyloarthritis | Chinese PLA General Hospital | npj Digital Medicine多中心队列研究：多智能体AI显著缩短6.7年平均诊断延误，提升初级保健转诊准确性。评分64。 | [链接](https://www.nature.com/articles/s41746-026-02372-4) |
 | 2026-05-18 | 多模态AI Agent眼科RCT注册（NCT07401459） / Multimodal AI Agent Ophthalmic RCT | Hong Kong Polytechnic University | ClinicalTrials.gov注册多中心随机对照试验，评估多模态AI Agent眼科临床决策支持效果，为眼科AI提供高质量循证证据。评分63。 | [链接](https://clinicaltrials.gov/study/NCT07401459) |
+| 2026-05-19 | 超越年龄阈值：AI重塑心房颤动筛查策略 / Reimagining AF Screening Beyond Age-Based Thresholds Using AI | Stanford University | 分析超5000万人群数据，证明AI应用于手持单导联心电图可精准预测新发房颤，突破年龄限制的精准筛查新路径，npj Digital Medicine。评分71。 | [链接](https://www.nature.com/articles/s41746-026-02485-w) |
+| 2026-05-19 | 多模态生物标志物策略提升帕金森病诊断精度 / Multimodal Biomarker Strategy for Neurodegenerative Parkinsonism | Toronto Western Hospital, Univ. of Toronto | 229例前瞻队列整合皮肤α-突触核蛋白、tau种子扩增及血清神经丝轻链，实现高灵敏度+高特异性分层诊断，Nature Medicine。评分69。 | [链接](https://www.nature.com/articles/s41591-026-04398-3) |
+| 2026-05-19 | 球结膜视频深度学习无创血细胞计数（眼科×Oculomics） / Noninvasive Blood Count from Bulbar Conjunctiva Videos | Tel Aviv University / Sheba Medical Center | 通过球结膜血管视频深度学习实现无创血细胞计数，验证血液病患者可行性，开创眼部Oculomics新方向，npj Digital Medicine。评分61。 | [链接](https://www.nature.com/articles/s41746-026-02598-2) |
 
 ---
 
