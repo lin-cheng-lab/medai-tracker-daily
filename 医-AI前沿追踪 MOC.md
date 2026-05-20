@@ -58,6 +58,7 @@ type: tracker-moc
 | 2026-05-17 | 27 | [[2026-05-17\|查看]] | 自主AI糖网筛查显著提升高危患者眼科就诊率（npj Digital Medicine，n=3,745）+ 谷歌乳腺癌AI多中心研究灵敏度超初读医师（Nature Cancer，n=125,239） |
 | 2026-05-18 | 43 | [[2026-05-18\|查看]] | CLAiR视网膜AI：874例前瞻性多中心RCT证实心血管风险筛查灵敏度91.1%（ACC.26）+ 多智能体辅助轴性脊柱关节炎早期诊断（npj Digital Medicine） |
 | 2026-05-19 | 36 | [[2026-05-19\|查看]] | AI心房颤动筛查超越年龄阈值（Stanford，npj Digital Medicine，5000万人群）+ 帕金森多模态生物标志物诊断策略（Nature Medicine，229例前瞻队列） |
+| 2026-05-20 | 19 | [[2026-05-20\|查看]] | 视网膜成像多病种AI框架（Nature Medicine，n=107,730）+ FDA批准首款连续AI脓毒症监测系统（Bayesian Health，n=764,000）|
 
 ---
 
