@@ -59,6 +59,7 @@ type: tracker-moc
 | 2026-05-18 | 43 | [[2026-05-18\|查看]] | CLAiR视网膜AI：874例前瞻性多中心RCT证实心血管风险筛查灵敏度91.1%（ACC.26）+ 多智能体辅助轴性脊柱关节炎早期诊断（npj Digital Medicine） |
 | 2026-05-19 | 36 | [[2026-05-19\|查看]] | AI心房颤动筛查超越年龄阈值（Stanford，npj Digital Medicine，5000万人群）+ 帕金森多模态生物标志物诊断策略（Nature Medicine，229例前瞻队列） |
 | 2026-05-20 | 19 | [[2026-05-20\|查看]] | 视网膜成像多病种AI框架（Nature Medicine，n=107,730）+ FDA批准首款连续AI脓毒症监测系统（Bayesian Health，n=764,000）|
+| 2026-05-21 | 35 | [[2026-05-21\|查看]] | iHealthScreen AI糖网RCT临床试验注册（ClinicalTrials）+ NMPA批准全球首款商业化有创BCI（神念医疗NEO）+ Cognita胸片生成式AI获FDA突破性认定 |
 
 ---
 
@@ -107,6 +108,9 @@ type: tracker-moc
 | 2026-05-19 | 超越年龄阈值：AI重塑心房颤动筛查策略 / Reimagining AF Screening Beyond Age-Based Thresholds Using AI | Stanford University | 分析超5000万人群数据，证明AI应用于手持单导联心电图可精准预测新发房颤，突破年龄限制的精准筛查新路径，npj Digital Medicine。评分71。 | [链接](https://www.nature.com/articles/s41746-026-02485-w) |
 | 2026-05-19 | 多模态生物标志物策略提升帕金森病诊断精度 / Multimodal Biomarker Strategy for Neurodegenerative Parkinsonism | Toronto Western Hospital, Univ. of Toronto | 229例前瞻队列整合皮肤α-突触核蛋白、tau种子扩增及血清神经丝轻链，实现高灵敏度+高特异性分层诊断，Nature Medicine。评分69。 | [链接](https://www.nature.com/articles/s41591-026-04398-3) |
 | 2026-05-19 | 球结膜视频深度学习无创血细胞计数（眼科×Oculomics） / Noninvasive Blood Count from Bulbar Conjunctiva Videos | Tel Aviv University / Sheba Medical Center | 通过球结膜血管视频深度学习实现无创血细胞计数，验证血液病患者可行性，开创眼部Oculomics新方向，npj Digital Medicine。评分61。 | [链接](https://www.nature.com/articles/s41746-026-02598-2) |
+| 2026-05-21 | iHealthScreen AI糖网早诊关键性临床试验注册（眼科×影像，RCT） / iHealthScreen AI DR Critical Clinical Trial NCT07151001 | iHealthScreen Inc | ClinicalTrials.gov注册AI自动化系统早期诊断糖尿病视网膜病变的关键性临床试验，眼科AI落地最高证据级别。评分60。 | [链接](https://clinicaltrials.gov/study/NCT07151001) |
+| 2026-05-21 | 中国NMPA批准全球首款商业化有创脑机接口医疗器械：神念医疗NEO系统 / NMPA Approves World's First Commercial Invasive BCI | Neuracle Medical Technology / Tsinghua University | 神念医疗（清华系）NEO有创BCI于2026年3月获NMPA批准，是全球首款商业化有创BCI医疗器械，里程碑监管事件。评分56。 | [链接](https://news.cgtn.com/news/2026-03-14/China-approves-world-s-first-invasive-BCI-medical-device-1Lv2lPRjay4/p.html) |
+| 2026-05-21 | Mosaic Cognita胸片生成式AI模型获FDA突破性器械认定 / FDA Breakthrough Designation: Mosaic Cognita CXR Generative AI | Mosaic Clinical Technologies | 首个放射科生成式视觉语言模型获FDA突破性器械认定，标志生成式AI正式进入FDA医疗器械监管轨道。评分53。 | [链接](https://mosaicclinical.ai/news/2026/03/mosaic-clinical-technologies-announces-fda-breakthrough-device-designation-for-cognitas-generative-ai-model-for-radiology/) |
 
 ---
 
