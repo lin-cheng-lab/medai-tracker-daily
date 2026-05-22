@@ -60,6 +60,7 @@ type: tracker-moc
 | 2026-05-19 | 36 | [[2026-05-19\|查看]] | AI心房颤动筛查超越年龄阈值（Stanford，npj Digital Medicine，5000万人群）+ 帕金森多模态生物标志物诊断策略（Nature Medicine，229例前瞻队列） |
 | 2026-05-20 | 19 | [[2026-05-20\|查看]] | 视网膜成像多病种AI框架（Nature Medicine，n=107,730）+ FDA批准首款连续AI脓毒症监测系统（Bayesian Health，n=764,000）|
 | 2026-05-21 | 35 | [[2026-05-21\|查看]] | iHealthScreen AI糖网RCT临床试验注册（ClinicalTrials）+ NMPA批准全球首款商业化有创BCI（神念医疗NEO）+ Cognita胸片生成式AI获FDA突破性认定 |
+| 2026-05-22 | 20 | [[2026-05-22\|查看]] | LLM临床推理基准评测（NEJM AI，o3最高67.8%领先）+ 肾移植EHR-AI风险预测RCT（npj Digital Medicine，76例中性）+ 欧盟AI法案医疗器械延期至2028年 |
 
 ---
 
@@ -111,6 +112,9 @@ type: tracker-moc
 | 2026-05-21 | iHealthScreen AI糖网早诊关键性临床试验注册（眼科×影像，RCT） / iHealthScreen AI DR Critical Clinical Trial NCT07151001 | iHealthScreen Inc | ClinicalTrials.gov注册AI自动化系统早期诊断糖尿病视网膜病变的关键性临床试验，眼科AI落地最高证据级别。评分60。 | [链接](https://clinicaltrials.gov/study/NCT07151001) |
 | 2026-05-21 | 中国NMPA批准全球首款商业化有创脑机接口医疗器械：神念医疗NEO系统 / NMPA Approves World's First Commercial Invasive BCI | Neuracle Medical Technology / Tsinghua University | 神念医疗（清华系）NEO有创BCI于2026年3月获NMPA批准，是全球首款商业化有创BCI医疗器械，里程碑监管事件。评分56。 | [链接](https://news.cgtn.com/news/2026-03-14/China-approves-world-s-first-invasive-BCI-medical-device-1Lv2lPRjay4/p.html) |
 | 2026-05-21 | Mosaic Cognita胸片生成式AI模型获FDA突破性器械认定 / FDA Breakthrough Designation: Mosaic Cognita CXR Generative AI | Mosaic Clinical Technologies | 首个放射科生成式视觉语言模型获FDA突破性器械认定，标志生成式AI正式进入FDA医疗器械监管轨道。评分53。 | [链接](https://mosaicclinical.ai/news/2026/03/mosaic-clinical-technologies-announces-fda-breakthrough-device-designation-for-cognitas-generative-ai-model-for-radiology/) |
+| 2026-05-22 | LLM临床推理SCT基准评测（NEJM AI）/ Assessment of LLMs in Clinical Reasoning via Script Concordance Test | Harvard Medical School | 采用SCT对10款主流LLM进行临床推理基准评测，o3以67.8%最高得分领先，揭示LLM临床推理与专科医生之间的显著差距。评分65。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIdbp2500120) |
+| 2026-05-22 | PRIMA-AI肾移植EHR-AI风险预测RCT（npj Digital Medicine）/ Randomized Trial of EHR AI Risk Prediction in Kidney Transplant | Charité - Universitätsmedizin Berlin | 首个评估EHR内置ML移植物丢失风险预测对共同决策影响的RCT（76例），结果中性，为临床AI落地提供重要反例证据。评分64。 | [链接](https://www.nature.com/articles/s41746-026-02757-5) |
+| 2026-05-22 | 肯尼亚新生儿LLM临床决策支持10个月真实世界评估 / Human-supervised LLM CDS in Kenya Newborn Care | Bungoma County Referral Hospital, Kenya | 低资源真实部署：人工监督LLM系统AIFYA管理550例新生儿，高采用率与强临床一致性，Frontiers in Digital Health首发。评分53。 | [链接](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1832634/full) |
 
 ---
 
