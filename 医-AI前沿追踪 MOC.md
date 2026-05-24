@@ -114,7 +114,12 @@ type: tracker-moc
 | 2026-05-21 | Mosaic Cognita胸片生成式AI模型获FDA突破性器械认定 / FDA Breakthrough Designation: Mosaic Cognita CXR Generative AI | Mosaic Clinical Technologies | 首个放射科生成式视觉语言模型获FDA突破性器械认定，标志生成式AI正式进入FDA医疗器械监管轨道。评分53。 | [链接](https://mosaicclinical.ai/news/2026/03/mosaic-clinical-technologies-announces-fda-breakthrough-device-designation-for-cognitas-generative-ai-model-for-radiology/) |
 | 2026-05-22 | LLM临床推理SCT基准评测（NEJM AI）/ Assessment of LLMs in Clinical Reasoning via Script Concordance Test | Harvard Medical School | 采用SCT对10款主流LLM进行临床推理基准评测，o3以67.8%最高得分领先，揭示LLM临床推理与专科医生之间的显著差距。评分65。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIdbp2500120) |
 | 2026-05-22 | PRIMA-AI肾移植EHR-AI风险预测RCT（npj Digital Medicine）/ Randomized Trial of EHR AI Risk Prediction in Kidney Transplant | Charité - Universitätsmedizin Berlin | 首个评估EHR内置ML移植物丢失风险预测对共同决策影响的RCT（76例），结果中性，为临床AI落地提供重要反例证据。评分64。 | [链接](https://www.nature.com/articles/s41746-026-02757-5) |
+| 2026-05-24 | 环境AI医疗记录员的临床实践随机试验 / Ambient AI Scribes in Clinical Practice: A Randomized Trial | University of California Los Angeles | UCLA门诊医师RCT：环境AI语音转文字系统显著降低文档负担与职业倦怠，不影响账单合规性，NEJM AI发表，为临床AI文档工具提供高质量实证。评分65。 | [链接](https://doi.org/10.1056/AIoa2501000) |
+| 2026-05-24 | PREVENT与SCORE2心血管风险方程跨国640万人验证 / Multinational Validation of PREVENT and SCORE2 | 乔治全球健康研究所 | 44个观察性队列+18个随机试验共640万人数据，跨国验证两大心血管风险评分，判别力相近且在多地区表现良好，Nature Medicine。评分64。 | [链接](https://doi.org/10.1038/s41591-026-04437-z) |
+| 2026-05-24 | 哈佛/BIDMC：OpenAI o1推理模型急诊诊断超越临床医生 / OpenAI o1 Outperforms Physicians at ER Diagnosis | Harvard Medical School / BIDMC | OpenAI o1推理模型在急诊患者诊断中超越医生表现并超过早期AI模型，Fortune报道称「已触及人类天花板」，临床诊断AI里程碑。评分62。 | [链接](https://fortune.com/2026/05/04/harvard-study-ai-outdiagnose-doctors-openai-o1-preview/) |
 | 2026-05-22 | 肯尼亚新生儿LLM临床决策支持10个月真实世界评估 / Human-supervised LLM CDS in Kenya Newborn Care | Bungoma County Referral Hospital, Kenya | 低资源真实部署：人工监督LLM系统AIFYA管理550例新生儿，高采用率与强临床一致性，Frontiers in Digital Health首发。评分53。 | [链接](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1832634/full) |
+| 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
+| 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 
 ---
 
