@@ -61,6 +61,7 @@ type: tracker-moc
 | 2026-05-20 | 19 | [[2026-05-20\|查看]] | 视网膜成像多病种AI框架（Nature Medicine，n=107,730）+ FDA批准首款连续AI脓毒症监测系统（Bayesian Health，n=764,000）|
 | 2026-05-21 | 35 | [[2026-05-21\|查看]] | iHealthScreen AI糖网RCT临床试验注册（ClinicalTrials）+ NMPA批准全球首款商业化有创BCI（神念医疗NEO）+ Cognita胸片生成式AI获FDA突破性认定 |
 | 2026-05-22 | 20 | [[2026-05-22\|查看]] | LLM临床推理基准评测（NEJM AI，o3最高67.8%领先）+ 肾移植EHR-AI风险预测RCT（npj Digital Medicine，76例中性）+ 欧盟AI法案医疗器械延期至2028年 |
+| 2026-05-26 | 24 | [[2026-05-26\|查看]] | 深度学习ECG识别闭塞性心肌梗死（Nature Communications，54万例）+ 眼科多模态推理Agent真实世界验证 + 3款FDA批准AI眼底筛查系统落地经验 + 飞利浦SmartSpeed Precise MRI双AI获FDA批准 |
 
 ---
 
@@ -120,6 +121,10 @@ type: tracker-moc
 | 2026-05-22 | 肯尼亚新生儿LLM临床决策支持10个月真实世界评估 / Human-supervised LLM CDS in Kenya Newborn Care | Bungoma County Referral Hospital, Kenya | 低资源真实部署：人工监督LLM系统AIFYA管理550例新生儿，高采用率与强临床一致性，Frontiers in Digital Health首发。评分53。 | [链接](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1832634/full) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
+| 2026-05-26 | 深度学习ECG识别并定位闭塞性心肌梗死 / DL ECG for Occlusion MI Identification and Localization | Uppsala University (Sweden) | 54万余张急诊心电图训练，C统计量≥0.95，显著优于现有ST段标准，实现三支主冠脉梗死定位，Nature Communications发表。评分66。 | [链接](https://www.nature.com/articles/s41467-026-73023-1) |
+| 2026-05-26 | 眼科多模态推理智能体真实世界临床验证 / Multimodal Reasoning Agent for Ophthalmic Decision-Making | Frontiers/PMC | ReasonAgent在30例真实眼科病例中诊断准确率媲美住院医师，治疗规划超越GPT-4o，含罕见病案例验证。评分63。 | [链接](https://pmc.ncbi.nlm.nih.gov/articles/PMC12325206/) |
+| 2026-05-26 | 3款FDA批准AI糖网筛查系统落地经验总结 / Autonomous AI DR Testing—Health System Adoption Lessons | 多所学术医疗中心 | LumineticsCore/EyeArt/AEYE-DS在多家医疗中心落地，改善HEDIS指标、健康公平性及患者随访依从性。评分54。 | [链接](https://pmc.ncbi.nlm.nih.gov/articles/PMC12553049/) |
+| 2026-05-26 | 飞利浦SmartSpeed Precise双AI MRI重建软件获FDA 510(k)批准 / Philips SmartSpeed Precise FDA Clearance | Philips Healthcare | 压缩感知+双AI引擎（去噪+锐化），MRI速度提升3倍、清晰度提升80%，适用全系1.5T/3.0T MRI系统。评分48。 | [链接](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-advances-mri-speed-and-precision-with-fda-510k-clearance-of-smartspeed-precise-dual-ai-software.html) |
 
 ---
 
