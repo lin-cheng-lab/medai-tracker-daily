@@ -61,6 +61,7 @@ type: tracker-moc
 | 2026-05-20 | 19 | [[2026-05-20\|查看]] | 视网膜成像多病种AI框架（Nature Medicine，n=107,730）+ FDA批准首款连续AI脓毒症监测系统（Bayesian Health，n=764,000）|
 | 2026-05-21 | 35 | [[2026-05-21\|查看]] | iHealthScreen AI糖网RCT临床试验注册（ClinicalTrials）+ NMPA批准全球首款商业化有创BCI（神念医疗NEO）+ Cognita胸片生成式AI获FDA突破性认定 |
 | 2026-05-22 | 20 | [[2026-05-22\|查看]] | LLM临床推理基准评测（NEJM AI，o3最高67.8%领先）+ 肾移植EHR-AI风险预测RCT（npj Digital Medicine，76例中性）+ 欧盟AI法案医疗器械延期至2028年 |
+| 2026-05-28 | 44 | [[2026-05-28\|查看]] | 诊因生物AI AutoVision获NMPA三类批准（1518例多中心，染色体核型辅助诊断）+ MedAgentBench：Stanford医学LLM智能体基准（300项任务，最优模型69.67%）+ FDA延长AI临床试验优化试点RFI至6月29日 |
 
 ---
 
@@ -121,6 +122,9 @@ type: tracker-moc
 | 2026-05-27 | FDA授予Gene Solutions SPOT-MAS 10多癌种液体活检突破性器械认定 / FDA Breakthrough Device Designation for SPOT-MAS 10 | Gene Solutions / FDA | 基于机器学习分析cfDNA甲基化与片段组学，10癌种辅助筛查，已在10万余人真实世界应用，获FDA突破性器械认定。评分53。 | [链接](https://www.prnewswire.com/news-releases/fda-breakthrough-device-designation-marks-major-milestone-for-gene-solutions-spot-mas-10-multi-cancer-screening-test-302783420.html) |
 | 2026-05-27 | EyeAgent：面向眼科多模态临床决策支持的智能体AI系统 / EyeAgent: Agentic AI for Ophthalmic Multi-modal Clinical Decision Support | 多所高校联合 | 首个眼科Agentic AI系统，以DeepSeek-V3为推理引擎，动态编排53种眼科工具与23种影像模态，诊断提升18.51%。评分41（眼科+5加权）。 | [链接](https://arxiv.org/abs/2511.09394) |
 | 2026-05-27 | MorphoXAI全切片图像人机协同可解释框架 / MorphoXAI: Human-AI Collaborative XAI for Whole Slide Images | Mayo Clinic | 融合专家形态学标注，提供局部+全局可解释性，揭示深度学习全切片图像分类的决策依赖，npj Digital Medicine。评分37。 | [链接](https://www.nature.com/articles/s41746-026-02741-z) |
+| 2026-05-28 | 人群特异性睡眠基因组队列研究 / Population-Specific Genetic Influences on Sleep and Health | Columbia University | All of Us计划212,529名多祖先参与者，分析昼夜节律多基因风险评分与代谢结局的跨祖先纵向关联，为精准医疗睡眠干预提供基因组证据。评分56。 | [链接](https://arxiv.org/abs/2605.23521) |
+| 2026-05-28 | MedAgentBench：Stanford医学LLM智能体基准 / MedAgentBench Benchmark for Medical LLM Agents | Stanford ML Group | 基于FHIR合规虚拟EHR环境、执业医师撰写300项临床任务，最优模型仅69.67%成功率，揭示医学AI智能体实用化关键差距。评分52。 | [链接](https://stanfordmlgroup.github.io/projects/medagentbench/) |
+| 2026-05-28 | 诊因生物AI AutoVision获NMPA三类批准 / Diagens AI AutoVision NMPA Class III Approval | 杭州诊因生物科技 / NMPA | 1518例多中心临床试验验证，染色体数值异常灵敏度和特异度均达100%，结构异常94.05%，是全球首款获三类认证的染色体核型AI辅诊软件。评分51。 | [链接](https://www.globenewswire.com/news-release/2026/05/27/3301744/0/en/World-s-First-Class-III-Approval-for-a-Breakthrough-Medical-Imaging-AI-Diagens-AI-AutoVision.html) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
