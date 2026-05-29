@@ -119,11 +119,15 @@ type: tracker-moc
 | 2026-05-24 | 哈佛/BIDMC：OpenAI o1推理模型急诊诊断超越临床医生 / OpenAI o1 Outperforms Physicians at ER Diagnosis | Harvard Medical School / BIDMC | OpenAI o1推理模型在急诊患者诊断中超越医生表现并超过早期AI模型，Fortune报道称「已触及人类天花板」，临床诊断AI里程碑。评分62。 | [链接](https://fortune.com/2026/05/04/harvard-study-ai-outdiagnose-doctors-openai-o1-preview/) |
 | 2026-05-22 | 肯尼亚新生儿LLM临床决策支持10个月真实世界评估 / Human-supervised LLM CDS in Kenya Newborn Care | Bungoma County Referral Hospital, Kenya | 低资源真实部署：人工监督LLM系统AIFYA管理550例新生儿，高采用率与强临床一致性，Frontiers in Digital Health首发。评分53。 | [链接](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1832634/full) |
 | 2026-05-27 | FDA授予Gene Solutions SPOT-MAS 10多癌种液体活检突破性器械认定 / FDA Breakthrough Device Designation for SPOT-MAS 10 | Gene Solutions / FDA | 基于机器学习分析cfDNA甲基化与片段组学，10癌种辅助筛查，已在10万余人真实世界应用，获FDA突破性器械认定。评分53。 | [链接](https://www.prnewswire.com/news-releases/fda-breakthrough-device-designation-marks-major-milestone-for-gene-solutions-spot-mas-10-multi-cancer-screening-test-302783420.html) |
+| 2026-05-29 | 胰腺癌AI筛查队列研究 / Digitally enriching pancreatic cancer screening via EHR | Mayo Clinic | 18.3万例队列验证，诊断前1年AUROC 0.837，常规血液检测与临床病史驱动的无症状筛查新路径。评分63。 | [链接](https://arxiv.org/abs/2605.30275) |
+| 2026-05-29 | 致病性胚系变异识别儿科癌症风险 / Pathogenic germline variants in pediatric cancer risk | 多机构 | Nature Medicine大规模基因组队列研究，确认儿科癌症易感基因胚系变异与肿瘤风险的循证关联。评分59。 | [链接](https://www.nature.com/articles/s41591-026-04451-1) |
+| 2026-05-29 | Diagens AI AutoVision获全球首个NMPA三类AI染色体核型注册证 / World's First NMPA Class III AI Chromosome Karyotype | 杭州迪安诊断 | 全球首个基于大模型L3级染色体核型分析AI三类医疗器械注册证，覆盖产前诊断与辅助生殖场景。评分53。 | [链接](https://www.globenewswire.com/news-release/2026/05/27/3301744/0/en/World-s-First-Class-III-Approval-for-a-Breakthrough-Medical-Imaging-AI-Diagens-AI-AutoVision.html) |
 | 2026-05-27 | EyeAgent：面向眼科多模态临床决策支持的智能体AI系统 / EyeAgent: Agentic AI for Ophthalmic Multi-modal Clinical Decision Support | 多所高校联合 | 首个眼科Agentic AI系统，以DeepSeek-V3为推理引擎，动态编排53种眼科工具与23种影像模态，诊断提升18.51%。评分41（眼科+5加权）。 | [链接](https://arxiv.org/abs/2511.09394) |
 | 2026-05-27 | MorphoXAI全切片图像人机协同可解释框架 / MorphoXAI: Human-AI Collaborative XAI for Whole Slide Images | Mayo Clinic | 融合专家形态学标注，提供局部+全局可解释性，揭示深度学习全切片图像分类的决策依赖，npj Digital Medicine。评分37。 | [链接](https://www.nature.com/articles/s41746-026-02741-z) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
+| 2026-05-29 | 27 | [[2026-05-29\|查看]] | Mayo Clinic胰腺癌18.3万例队列筛查预测（AUROC 0.837）+ Nature Medicine儿科胚系变异队列 + Diagens AI AutoVision全球首个NMPA三类染色体核型AI |
 
 ---
 
