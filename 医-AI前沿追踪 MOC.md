@@ -124,10 +124,14 @@ type: tracker-moc
 | 2026-05-29 | Diagens AI AutoVision获全球首个NMPA三类AI染色体核型注册证 / World's First NMPA Class III AI Chromosome Karyotype | 杭州迪安诊断 | 全球首个基于大模型L3级染色体核型分析AI三类医疗器械注册证，覆盖产前诊断与辅助生殖场景。评分53。 | [链接](https://www.globenewswire.com/news-release/2026/05/27/3301744/0/en/World-s-First-Class-III-Approval-for-a-Breakthrough-Medical-Imaging-AI-Diagens-AI-AutoVision.html) |
 | 2026-05-27 | EyeAgent：面向眼科多模态临床决策支持的智能体AI系统 / EyeAgent: Agentic AI for Ophthalmic Multi-modal Clinical Decision Support | 多所高校联合 | 首个眼科Agentic AI系统，以DeepSeek-V3为推理引擎，动态编排53种眼科工具与23种影像模态，诊断提升18.51%。评分41（眼科+5加权）。 | [链接](https://arxiv.org/abs/2511.09394) |
 | 2026-05-27 | MorphoXAI全切片图像人机协同可解释框架 / MorphoXAI: Human-AI Collaborative XAI for Whole Slide Images | Mayo Clinic | 融合专家形态学标注，提供局部+全局可解释性，揭示深度学习全切片图像分类的决策依赖，npj Digital Medicine。评分37。 | [链接](https://www.nature.com/articles/s41746-026-02741-z) |
+| 2026-05-30 | LLM认知层架构支持心理治疗RCT（CBT-Layer）/ A cognitive layer architecture to support LLM performance in psychotherapy | Unknown (Nature Medicine 2026) | 227名受试者双盲RCT，认知行为治疗关键能力全面优于独立LLM和人类治疗师，19,674条真实临床转录记录验证。评分73。 | [链接](https://www.nature.com/articles/s41591-026-04278-w) |
+| 2026-05-30 | PulmoFoundation：临床验证的全面肺部病理解读基础模型 / PulmoFoundation: A Clinically Validated Foundation Model for Comprehensive Pulmonary Pathology | Southern Medical University | 多中心队列验证，超越现有SOTA，首个支持多病理类型的大规模临床验证肺部基础模型。评分62。 | [链接](https://arxiv.org/abs/2605.25878) |
+| 2026-05-30 | 可解释多任务视网膜影像揭示2型糖尿病微血管风险分层先导研究（眼科×Oculomics）/ Explainable Multitask Retinal Imaging for T2DM Microvascular Risk Stratification | Shenzhen University | 2719例多中心先导研究，可解释XAI视网膜微血管特征揭示代谢疾病系统性风险分层，眼科×Oculomics。评分59（眼科加权+5）。 | [链接](https://arxiv.org/abs/2605.24913) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
 | 2026-05-29 | 27 | [[2026-05-29\|查看]] | Mayo Clinic胰腺癌18.3万例队列筛查预测（AUROC 0.837）+ Nature Medicine儿科胚系变异队列 + Diagens AI AutoVision全球首个NMPA三类染色体核型AI |
+| 2026-05-30 | 47 | [[2026-05-30\|查看]] | LLM认知层RCT超越心理治疗师（Nature Medicine）+ PulmoFoundation临床验证肺部基础模型（arXiv）+ 视网膜多疾病可解释Oculomics先导研究（眼科加权） |
 
 ---
 
