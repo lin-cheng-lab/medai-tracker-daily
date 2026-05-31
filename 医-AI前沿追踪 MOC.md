@@ -125,6 +125,9 @@ type: tracker-moc
 | 2026-05-27 | EyeAgent：面向眼科多模态临床决策支持的智能体AI系统 / EyeAgent: Agentic AI for Ophthalmic Multi-modal Clinical Decision Support | 多所高校联合 | 首个眼科Agentic AI系统，以DeepSeek-V3为推理引擎，动态编排53种眼科工具与23种影像模态，诊断提升18.51%。评分41（眼科+5加权）。 | [链接](https://arxiv.org/abs/2511.09394) |
 | 2026-05-27 | MorphoXAI全切片图像人机协同可解释框架 / MorphoXAI: Human-AI Collaborative XAI for Whole Slide Images | Mayo Clinic | 融合专家形态学标注，提供局部+全局可解释性，揭示深度学习全切片图像分类的决策依赖，npj Digital Medicine。评分37。 | [链接](https://www.nature.com/articles/s41746-026-02741-z) |
 | 2026-05-30 | LLM认知层架构支持心理治疗RCT（CBT-Layer）/ A cognitive layer architecture to support LLM performance in psychotherapy | Unknown (Nature Medicine 2026) | 227名受试者双盲RCT，认知行为治疗关键能力全面优于独立LLM和人类治疗师，19,674条真实临床转录记录验证。评分73。 | [链接](https://www.nature.com/articles/s41591-026-04278-w) |
+| 2026-05-31 | AI-TEW分层早期预警框架解决院内死亡率预测高误报率 / AI-powered tiered early warning for in-hospital mortality | Multi-center hospitals, China & US | 中美三家医院174,292次急诊就诊数据，AI-TEW两阶段框架显著降低假报警率同时保持AUROC 0.84-0.91，npj Digital Medicine。评分74。 | [链接](https://www.nature.com/articles/s41746-026-02522-8) |
+| 2026-05-31 | Diagens AI AutoVision染色体核型软件获NMPA三类注册证 / World's First NMPA Class III Foundation Model AI Medical Device | Hangzhou Diagens Biotechnology | 基于iMedImage基础模型，1518例多中心临床试验数值异常灵敏度及特异度均达100%，全球首个L3级染色体核型分析AI三类医疗器械。评分59。 | [链接](https://www.manilatimes.net/2026/05/27/tmt-newswire/globenewswire/worlds-first-class-iii-approval-for-a-breakthrough-medical-imaging-ai-diagens-ai-autovision/2352440) |
+| 2026-05-31 | AutoARDS基于CT的AI系统重症ARDS综合管理 / CT-based AI for quantitative ARDS management | Multiple medical centers, China | 常规胸部CT转化为定量平台，跨6中心6153例验证，实现ARDS诊断、进展、氧合、生理与预后的综合一站式评估，npj Digital Medicine。评分62。 | [链接](https://www.nature.com/articles/s41746-026-02648-9) |
 | 2026-05-30 | PulmoFoundation：临床验证的全面肺部病理解读基础模型 / PulmoFoundation: A Clinically Validated Foundation Model for Comprehensive Pulmonary Pathology | Southern Medical University | 多中心队列验证，超越现有SOTA，首个支持多病理类型的大规模临床验证肺部基础模型。评分62。 | [链接](https://arxiv.org/abs/2605.25878) |
 | 2026-05-30 | 可解释多任务视网膜影像揭示2型糖尿病微血管风险分层先导研究（眼科×Oculomics）/ Explainable Multitask Retinal Imaging for T2DM Microvascular Risk Stratification | Shenzhen University | 2719例多中心先导研究，可解释XAI视网膜微血管特征揭示代谢疾病系统性风险分层，眼科×Oculomics。评分59（眼科加权+5）。 | [链接](https://arxiv.org/abs/2605.24913) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
@@ -132,6 +135,7 @@ type: tracker-moc
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
 | 2026-05-29 | 27 | [[2026-05-29\|查看]] | Mayo Clinic胰腺癌18.3万例队列筛查预测（AUROC 0.837）+ Nature Medicine儿科胚系变异队列 + Diagens AI AutoVision全球首个NMPA三类染色体核型AI |
 | 2026-05-30 | 47 | [[2026-05-30\|查看]] | LLM认知层RCT超越心理治疗师（Nature Medicine）+ PulmoFoundation临床验证肺部基础模型（arXiv）+ 视网膜多疾病可解释Oculomics先导研究（眼科加权） |
+| 2026-05-31 | 19 | [[2026-05-31\|查看]] | AI-TEW分层早期预警框架降低院内死亡误报（npj Digital Medicine，n=174,292）+ Diagens NMPA三类全球首个基础模型AI医疗器械 + 飞利浦双AI MRI软件FDA 510k清关 |
 
 ---
 
