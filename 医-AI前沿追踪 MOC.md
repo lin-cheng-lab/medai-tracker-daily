@@ -136,6 +136,7 @@ type: tracker-moc
 | 2026-05-29 | 27 | [[2026-05-29\|查看]] | Mayo Clinic胰腺癌18.3万例队列筛查预测（AUROC 0.837）+ Nature Medicine儿科胚系变异队列 + Diagens AI AutoVision全球首个NMPA三类染色体核型AI |
 | 2026-05-30 | 47 | [[2026-05-30\|查看]] | LLM认知层RCT超越心理治疗师（Nature Medicine）+ PulmoFoundation临床验证肺部基础模型（arXiv）+ 视网膜多疾病可解释Oculomics先导研究（眼科加权） |
 | 2026-05-31 | 19 | [[2026-05-31\|查看]] | AI-TEW分层早期预警框架降低院内死亡误报（npj Digital Medicine，n=174,292）+ Diagens NMPA三类全球首个基础模型AI医疗器械 + 飞利浦双AI MRI软件FDA 510k清关 |
+| 2026-06-01 | 35 | [[2026-06-01\|查看]] | TARGET-AI：Yale/NEJM AI 15.9万人队列EHR+AI心电图靶向筛查26种心脏病（AUROC 0.90）+ 眼科ReasonAgent真实世界临床验证 + 神络医疗NEO BCI全球首款侵入式脑机接口NMPA批准 |
 
 ---
 
