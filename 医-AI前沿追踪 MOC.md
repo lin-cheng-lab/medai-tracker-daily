@@ -137,6 +137,7 @@ type: tracker-moc
 | 2026-05-30 | 47 | [[2026-05-30\|查看]] | LLM认知层RCT超越心理治疗师（Nature Medicine）+ PulmoFoundation临床验证肺部基础模型（arXiv）+ 视网膜多疾病可解释Oculomics先导研究（眼科加权） |
 | 2026-05-31 | 19 | [[2026-05-31\|查看]] | AI-TEW分层早期预警框架降低院内死亡误报（npj Digital Medicine，n=174,292）+ Diagens NMPA三类全球首个基础模型AI医疗器械 + 飞利浦双AI MRI软件FDA 510k清关 |
 | 2026-06-01 | 35 | [[2026-06-01\|查看]] | TARGET-AI：Yale/NEJM AI 15.9万人队列EHR+AI心电图靶向筛查26种心脏病（AUROC 0.90）+ 眼科ReasonAgent真实世界临床验证 + 神络医疗NEO BCI全球首款侵入式脑机接口NMPA批准 |
+| 2026-06-02 | 60 | [[2026-06-02\|查看]] | ADLIFE数字工具箱RCT：npj Digital Medicine慢病数字干预 + Clarius EF AI 获FDA 510(k)批准 + EMA突破性器械试点启动 + PathAI AIM-MASH首款FDA认定AI药物研发工具 |
 
 ---
 
