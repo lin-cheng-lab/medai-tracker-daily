@@ -130,6 +130,9 @@ type: tracker-moc
 | 2026-05-31 | AutoARDS基于CT的AI系统重症ARDS综合管理 / CT-based AI for quantitative ARDS management | Multiple medical centers, China | 常规胸部CT转化为定量平台，跨6中心6153例验证，实现ARDS诊断、进展、氧合、生理与预后的综合一站式评估，npj Digital Medicine。评分62。 | [链接](https://www.nature.com/articles/s41746-026-02648-9) |
 | 2026-05-30 | PulmoFoundation：临床验证的全面肺部病理解读基础模型 / PulmoFoundation: A Clinically Validated Foundation Model for Comprehensive Pulmonary Pathology | Southern Medical University | 多中心队列验证，超越现有SOTA，首个支持多病理类型的大规模临床验证肺部基础模型。评分62。 | [链接](https://arxiv.org/abs/2605.25878) |
 | 2026-05-30 | 可解释多任务视网膜影像揭示2型糖尿病微血管风险分层先导研究（眼科×Oculomics）/ Explainable Multitask Retinal Imaging for T2DM Microvascular Risk Stratification | Shenzhen University | 2719例多中心先导研究，可解释XAI视网膜微血管特征揭示代谢疾病系统性风险分层，眼科×Oculomics。评分59（眼科加权+5）。 | [链接](https://arxiv.org/abs/2605.24913) |
+| 2026-06-03 | MedAgentBench v2：改进FHIR EHR环境下医疗LLM智能体设计 / MedAgentBench v2: Improving Medical LLM Agent Design in FHIR EHR Environments | MIT / Stanford | NEJM AI/PSB 2026发表，GPT-4.1+记忆模块达98%成功率，涵盖21科室100项EHR工作流任务，医疗Agent基准标杆。评分60。 | [链接](https://arxiv.org/abs/2501.14654) |
+| 2026-06-03 | 肝癌数字病理量化资源：数据集、基准与工具 / A Digital Pathology Resource for Liver Cancer Quantification | Harvard Medical School | 开源肝癌数字病理分析资源，含配套数据集、性能基准与分析工具，推动病理组学可重复研究，arXiv。评分43。 | [链接](https://arxiv.org/abs/2604.22858) |
+| 2026-06-03 | FDA医疗器械网络安全最终指南（2026年2月）/ FDA Final Cybersecurity Guidance for AI Medical Devices | U.S. FDA | 要求所有AI医疗器械提交SBOM、漏洞管理计划及安全开发证明，强化上市前网络安全审查，监管里程碑。评分42。 | [链接](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -138,6 +141,7 @@ type: tracker-moc
 | 2026-05-31 | 19 | [[2026-05-31\|查看]] | AI-TEW分层早期预警框架降低院内死亡误报（npj Digital Medicine，n=174,292）+ Diagens NMPA三类全球首个基础模型AI医疗器械 + 飞利浦双AI MRI软件FDA 510k清关 |
 | 2026-06-01 | 35 | [[2026-06-01\|查看]] | TARGET-AI：Yale/NEJM AI 15.9万人队列EHR+AI心电图靶向筛查26种心脏病（AUROC 0.90）+ 眼科ReasonAgent真实世界临床验证 + 神络医疗NEO BCI全球首款侵入式脑机接口NMPA批准 |
 | 2026-06-02 | 60 | [[2026-06-02\|查看]] | ADLIFE数字工具箱RCT：npj Digital Medicine慢病数字干预 + Clarius EF AI 获FDA 510(k)批准 + EMA突破性器械试点启动 + PathAI AIM-MASH首款FDA认定AI药物研发工具 |
+| 2026-06-03 | 33 | [[2026-06-03\|查看]] | MedAgentBench v2（MIT/Stanford，NEJM AI，评分60）：FHIR EHR医疗Agent基准更新 + FDA AI医疗器械网络安全最终指南 + 视网膜植入强化学习视觉恢复（眼科×Agent加权） |
 
 ---
 
