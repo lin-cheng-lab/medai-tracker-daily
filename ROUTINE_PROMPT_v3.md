@@ -342,12 +342,43 @@ for i, e in enumerate(selected):
 
 ## 第六步：写入日报
 
-frontmatter 字段同 v2，但 entries 多了：
-- `venue`, `study_type`, `n_patients`, `is_review`
-- `top_score`（仅 Top 8 有）
-- `top_breakdown`（仅 Top 8 有，便于排错）
+> 🔴 **frontmatter 铁律（违反则主题 MOC 的 dataview 全线失效——2026-06 已踩坑 18/28 份查不到）**：
+> 必须含 dataview 三个**死字段**：`type: medai-tracker` + `date` + `entries` 数组。
+> **绝不允许**把 `type` 改名成 `generated_by`（要保留 generated_by 可两者都留，但 `type: medai-tracker` 一行不能少）；
+> **绝不允许**省略 `entries` 数组（哪怕正文表格已有同样内容，frontmatter 也必须原样登记一份——正文给人看，entries 给 dataview 机器人看）。
 
-正文表格的「Top 8」展示得加一列「评分」：
+frontmatter 完整模板（照抄结构，按实际填值；entries 条数必须 == total_entries）：
+
+```yaml
+---
+type: medai-tracker                  # ★死字段：dataview WHERE type 依赖，不可改名/省略
+date: "${TARGET_DATE}"               # ★死字段：带引号
+generated_by: "medai-tracker-daily v3"
+total_entries: <N>
+top8_scores: [<8个分数降序>]
+theme_distribution: {<theme: count>}
+clusters_covered: 6
+entries:                             # ★死字段：dataview FLATTEN entries 依赖，每条对应正文一行
+  - title_zh: "..."
+    title_en: "..."
+    inst: "一作首位机构"
+    summary: "一句话 30-60 字"
+    rel: "🟢"
+    themes: [<从22词典选，眼科双tag>]
+    cluster: <1-6>
+    link: "https://..."
+    venue: "..."
+    study_type: "..."
+    n_patients: <数字或null>
+    is_review: false
+    is_top: <true/false>
+    top_rank: <仅Top有>
+    top_score: <仅Top有>
+  # ... 去重后每一条都要在 entries 里登记
+---
+```
+
+正文表格的「Top 8」展示加一列「评分」：
 
 ```markdown
 ## ⭐ 今日 Top 8（按 100 分评分降序）
@@ -356,6 +387,13 @@ frontmatter 字段同 v2，但 entries 多了：
 |:---:|:---:|---|---|---|---|:---:|---|
 | 1 | 86 | ... | ... | ... | ... | C3 | [↗] |
 ```
+
+### 第六步收尾自检（★防 frontmatter 飘掉，写完必跑）
+写完日报后，立即回读自己产出的 frontmatter，逐项确认：
+1. `type: medai-tracker` 在不在？（不在 → 加）
+2. `entries:` 数组在不在、条数 == total_entries？（缺/不符 → 补全）
+3. `date` 带引号在不在？
+三项缺任一 → **当场修好再 commit**，绝不产出缺字段的日报。
 
 ## 第七步：更新 MOC（同 v2）
 
