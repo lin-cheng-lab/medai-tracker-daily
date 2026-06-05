@@ -134,6 +134,9 @@ type: tracker-moc
 | 2026-06-03 | 肝癌数字病理量化资源：数据集、基准与工具 / A Digital Pathology Resource for Liver Cancer Quantification | Harvard Medical School | 开源肝癌数字病理分析资源，含配套数据集、性能基准与分析工具，推动病理组学可重复研究，arXiv。评分43。 | [链接](https://arxiv.org/abs/2604.22858) |
 | 2026-06-03 | FDA医疗器械网络安全最终指南（2026年2月）/ FDA Final Cybersecurity Guidance for AI Medical Devices | U.S. FDA | 要求所有AI医疗器械提交SBOM、漏洞管理计划及安全开发证明，强化上市前网络安全审查，监管里程碑。评分42。 | [链接](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-management-system-considerations-and-content-premarket) |
 | 2026-06-04 | CarDIA-AI RCT：AI辅助CCTA分流减少不必要冠状动脉造影 / CarDIA-AI RCT: CCTA + AI to Reduce Invasive Angiography | 加拿大双中心心脏病研究团队 | 加拿大双中心252例RCT，AI梯度提升模型预测冠状动脉阻塞性病变，以CCTA替代有创造影分流低风险患者，2026年预期发表结果。评分67。 | [链接](https://pmc.ncbi.nlm.nih.gov/articles/PMC12138305/) |
+| 2026-06-05 | 产时胎心监护判读人机协作随机研究 / Randomised study of human machine collaboration for cardiotocography interpretation during labour | Institut Curie | 211名临床医生前瞻性随机多读者研究，AI辅助将新生儿酸血症预测成功率从54.0%提升至61.4%，npj Digital Medicine，评分74。 | [链接](https://www.nature.com/articles/s41746-026-02556-y) |
+| 2026-06-05 | 审议式多智能体LLM提升眼科临床推理能力 / Deliberative Multi-Agent LLMs Improve Clinical Reasoning in Ophthalmology | McGill University | 四模型审议委员会100例眼科临床情景，旗舰级多智能体准确率达95.0%，优于所有单模型基线，ML4H 2026，评分60（眼科+5加权）。 | [链接](https://arxiv.org/abs/2603.21447) |
+| 2026-06-05 | 飞利浦SmartSpeed Precise双AI MRI软件获FDA 510(k)批准 / Philips SmartSpeed Precise Dual AI MRI Software FDA Clearance | Royal Philips | 整合压缩感知加速、AI去噪与AI图像锐化三引擎获FDA批准，适用全系1.5T/3.0T MRI，图像清晰度提升80%，评分48。 | [链接](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-advances-mri-speed-and-precision-with-fda-510k-clearance-of-smartspeed-precise-dual-ai-software.html) |
 | 2026-06-04 | 隐私保护联邦学习用于多中心脓毒症早期预测 / Federated Learning for Multi-Center Sepsis Early Prediction | China (tertiary hospitals) | 三家三甲医院648例脓毒症样本系统评估联邦学习，数据隐私保护同时提升跨中心预测性能。评分60。 | [链接](https://arxiv.org/abs/2606.04338) |
 | 2026-06-04 | 可穿戴心电图年龄与心房颤动关联（npj Digital Medicine）/ Wearable ECG Age and Atrial Fibrillation | Korea University | PROPHECG-Age Single模型从可穿戴单导联心电图估算心电年龄，两独立穿戴队列验证心电年龄差与房颤显著相关，npj Digital Medicine。评分56。 | [链接](https://www.nature.com/articles/s41746-026-02344-8) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
@@ -146,6 +149,7 @@ type: tracker-moc
 | 2026-06-02 | 60 | [[2026-06-02\|查看]] | ADLIFE数字工具箱RCT：npj Digital Medicine慢病数字干预 + Clarius EF AI 获FDA 510(k)批准 + EMA突破性器械试点启动 + PathAI AIM-MASH首款FDA认定AI药物研发工具 |
 | 2026-06-03 | 33 | [[2026-06-03\|查看]] | MedAgentBench v2（MIT/Stanford，NEJM AI，评分60）：FHIR EHR医疗Agent基准更新 + FDA AI医疗器械网络安全最终指南 + 视网膜植入强化学习视觉恢复（眼科×Agent加权） |
 | 2026-06-04 | 35 | [[2026-06-04\|查看]] | CarDIA-AI RCT（加拿大双中心，评分67）：AI辅助CCTA分流减少不必要冠状动脉造影 + 联邦学习多中心脓毒症早期预测 + FDA/CMS RAPID路径突破性AI器械最快2月纳入医保 |
+| 2026-06-05 | 32 | [[2026-06-05\|查看]] | 产时胎心监护人机协作RCT（npj Digital Medicine，n=211，评分74）+ 眼科多智能体审议委员会准确率95%（ML4H，评分60）+ 飞利浦SmartSpeed Precise双AI MRI获FDA 510(k)（评分48） |
 
 ---
 
