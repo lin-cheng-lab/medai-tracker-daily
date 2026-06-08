@@ -154,6 +154,7 @@ type: tracker-moc
 | 2026-06-04 | 35 | [[2026-06-04\|查看]] | CarDIA-AI RCT（加拿大双中心，评分67）：AI辅助CCTA分流减少不必要冠状动脉造影 + 联邦学习多中心脓毒症早期预测 + FDA/CMS RAPID路径突破性AI器械最快2月纳入医保 |
 | 2026-06-05 | 32 | [[2026-06-05\|查看]] | 产时胎心监护人机协作RCT（npj Digital Medicine，n=211，评分74）+ 眼科多智能体审议委员会准确率95%（ML4H，评分60）+ 飞利浦SmartSpeed Precise双AI MRI获FDA 510(k)（评分48） |
 | 2026-06-06 | 27 | [[2026-06-06\|查看]] | MCG2Vec自监督心磁图AI（npj Digital Medicine，n=1732，评分62）+ AIDD痴呆影像鉴别系统（Neurology，n=387，评分60）+ FDA批准ArteraAI首款乳腺癌AI病理风险分层工具（评分58） |
+| 2026-06-07 | 27 | [[2026-06-07\|查看]] | 飞利浦Verida获FDA 510(k)批准：全球首款AI驱动光谱CT系统（评分58）+ EyeDiff眼科生成式基础模型（npj Digital Medicine，评分45）+ Global RETFound Beta首个全球代表性视网膜FM（ARVO 2026，评分48） |
 
 ---
 
@@ -172,6 +173,9 @@ type: tracker-moc
 | 月份 | 时间窗 | entries | 月精选 |
 |:---:|---|:---:|---|
 | 2026-05 | 2026-05-01 ~ 2026-05-31 | 784 | [[月精选/2026-05\|查看]] |
+| 2026-06-07 | 飞利浦Verida光谱CT获FDA 510(k)批准 / Philips Verida AI-Powered Spectral CT FDA Clearance | Royal Philips | 全球首款AI驱动第三代纳米面板双层探测器光谱CT系统获FDA 510(k)许可，实现常规扫描即全光谱成像，适用放射/心脏/肿瘤科，监管里程碑，评分58。 | [链接](https://www.usa.philips.com/a-w/about/news/archive/standard/news/press/2026/philips-receives-fda-510k-clearance-for-verida-the-worlds-first-ai-powered-detector-based-spectral-ct-advancing-diagnostic-precision-across-clinical-applications.html) |
+| 2026-06-07 | Global RETFound Beta：首个全球代表性视网膜基础模型 / Global RETFound Beta: First Globally Representative Retinal Foundation Model | Moorfields Eye Hospital / UCL | 203个合作伙伴、74个国家逾1亿张眼底照片训练，超越现有模型在眼科/系统性疾病检测、生物标志物提取和年龄预测，ARVO 2026发布，评分48（眼科+5加权）。 | [链接](https://www.ophthalmologytimes.com/view/arvo-2026-global-retfound-study) |
+| 2026-06-07 | EyeDiff：文本驱动眼科影像生成式基础模型 / EyeDiff: Generative Foundation Model for Ophthalmic Image Synthesis | HK Polytechnic University | 提出EyeDiff，基于文本描述合成保留病灶的多模态眼科影像（42,048张/8数据集），通过少数类增强显著提升罕见眼病诊断准确率，npj Digital Medicine，评分45（眼科+5加权）。 | [链接](https://www.nature.com/articles/s41746-026-02560-2) |
 
 ---
 
