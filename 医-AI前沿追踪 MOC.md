@@ -141,6 +141,9 @@ type: tracker-moc
 | 2026-06-08 | AI素养纵向中介医学生批判性思维与AI辅助诊断参与关系 / AI literacy mediates AI assisted diagnosis participation and critical thinking | 多机构（中国医学院校） | 372名医学生12个月纵向随访，AI辅助诊断参与度越高，AI素养与批判性思维显著提升，AI素养起完全中介作用，npj Digital Medicine。评分63。 | [链接](https://www.nature.com/articles/s41746-026-02521-9) |
 | 2026-06-08 | RSC Bay Area全美首家落地FDA批准AI胚胎评估工具（Embryo Predict） / First U.S. Clinic to Deploy FDA-Cleared AI Embryo Assessment | RSC Bay Area / Alife Health | 全美首家将FDA批准AI胚胎评估工具投入IVF常规临床实践的诊所，标志AI辅助胚胎选择正式进入临床。评分48。 | [链接](https://www.prnewswire.com/news-releases/rsc-bay-area-is-first-in-the-nation-to-deploy-fda-cleared-ai-for-embryo-assessment-by-alife-health-pioneering-a-new-standard-in-ivf-care-302787801.html) |
 | 2026-06-08 | 新模型旧风险：GPT-5中的人口统计学偏差与对抗性幻觉脆弱性 / New model, old risks: sociodemographic bias and adversarial hallucinations in GPT-5 | Tel Aviv University, Israel | 重新评估GPT-5在500例急诊科病例中跨32个社会人口学标签的决策偏差，对抗性幻觉率反而高于GPT-4o（65% vs 53%），npj Digital Medicine。评分44。 | [链接](https://www.nature.com/articles/s41746-026-02584-8) |
+| 2026-06-09 | 宫颈细胞病理深度学习辅助阅片多中心随机交叉试验 / Deep learning-assisted vs manual reading in cervical cytopathology RCT | npj Digital Medicine | 1920例液基细胞学RCT，DL辅助显著提升非专家病理医师敏感性（85.7% vs 71.3%，p<0.001），超越5%优效性边界。评分76。 | [链接](https://www.nature.com/articles/s41746-026-02703-5) |
+| 2026-06-09 | CarDIA-AI：AI优化冠心病CTA分诊减少不必要有创造影RCT / CarDIA-AI: CCTA + AI to Reduce Invasive Angiography | 加拿大双中心心脏病团队 | 252例择期冠状动脉造影患者1:1随机分组，AI梯度提升模型（42项预测因子）辅助CCTA分流，2026年预计发表最终结果。评分62。 | [链接](https://clinicaltrials.gov/study/NCT06648239) |
+| 2026-06-09 | TytoCare获FDA De Novo首款AI鼓膜鼓胀分析软件 / TytoCare FDA De Novo: First AI-Powered Eardrum Analysis | TytoCare / FDA | 基于160万张耳部图像训练，AI自动检测急性中耳炎鼓膜鼓胀，通过De Novo建立新ENT图像分析监管分类，适用6月龄以上患者。评分53。 | [链接](https://www.tytocare.com/news-and-press/tytocare-secures-fda-de-novo-for-first-ai-powered-eardrum-analysis/) |
 | 2026-06-05 | 审议式多智能体LLM提升眼科临床推理能力 / Deliberative Multi-Agent LLMs Improve Clinical Reasoning in Ophthalmology | McGill University | 四模型审议委员会100例眼科临床情景，旗舰级多智能体准确率达95.0%，优于所有单模型基线，ML4H 2026，评分60（眼科+5加权）。 | [链接](https://arxiv.org/abs/2603.21447) |
 | 2026-06-05 | 飞利浦SmartSpeed Precise双AI MRI软件获FDA 510(k)批准 / Philips SmartSpeed Precise Dual AI MRI Software FDA Clearance | Royal Philips | 整合压缩感知加速、AI去噪与AI图像锐化三引擎获FDA批准，适用全系1.5T/3.0T MRI，图像清晰度提升80%，评分48。 | [链接](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-advances-mri-speed-and-precision-with-fda-510k-clearance-of-smartspeed-precise-dual-ai-software.html) |
 | 2026-06-04 | 隐私保护联邦学习用于多中心脓毒症早期预测 / Federated Learning for Multi-Center Sepsis Early Prediction | China (tertiary hospitals) | 三家三甲医院648例脓毒症样本系统评估联邦学习，数据隐私保护同时提升跨中心预测性能。评分60。 | [链接](https://arxiv.org/abs/2606.04338) |
@@ -159,6 +162,7 @@ type: tracker-moc
 | 2026-06-06 | 27 | [[2026-06-06\|查看]] | MCG2Vec自监督心磁图AI（npj Digital Medicine，n=1732，评分62）+ AIDD痴呆影像鉴别系统（Neurology，n=387，评分60）+ FDA批准ArteraAI首款乳腺癌AI病理风险分层工具（评分58） |
 | 2026-06-07 | 27 | [[2026-06-07\|查看]] | 飞利浦Verida获FDA 510(k)批准：全球首款AI驱动光谱CT系统（评分58）+ EyeDiff眼科生成式基础模型（npj Digital Medicine，评分45）+ Global RETFound Beta首个全球代表性视网膜FM（ARVO 2026，评分48） |
 | 2026-06-08 | 22 | [[2026-06-08\|查看]] | AI素养纵向中介医学生批判性思维（npj Digital Medicine，n=372，评分63）+ RSC Bay Area全美首家落地FDA批准AI胚胎评估（评分48）+ GPT-5人口统计学偏差幻觉评测（npj Digital Medicine，评分44） |
+| 2026-06-09 | 35 | [[2026-06-09\|查看]] | 宫颈细胞病理DL辅助多中心RCT（npj Digital Medicine，n=1920，评分76）+ CarDIA-AI冠心病CTA分诊RCT（n=252，评分62）+ TytoCare获FDA De Novo首款AI鼓膜分析软件（评分53） |
 
 ---
 
