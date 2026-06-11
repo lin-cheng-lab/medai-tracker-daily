@@ -148,6 +148,9 @@ type: tracker-moc
 | 2026-06-05 | 飞利浦SmartSpeed Precise双AI MRI软件获FDA 510(k)批准 / Philips SmartSpeed Precise Dual AI MRI Software FDA Clearance | Royal Philips | 整合压缩感知加速、AI去噪与AI图像锐化三引擎获FDA批准，适用全系1.5T/3.0T MRI，图像清晰度提升80%，评分48。 | [链接](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-advances-mri-speed-and-precision-with-fda-510k-clearance-of-smartspeed-precise-dual-ai-software.html) |
 | 2026-06-04 | 隐私保护联邦学习用于多中心脓毒症早期预测 / Federated Learning for Multi-Center Sepsis Early Prediction | China (tertiary hospitals) | 三家三甲医院648例脓毒症样本系统评估联邦学习，数据隐私保护同时提升跨中心预测性能。评分60。 | [链接](https://arxiv.org/abs/2606.04338) |
 | 2026-06-04 | 可穿戴心电图年龄与心房颤动关联（npj Digital Medicine）/ Wearable ECG Age and Atrial Fibrillation | Korea University | PROPHECG-Age Single模型从可穿戴单导联心电图估算心电年龄，两独立穿戴队列验证心电年龄差与房颤显著相关，npj Digital Medicine。评分56。 | [链接](https://www.nature.com/articles/s41746-026-02344-8) |
+| 2026-06-11 | 多中心骨髓涂片深度学习AML患者级诊断 / Patient-Level AML Diagnosis via Bone Marrow Smear Deep Learning | Unknown (multi-center China) | 六中心258例AML患者骨髓涂片，提出细胞→患者级深度学习诊断流水线，引入CBLC专家定义类别，开创多中心AML智能辅助诊断新范式，arXiv。评分60。 | [链接](https://arxiv.org/abs/2606.10735) |
+| 2026-06-11 | Harvard EHR谱嵌入知识迁移 / Spectral EHR Embedding with Robust Knowledge Transfer | Harvard University | 针对罕见病小样本EHR无监督表示学习，两阶段谱嵌入融合广泛人群知识矩阵，放宽一对一信号对齐假设，在多发性硬化症CLIMB数据集验证，arXiv。评分53。 | [链接](https://arxiv.org/abs/2606.11570) |
+| 2026-06-11 | AI辅助腹腔镜胆囊切除术安全性RCT / AI-Assisted Laparoscopic Cholecystectomy Safety RCT | University Health Network, Toronto | NCT07186803 RCT评估AI在腹腔镜胆囊切除术中实时安全性辅助效果，2026年6月30日完成，ClinicalTrials.gov注册，外科AI高质量循证证据。评分50。 | [链接](https://clinicaltrials.gov/study/NCT07186803) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -163,6 +166,7 @@ type: tracker-moc
 | 2026-06-07 | 27 | [[2026-06-07\|查看]] | 飞利浦Verida获FDA 510(k)批准：全球首款AI驱动光谱CT系统（评分58）+ EyeDiff眼科生成式基础模型（npj Digital Medicine，评分45）+ Global RETFound Beta首个全球代表性视网膜FM（ARVO 2026，评分48） |
 | 2026-06-08 | 22 | [[2026-06-08\|查看]] | AI素养纵向中介医学生批判性思维（npj Digital Medicine，n=372，评分63）+ RSC Bay Area全美首家落地FDA批准AI胚胎评估（评分48）+ GPT-5人口统计学偏差幻觉评测（npj Digital Medicine，评分44） |
 | 2026-06-09 | 35 | [[2026-06-09\|查看]] | 宫颈细胞病理DL辅助多中心RCT（npj Digital Medicine，n=1920，评分76）+ CarDIA-AI冠心病CTA分诊RCT（n=252，评分62）+ TytoCare获FDA De Novo首款AI鼓膜分析软件（评分53） |
+| 2026-06-11 | 40 | [[2026-06-11\|查看]] | 多中心骨髓涂片AML深度学习患者级诊断（arXiv，258例，评分60）+ Harvard EHR谱嵌入知识迁移（MS队列，评分53）+ AI辅助腹腔镜手术安全性RCT（NCT07186803，多伦多大学，评分50）|
 
 ---
 
