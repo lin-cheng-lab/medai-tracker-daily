@@ -167,6 +167,7 @@ type: tracker-moc
 | 2026-06-08 | 22 | [[2026-06-08\|查看]] | AI素养纵向中介医学生批判性思维（npj Digital Medicine，n=372，评分63）+ RSC Bay Area全美首家落地FDA批准AI胚胎评估（评分48）+ GPT-5人口统计学偏差幻觉评测（npj Digital Medicine，评分44） |
 | 2026-06-09 | 35 | [[2026-06-09\|查看]] | 宫颈细胞病理DL辅助多中心RCT（npj Digital Medicine，n=1920，评分76）+ CarDIA-AI冠心病CTA分诊RCT（n=252，评分62）+ TytoCare获FDA De Novo首款AI鼓膜分析软件（评分53） |
 | 2026-06-11 | 40 | [[2026-06-11\|查看]] | 多中心骨髓涂片AML深度学习患者级诊断（arXiv，258例，评分60）+ Harvard EHR谱嵌入知识迁移（MS队列，评分53）+ AI辅助腹腔镜手术安全性RCT（NCT07186803，多伦多大学，评分50）|
+| 2026-06-12 | 25 | [[2026-06-12\|查看]] | AZtrauma X光AI套件获第三次FDA批准（骨折/积液/脱位三适应症，258,373张X光验证，评分55）+ SubtleHD(CT) CT影像AI增强获FDA批准（评分48）+ MMBU Stanford最大规模生物医学VLM基准35种子模态（评分41）|
 
 ---
 
