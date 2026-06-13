@@ -149,6 +149,9 @@ type: tracker-moc
 | 2026-06-04 | 隐私保护联邦学习用于多中心脓毒症早期预测 / Federated Learning for Multi-Center Sepsis Early Prediction | China (tertiary hospitals) | 三家三甲医院648例脓毒症样本系统评估联邦学习，数据隐私保护同时提升跨中心预测性能。评分60。 | [链接](https://arxiv.org/abs/2606.04338) |
 | 2026-06-04 | 可穿戴心电图年龄与心房颤动关联（npj Digital Medicine）/ Wearable ECG Age and Atrial Fibrillation | Korea University | PROPHECG-Age Single模型从可穿戴单导联心电图估算心电年龄，两独立穿戴队列验证心电年龄差与房颤显著相关，npj Digital Medicine。评分56。 | [链接](https://www.nature.com/articles/s41746-026-02344-8) |
 | 2026-06-11 | 多中心骨髓涂片深度学习AML患者级诊断 / Patient-Level AML Diagnosis via Bone Marrow Smear Deep Learning | Unknown (multi-center China) | 六中心258例AML患者骨髓涂片，提出细胞→患者级深度学习诊断流水线，引入CBLC专家定义类别，开创多中心AML智能辅助诊断新范式，arXiv。评分60。 | [链接](https://arxiv.org/abs/2606.10735) |
+| 2026-06-13 | 通用LLM全面超越专用临床AI工具 / General-purpose LLMs Outperform Specialized Clinical AI on Medical Benchmarks | NYU Langone Health | GPT-5.2/Gemini 3.1/Claude Opus 4.6在MedQA/HealthBench三项评测中全面超越OpenEvidence/UpToDate Expert AI等专用临床产品，12名临床医生盲评同样更偏好通用模型，Nature Medicine，评分55。 | [链接](https://www.nature.com/articles/s41591-026-04431-5) |
+| 2026-06-13 | Aidoc CARE基础模型AI获FDA 510(k)清准：14种急症CT综合分诊 / Aidoc Foundation Model AI FDA Clearance for 14 Acute CT Conditions | Aidoc | 首个单一基础模型多适应症FDA清准，覆盖14种急性CT病症（新增11项），平均灵敏度97%/特异性98%，通过aiOS企业平台部署，是医疗AI落地里程碑，评分53。 | [链接](https://www.prnewswire.com/il/news-releases/aidoc-secures-fda-clearance-for-healthcares-first-comprehensive-foundation-model-ai-302666640.html) |
+| 2026-06-13 | Perimeter Medical Claire获FDA PMA：首个术中乳腺癌切缘AI成像器械 / Perimeter Medical AI Claire FDA PMA for Intraoperative Breast Cancer Margin | Perimeter Medical Imaging AI | 宽视野OCT+AI融合的Claire获FDA PMA批准，美国首个用于保乳手术术中切缘实时评估AI器械，分辨率超超声/X光10倍，切缘准确率88.1%，获突破性器械资质，评分53。 | [链接](https://www.prnewswire.com/news-releases/perimeter-medical-imaging-ais-claire-becomes-first-fda-approved-ai-enabled-imaging-device-for-breast-cancer-surgery-302703103.html) |
 | 2026-06-11 | Harvard EHR谱嵌入知识迁移 / Spectral EHR Embedding with Robust Knowledge Transfer | Harvard University | 针对罕见病小样本EHR无监督表示学习，两阶段谱嵌入融合广泛人群知识矩阵，放宽一对一信号对齐假设，在多发性硬化症CLIMB数据集验证，arXiv。评分53。 | [链接](https://arxiv.org/abs/2606.11570) |
 | 2026-06-11 | AI辅助腹腔镜胆囊切除术安全性RCT / AI-Assisted Laparoscopic Cholecystectomy Safety RCT | University Health Network, Toronto | NCT07186803 RCT评估AI在腹腔镜胆囊切除术中实时安全性辅助效果，2026年6月30日完成，ClinicalTrials.gov注册，外科AI高质量循证证据。评分50。 | [链接](https://clinicaltrials.gov/study/NCT07186803) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
@@ -167,6 +170,7 @@ type: tracker-moc
 | 2026-06-08 | 22 | [[2026-06-08\|查看]] | AI素养纵向中介医学生批判性思维（npj Digital Medicine，n=372，评分63）+ RSC Bay Area全美首家落地FDA批准AI胚胎评估（评分48）+ GPT-5人口统计学偏差幻觉评测（npj Digital Medicine，评分44） |
 | 2026-06-09 | 35 | [[2026-06-09\|查看]] | 宫颈细胞病理DL辅助多中心RCT（npj Digital Medicine，n=1920，评分76）+ CarDIA-AI冠心病CTA分诊RCT（n=252，评分62）+ TytoCare获FDA De Novo首款AI鼓膜分析软件（评分53） |
 | 2026-06-11 | 40 | [[2026-06-11\|查看]] | 多中心骨髓涂片AML深度学习患者级诊断（arXiv，258例，评分60）+ Harvard EHR谱嵌入知识迁移（MS队列，评分53）+ AI辅助腹腔镜手术安全性RCT（NCT07186803，多伦多大学，评分50）|
+| 2026-06-13 | 30 | [[2026-06-13\|查看]] | 通用LLM全面超越专用临床AI工具（Nature Medicine，MedQA/HealthBench三项评测，评分55）+ Aidoc基础模型AI获FDA清准14种急症CT分诊（评分53）+ Perimeter Claire乳腺癌术中切缘AI获FDA PMA（评分53） |
 
 ---
 
