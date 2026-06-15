@@ -175,6 +175,7 @@ type: tracker-moc
 | 2026-06-11 | 40 | [[2026-06-11\|查看]] | 多中心骨髓涂片AML深度学习患者级诊断（arXiv，258例，评分60）+ Harvard EHR谱嵌入知识迁移（MS队列，评分53）+ AI辅助腹腔镜手术安全性RCT（NCT07186803，多伦多大学，评分50）|
 | 2026-06-13 | 30 | [[2026-06-13\|查看]] | 通用LLM全面超越专用临床AI工具（Nature Medicine，MedQA/HealthBench三项评测，评分55）+ Aidoc基础模型AI获FDA清准14种急症CT分诊（评分53）+ Perimeter Claire乳腺癌术中切缘AI获FDA PMA（评分53） |
 | 2026-06-14 | 33 | [[2026-06-14\|查看]] | ProViCNet前列腺癌MRI基础模型（Stanford，npj Digital Medicine，n=4401，评分75）+ 脑膜瘤H&E深度学习分子分类（Mayo Clinic，Lancet DH，评分64）+ MBD-Check术前出血障碍XAI工具前瞻验证（Lancet DH，评分63）|
+| 2026-06-15 | 26 | [[2026-06-15\|查看]] | Coredio/PathAI/RecovryAI三款AI器械同日获FDA突破性认定（评分55）+ SegAnyPET全身PET通用分割FM（复旦，评分50）+ OpenAI o1急诊超越住院医生（Science，Harvard，评分45）|
 
 ---
 
@@ -196,6 +197,9 @@ type: tracker-moc
 |:---:|---|:---:|---|
 | 2026-05 | 2026-05-01 ~ 2026-05-31 | 784 | [[月精选/2026-05\|查看]] |
 | 2026-06-07 | 飞利浦Verida光谱CT获FDA 510(k)批准 / Philips Verida AI-Powered Spectral CT FDA Clearance | Royal Philips | 全球首款AI驱动第三代纳米面板双层探测器光谱CT系统获FDA 510(k)许可，实现常规扫描即全光谱成像，适用放射/心脏/肿瘤科，监管里程碑，评分58。 | [链接](https://www.usa.philips.com/a-w/about/news/archive/standard/news/press/2026/philips-receives-fda-510k-clearance-for-verida-the-worlds-first-ai-powered-detector-based-spectral-ct-advancing-diagnostic-precision-across-clinical-applications.html) |
+| 2026-06-15 | Coredio心衰AI平台获FDA突破性认定（数字孪生+ML） / Coredio CPSE FDA Breakthrough Device | Coredio | 融合心血管物理数字孪生与AI，通过消费级智能手表实现等效心导管血流动力学评估，2026-05-28获FDA突破性认定，评分55。 | [链接](https://www.businesswire.com/news/home/20260528980762/en/FDA-Grants-Coredio-Breakthrough-Designation-for-AI-Platform-Bringing-Advanced-Heart-Failure-Assessment-Beyond-the-Hospital) |
+| 2026-06-15 | PathAI PathAssist Derm获FDA突破性设备认定 / PathAI Dermatopathology AI FDA Breakthrough | PathAI | AI分析皮肤病变全切片图像辅助皮肤病理科医生诊断，解决阅片差异大问题，2026-03-03获FDA突破性认定，评分55。 | [链接](https://www.pathai.com/news/pathai-receives-u.s.-fda-breakthrough-device-designation-for-pathassist-derm-an-ai-powered-pathology-solution-to-transform-dermatopathology-workflow) |
+| 2026-06-15 | OpenAI o1急诊诊断超越住院医师（Science发表）/ OpenAI o1 Outperforms Physicians at ER | Harvard Medical School / BIDMC | o1模型正确诊断率67%高于内科主治55%/50%，波士顿急诊室EHR真实病例验证，Science发表，评分45。 | [链接](https://www.science.org/doi/10.1126/science.adz4433) |
 | 2026-06-07 | Global RETFound Beta：首个全球代表性视网膜基础模型 / Global RETFound Beta: First Globally Representative Retinal Foundation Model | Moorfields Eye Hospital / UCL | 203个合作伙伴、74个国家逾1亿张眼底照片训练，超越现有模型在眼科/系统性疾病检测、生物标志物提取和年龄预测，ARVO 2026发布，评分48（眼科+5加权）。 | [链接](https://www.ophthalmologytimes.com/view/arvo-2026-global-retfound-study) |
 | 2026-06-07 | EyeDiff：文本驱动眼科影像生成式基础模型 / EyeDiff: Generative Foundation Model for Ophthalmic Image Synthesis | HK Polytechnic University | 提出EyeDiff，基于文本描述合成保留病灶的多模态眼科影像（42,048张/8数据集），通过少数类增强显著提升罕见眼病诊断准确率，npj Digital Medicine，评分45（眼科+5加权）。 | [链接](https://www.nature.com/articles/s41746-026-02560-2) |
 
