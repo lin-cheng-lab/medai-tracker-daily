@@ -176,6 +176,7 @@ type: tracker-moc
 | 2026-06-13 | 30 | [[2026-06-13\|查看]] | 通用LLM全面超越专用临床AI工具（Nature Medicine，MedQA/HealthBench三项评测，评分55）+ Aidoc基础模型AI获FDA清准14种急症CT分诊（评分53）+ Perimeter Claire乳腺癌术中切缘AI获FDA PMA（评分53） |
 | 2026-06-14 | 33 | [[2026-06-14\|查看]] | ProViCNet前列腺癌MRI基础模型（Stanford，npj Digital Medicine，n=4401，评分75）+ 脑膜瘤H&E深度学习分子分类（Mayo Clinic，Lancet DH，评分64）+ MBD-Check术前出血障碍XAI工具前瞻验证（Lancet DH，评分63）|
 | 2026-06-15 | 26 | [[2026-06-15\|查看]] | Coredio/PathAI/RecovryAI三款AI器械同日获FDA突破性认定（评分55）+ SegAnyPET全身PET通用分割FM（复旦，评分50）+ OpenAI o1急诊超越住院医生（Science，Harvard，评分45）|
+| 2026-06-16 | 36 | [[2026-06-16\|查看]] | 眼科多模态推理Agent真实世界验证（68分，深圳眼科/暨南大学，Frontiers）+ Nature Cardiovascular眼科影像-心血管多组学大队列（61分，UK Biobank）+ SubtleHD CT FDA 510(k)获批（43分）|
 
 ---
 
@@ -202,6 +203,9 @@ type: tracker-moc
 | 2026-06-15 | OpenAI o1急诊诊断超越住院医师（Science发表）/ OpenAI o1 Outperforms Physicians at ER | Harvard Medical School / BIDMC | o1模型正确诊断率67%高于内科主治55%/50%，波士顿急诊室EHR真实病例验证，Science发表，评分45。 | [链接](https://www.science.org/doi/10.1126/science.adz4433) |
 | 2026-06-07 | Global RETFound Beta：首个全球代表性视网膜基础模型 / Global RETFound Beta: First Globally Representative Retinal Foundation Model | Moorfields Eye Hospital / UCL | 203个合作伙伴、74个国家逾1亿张眼底照片训练，超越现有模型在眼科/系统性疾病检测、生物标志物提取和年龄预测，ARVO 2026发布，评分48（眼科+5加权）。 | [链接](https://www.ophthalmologytimes.com/view/arvo-2026-global-retfound-study) |
 | 2026-06-07 | EyeDiff：文本驱动眼科影像生成式基础模型 / EyeDiff: Generative Foundation Model for Ophthalmic Image Synthesis | HK Polytechnic University | 提出EyeDiff，基于文本描述合成保留病灶的多模态眼科影像（42,048张/8数据集），通过少数类增强显著提升罕见眼病诊断准确率，npj Digital Medicine，评分45（眼科+5加权）。 | [链接](https://www.nature.com/articles/s41746-026-02560-2) |
+| 2026-06-16 | 多模态推理Agent用于眼科决策增强：初步真实世界临床验证 / Multimodal Reasoning Agent for Ophthalmic Decision Enhancement | 深圳市眼科医院 / 暨南大学 | 结合多模态视觉分析、知识检索与诊断推理模块的ReasonAgent，在30例真实眼科病例（含3例罕见病）中治疗规划显著超越GPT-4o及眼科住院医，Frontiers in Cell and Developmental Biology发表，眼科专科AI首批真实世界临床验证证据。评分68（眼科+5加权）。 | [链接](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12325206/) |
+| 2026-06-16 | 深度学习衍生表型的多组学分析揭示眼科影像与心脑血管特征的关联 / Multi-Omic Analysis of DL-Derived Ophthalmic Imaging Phenotypes | University of Manchester | 基于UK Biobank大队列，利用视网膜对抗自编码器将OCT与眼底照片编码为256维嵌入，多组学分析揭示眼科影像与心脑血管及神经系统特征的系统性关联，Nature Cardiovascular Research发表。评分61（眼科+5加权）。 | [链接](https://www.nature.com/articles/s44161-026-00815-5) |
+| 2026-06-16 | 通过通才-专才协作实现医疗可泛化AI（GSCo/MedDr）/ Generalist-Specialist Collaboration for Medical AI | Shanghai AI Lab | GSCo框架将强大的通才基础模型MedDr与轻量级专才模型协同结合，在32个跨多模态医疗数据集的综合评估中超越现有最先进基础模型，显著提升下游任务迁移性能，Nature Biomedical Engineering发表。评分52。 | [链接](https://www.nature.com/articles/s41551-026-01653-3) |
 
 ---
 
