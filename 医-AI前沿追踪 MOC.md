@@ -177,6 +177,7 @@ type: tracker-moc
 | 2026-06-14 | 33 | [[2026-06-14\|查看]] | ProViCNet前列腺癌MRI基础模型（Stanford，npj Digital Medicine，n=4401，评分75）+ 脑膜瘤H&E深度学习分子分类（Mayo Clinic，Lancet DH，评分64）+ MBD-Check术前出血障碍XAI工具前瞻验证（Lancet DH，评分63）|
 | 2026-06-15 | 26 | [[2026-06-15\|查看]] | Coredio/PathAI/RecovryAI三款AI器械同日获FDA突破性认定（评分55）+ SegAnyPET全身PET通用分割FM（复旦，评分50）+ OpenAI o1急诊超越住院医生（Science，Harvard，评分45）|
 | 2026-06-16 | 36 | [[2026-06-16\|查看]] | 眼科多模态推理Agent真实世界验证（68分，深圳眼科/暨南大学，Frontiers）+ Nature Cardiovascular眼科影像-心血管多组学大队列（61分，UK Biobank）+ SubtleHD CT FDA 510(k)获批（43分）|
+| 2026-06-17 | 43 | [[2026-06-17\|查看]] | EPFL活动依赖自适应DBS改善帕金森病步态（Nature Medicine RCT，评分76）+ Stanford细胞衰老血浆蛋白组预测疾病（Nature Medicine，评分64）+ UPenn专家驱动生存机器多临床队列（评分56）|
 
 ---
 
@@ -206,6 +207,9 @@ type: tracker-moc
 | 2026-06-16 | 多模态推理Agent用于眼科决策增强：初步真实世界临床验证 / Multimodal Reasoning Agent for Ophthalmic Decision Enhancement | 深圳市眼科医院 / 暨南大学 | 结合多模态视觉分析、知识检索与诊断推理模块的ReasonAgent，在30例真实眼科病例（含3例罕见病）中治疗规划显著超越GPT-4o及眼科住院医，Frontiers in Cell and Developmental Biology发表，眼科专科AI首批真实世界临床验证证据。评分68（眼科+5加权）。 | [链接](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12325206/) |
 | 2026-06-16 | 深度学习衍生表型的多组学分析揭示眼科影像与心脑血管特征的关联 / Multi-Omic Analysis of DL-Derived Ophthalmic Imaging Phenotypes | University of Manchester | 基于UK Biobank大队列，利用视网膜对抗自编码器将OCT与眼底照片编码为256维嵌入，多组学分析揭示眼科影像与心脑血管及神经系统特征的系统性关联，Nature Cardiovascular Research发表。评分61（眼科+5加权）。 | [链接](https://www.nature.com/articles/s44161-026-00815-5) |
 | 2026-06-16 | 通过通才-专才协作实现医疗可泛化AI（GSCo/MedDr）/ Generalist-Specialist Collaboration for Medical AI | Shanghai AI Lab | GSCo框架将强大的通才基础模型MedDr与轻量级专才模型协同结合，在32个跨多模态医疗数据集的综合评估中超越现有最先进基础模型，显著提升下游任务迁移性能，Nature Biomedical Engineering发表。评分52。 | [链接](https://www.nature.com/articles/s41551-026-01653-3) |
+| 2026-06-17 | 活动依赖自适应深部脑刺激改善帕金森病步态 / Activity-dependent adaptive DBS improves gait in Parkinson's disease | EPFL | RCT证实自适应DBS实时根据步态活动调整刺激参数，显著改善帕金森步态障碍并优于传统固定参数刺激，Nature Medicine。评分76。 | [链接](https://doi.org/10.1038/s41591-026-04432-4) |
+| 2026-06-17 | 细胞衰老的血浆蛋白质组学特征预测人类疾病 / Plasma proteomic signatures of cellular aging predict human disease | Stanford University | ML分析大规模血浆蛋白质组数据建立衰老时钟模型，可预测多种年龄相关疾病风险，为早期疾病预测和干预提供新生物标志物体系，Nature Medicine。评分64。 | [链接](https://doi.org/10.1038/s41591-026-04446-y) |
+| 2026-06-17 | 专家驱动生存机器：多临床队列的风险分层与可解释性提升 / Expert-Driven Survival Machines for Clinical Cohorts | University of Pennsylvania | AdaCSM混合专家增强自适应深度聚类生存框架，路由机制动态分配患者至专业化风险预测器，多临床队列验证个体化生存建模精度提升，arXiv。评分56。 | [链接](https://arxiv.org/abs/2606.14608) |
 
 ---
 
