@@ -160,6 +160,9 @@ type: tracker-moc
 | 2026-06-18 | 智能手机AI自筛眼表恶性肿瘤非随机临床试验 / Smartphone-Based AI Self-Screening for Ocular Surface Malignancies | 中国多中心（JAMA Ophthalmology） | JAMA Ophthalmology前瞻性研究，AI驱动智能手机应用AUC=0.977（敏感性89.3%/特异性95.9%），6个月筛查逾20万人并发现20例恶性肿瘤，无一需眼球摘除，眼科AI落地最高级别证据。评分75。 | [链接](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2849884) |
 | 2026-06-18 | AI-OCT系统用于糖尿病黄斑水肿筛查前瞻性非劣效RCT / AI-Based OCT System for Diabetic Macular Edema Detection RCT | 香港特别行政区研究机构 | JAMA发表的前瞻性非劣效RCT，AI-OCT辅助筛查使糖尿病黄斑水肿不必要转诊率从100%降至39.4%，敏感性不劣于标准筛查，眼科AI临床价值有力验证。评分74。 | [链接](https://jamanetwork.com/journals/jama/article-abstract/2850451) |
 | 2026-06-18 | MIRA：首个自主完成临床全流程的医疗AI代理 / Towards autonomous medical artificial intelligence agents | 德国癌症研究中心（DKFZ） | Nature发表，MIRA是首个在沙盒EHR环境中自主完成问诊、实验室检查、鉴别诊断和治疗决策的AI代理，诊断准确率超越经验丰富的临床医生，自主医疗AI里程碑。评分58。 | [链接](https://www.nature.com/articles/s41586-026-10675-5) |
+| 2026-06-19 | 血浆蛋白组学细胞衰老特征预测15年疾病风险 / Blood signatures of cell type-specific aging forecast disease risk and resilience | Stanford University | 60,542名受试者7,000+血浆蛋白ML模型估算40+细胞类型生物年龄，加速衰老特异性模式可预测15年内疾病发生率与死亡率，Nature Medicine，评分72。 | [链接](https://www.nature.com/articles/s41591-026-04447-x) |
+| 2026-06-19 | 通用LLM全面超越专科临床AI工具（头对头评估）/ General-purpose chatbots outperform clinical AI tools | NYU Langone Health / Weill Cornell | GPT-5.2/Gemini 3.1 Pro/Claude Opus 4.6在医学知识、临床对齐及真实查询三维度均优于OpenEvidence/UpToDate Expert AI，Nature Medicine，评分55。 | [链接](https://www.nature.com/articles/s41591-026-04457-9) |
+| 2026-06-19 | ARPA-H资助首个FDA授权心血管AI Agent（ADVOCATE计划）/ ARPA-H Funds First FDA-Authorized Cardiovascular AI Agent | ARPA-H / FDA | ARPA-H启动ADVOCATE计划，资助研发首个FDA授权的自主心血管AI Agent，24小时自动调整用药/排程/生活方式干预，与EHR和可穿戴设备实时集成，评分53。 | [链接](https://www.techtimes.com/articles/318089/20260609/arpa-h-funds-first-fda-authorized-ai-agent-manage-heart-care-around-clock.htm) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -182,6 +185,7 @@ type: tracker-moc
 | 2026-06-16 | 36 | [[2026-06-16\|查看]] | 眼科多模态推理Agent真实世界验证（68分，深圳眼科/暨南大学，Frontiers）+ Nature Cardiovascular眼科影像-心血管多组学大队列（61分，UK Biobank）+ SubtleHD CT FDA 510(k)获批（43分）|
 | 2026-06-17 | 43 | [[2026-06-17\|查看]] | EPFL活动依赖自适应DBS改善帕金森病步态（Nature Medicine RCT，评分76）+ Stanford细胞衰老血浆蛋白组预测疾病（Nature Medicine，评分64）+ UPenn专家驱动生存机器多临床队列（评分56）|
 | 2026-06-18 | 41 | [[2026-06-18\|查看]] | 智能手机AI自筛眼表恶性肿瘤（JAMA Ophthalmology，6个月20万人筛查，评分75）+ AI-OCT DME筛查前瞻性RCT（JAMA，香港，假阳性转诊降60%，评分74）+ MIRA首个自主医疗AI代理（Nature，DKFZ，评分58）|
+| 2026-06-19 | 43 | [[2026-06-19\|查看]] | Stanford血浆蛋白组60,542人15年疾病预测（Nature Medicine，评分72）+ 通用LLM胜专科AI工具（Nature Medicine，评分55）+ ARPA-H资助首个FDA授权心血管AI Agent（评分53） |
 
 ---
 
