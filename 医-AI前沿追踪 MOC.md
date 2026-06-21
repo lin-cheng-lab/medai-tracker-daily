@@ -190,6 +190,7 @@ type: tracker-moc
 | 2026-06-18 | 41 | [[2026-06-18\|查看]] | 智能手机AI自筛眼表恶性肿瘤（JAMA Ophthalmology，6个月20万人筛查，评分75）+ AI-OCT DME筛查前瞻性RCT（JAMA，香港，假阳性转诊降60%，评分74）+ MIRA首个自主医疗AI代理（Nature，DKFZ，评分58）|
 | 2026-06-19 | 43 | [[2026-06-19\|查看]] | Stanford血浆蛋白组60,542人15年疾病预测（Nature Medicine，评分72）+ 通用LLM胜专科AI工具（Nature Medicine，评分55）+ ARPA-H资助首个FDA授权心血管AI Agent（评分53） |
 | 2026-06-20 | 37 | [[2026-06-20\|查看]] | BrainG3N双用途分词器（Ghent/Stanford，35,309脑MRI，评分55）+ RadGrounder可扩展放射学VLM（Freiburg，MICCAI 2026，评分52）+ ACIE单中心Agentic RAG临床信息抽取（Essen，96.5%接受率，评分45） |
+| 2026-06-21 | 31 | [[2026-06-21\|查看]] | ALERT-UWF RCT：AI辅助超广角视网膜紧急转诊分诊（厦门眼科，NCT07643129，评分60）+ 可穿戴ECG个性化房颤短期预测队列（arXiv，评分56）+ FDA首封AI警告信：生成式AI文件须人工审核（评分53） |
 
 ---
 
@@ -222,6 +223,9 @@ type: tracker-moc
 | 2026-06-17 | 活动依赖自适应深部脑刺激改善帕金森病步态 / Activity-dependent adaptive DBS improves gait in Parkinson's disease | EPFL | RCT证实自适应DBS实时根据步态活动调整刺激参数，显著改善帕金森步态障碍并优于传统固定参数刺激，Nature Medicine。评分76。 | [链接](https://doi.org/10.1038/s41591-026-04432-4) |
 | 2026-06-17 | 细胞衰老的血浆蛋白质组学特征预测人类疾病 / Plasma proteomic signatures of cellular aging predict human disease | Stanford University | ML分析大规模血浆蛋白质组数据建立衰老时钟模型，可预测多种年龄相关疾病风险，为早期疾病预测和干预提供新生物标志物体系，Nature Medicine。评分64。 | [链接](https://doi.org/10.1038/s41591-026-04446-y) |
 | 2026-06-17 | 专家驱动生存机器：多临床队列的风险分层与可解释性提升 / Expert-Driven Survival Machines for Clinical Cohorts | University of Pennsylvania | AdaCSM混合专家增强自适应深度聚类生存框架，路由机制动态分配患者至专业化风险预测器，多临床队列验证个体化生存建模精度提升，arXiv。评分56。 | [链接](https://arxiv.org/abs/2606.14608) |
+| 2026-06-21 | ALERT-UWF：AI辅助超广角视网膜图像病变紧急转诊分诊 / ALERT-UWF AI-Assisted Urgent Referral Triage of Ultra-Widefield Retinal Images | Xiamen Ophthalmology Center, Xiamen University | 前瞻性多阅读者RCT（NCT07643129），评估AI辅助超广角眼底图像紧急转诊分诊系统临床效用，眼科AI×RCT前沿。评分60（眼科+5加权）。 | [链接](https://clinicaltrials.gov/study/NCT07643129) |
+| 2026-06-21 | 基于连续可穿戴ECG的个性化深度学习短期房颤预测 / Personalized Short-Term AF Prediction from Continuous Wearable ECG | Unknown (arXiv 2026) | 个性化LSTM/Transformer模型在大型可穿戴ECG数据集上通过AUROC 0.90+实现短期房颤预测，远超通用模型，推动可穿戴心脏AI个性化新范式。评分56。 | [链接](https://arxiv.org/abs/2606.10900) |
+| 2026-06-21 | FDA发出首封AI相关警告信：AI生成GMP文件须人工审核 / FDA Issues First AI Warning Letter for Unreviewed AI-Generated Manufacturing Documents | FDA | 2026年4月FDA向同种疗法药物制造商发出首封涉AI警告信，确立"AI辅助、人工负责"原则，对医药AI监管具有重要先例意义。评分53。 | [链接](https://teledirectmd.com/health-guides/fda-first-ai-warning-letter-2026/) |
 
 ---
 
