@@ -166,6 +166,9 @@ type: tracker-moc
 | 2026-06-20 | BrainG3N：面向可控3D脑MRI生成的双用途分词器 / BrainG3N Dual-Purpose Tokenizer for 3D Brain MRI | Ghent University / Stanford University | 在35,309个脑MRI体积上预训练的体积掩码自编码器，解耦临床信息保留与解剖重建，23项线性探测任务21项超越专用基线，支持患者特异性纵向预测。评分55。 | [链接](https://arxiv.org/abs/2606.19651) |
 | 2026-06-20 | RadGrounder：可扩展放射学空间定位视觉语言模型（MICCAI 2026）/ Scalable Spatially Grounded Radiology VLM | University of Freiburg | 提出RefRad2D含120万对德英双语CT/MR图像-文本对，无需人工标注训练RadGrounder，支持报告生成、VQA与空间定位，Slake/VQA-RAD基准与专科VLM相当。评分52。 | [链接](https://arxiv.org/abs/2606.20477) |
 | 2026-06-20 | ACIE：单中心Agentic RAG临床信息抽取 / Configurable Clinical Information Extraction with Agentic RAG | University Medicine Essen | 埃森大学医院部署本地化Agentic RAG系统ACIE，跨数百份异构患者文档推理，经7,326次独立临床医师评判获96.5%接受率，每类型接受率80-99%。评分45。 | [链接](https://arxiv.org/abs/2606.19602) |
+| 2026-06-22 | LLM辅助再分析未解决儿童罕见病提升诊断率 / LLM-Assisted Reanalysis of Unresolved Rare Disease Cases | Boston Children's Hospital / OpenAI | OpenAI o3辅助再分析376例经标准基因检测未解决儿童罕见病，额外确诊18例（4.8%），NEJM AI发表，评分76。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIcs2501343) |
+| 2026-06-22 | AI增强诊断促成心脏移植首例病例报告 / First Case of AI-Assisted Diagnosis Leading to Heart Transplantation | Columbia University | AI-ECG分析识别隐匿性心脏疾病并提示心脏移植指征，Nature Medicine首例报告，标志AI诊断进入高风险临床决策领域，评分56。 | [链接](https://www.nature.com/articles/s41591-026-04454-y) |
+| 2026-06-22 | EMA与FDA联合发布《良好AI实践原则》/ EMA-FDA Joint Principles for Good AI Practice | EMA / FDA | 首个跨大西洋监管机构联合AI实践原则，为药品与医疗器械领域AI系统开发、评估与监督设立国际共识标准，监管里程碑，评分55。 | [链接](https://www.ema.europa.eu/en/news/good-ai-practice) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -191,6 +194,7 @@ type: tracker-moc
 | 2026-06-19 | 43 | [[2026-06-19\|查看]] | Stanford血浆蛋白组60,542人15年疾病预测（Nature Medicine，评分72）+ 通用LLM胜专科AI工具（Nature Medicine，评分55）+ ARPA-H资助首个FDA授权心血管AI Agent（评分53） |
 | 2026-06-20 | 37 | [[2026-06-20\|查看]] | BrainG3N双用途分词器（Ghent/Stanford，35,309脑MRI，评分55）+ RadGrounder可扩展放射学VLM（Freiburg，MICCAI 2026，评分52）+ ACIE单中心Agentic RAG临床信息抽取（Essen，96.5%接受率，评分45） |
 | 2026-06-21 | 31 | [[2026-06-21\|查看]] | ALERT-UWF RCT：AI辅助超广角视网膜紧急转诊分诊（厦门眼科，NCT07643129，评分60）+ 可穿戴ECG个性化房颤短期预测队列（arXiv，评分56）+ FDA首封AI警告信：生成式AI文件须人工审核（评分53） |
+| 2026-06-22 | 27 | [[2026-06-22\|查看]] | LLM辅助再分析376例未解决儿童罕见病提升4.8%诊断率（NEJM AI，OpenAI o3，评分76）+ AI-ECG诊断促成心脏移植首例病例报告（Nature Medicine，评分56）+ EMA/FDA联合《良好AI实践原则》（评分55） |
 
 ---
 
