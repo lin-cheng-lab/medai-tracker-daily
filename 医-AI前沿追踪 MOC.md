@@ -195,6 +195,7 @@ type: tracker-moc
 | 2026-06-20 | 37 | [[2026-06-20\|查看]] | BrainG3N双用途分词器（Ghent/Stanford，35,309脑MRI，评分55）+ RadGrounder可扩展放射学VLM（Freiburg，MICCAI 2026，评分52）+ ACIE单中心Agentic RAG临床信息抽取（Essen，96.5%接受率，评分45） |
 | 2026-06-21 | 31 | [[2026-06-21\|查看]] | ALERT-UWF RCT：AI辅助超广角视网膜紧急转诊分诊（厦门眼科，NCT07643129，评分60）+ 可穿戴ECG个性化房颤短期预测队列（arXiv，评分56）+ FDA首封AI警告信：生成式AI文件须人工审核（评分53） |
 | 2026-06-22 | 27 | [[2026-06-22\|查看]] | LLM辅助再分析376例未解决儿童罕见病提升4.8%诊断率（NEJM AI，OpenAI o3，评分76）+ AI-ECG诊断促成心脏移植首例病例报告（Nature Medicine，评分56）+ EMA/FDA联合《良好AI实践原则》（评分55） |
+| 2026-06-23 | 21 | [[2026-06-23\|查看]] | SmartAlert住院CBC复查智能减少RCT（Stanford/NEJM AI，n=9270，评分76）+ AIM-NASH AI临床试验终点FDA/EMA双认可里程碑（NEJM AI，评分66）+ 多国Swarm联邦学习腹腔镜阑尾切除术（NEJM AI，397例，评分63） |
 
 ---
 
@@ -231,6 +232,9 @@ type: tracker-moc
 | 2026-06-21 | ALERT-UWF：AI辅助超广角视网膜图像病变紧急转诊分诊 / ALERT-UWF AI-Assisted Urgent Referral Triage of Ultra-Widefield Retinal Images | Xiamen Ophthalmology Center, Xiamen University | 前瞻性多阅读者RCT（NCT07643129），评估AI辅助超广角眼底图像紧急转诊分诊系统临床效用，眼科AI×RCT前沿。评分60（眼科+5加权）。 | [链接](https://clinicaltrials.gov/study/NCT07643129) |
 | 2026-06-21 | 基于连续可穿戴ECG的个性化深度学习短期房颤预测 / Personalized Short-Term AF Prediction from Continuous Wearable ECG | Unknown (arXiv 2026) | 个性化LSTM/Transformer模型在大型可穿戴ECG数据集上通过AUROC 0.90+实现短期房颤预测，远超通用模型，推动可穿戴心脏AI个性化新范式。评分56。 | [链接](https://arxiv.org/abs/2606.10900) |
 | 2026-06-21 | FDA发出首封AI相关警告信：AI生成GMP文件须人工审核 / FDA Issues First AI Warning Letter for Unreviewed AI-Generated Manufacturing Documents | FDA | 2026年4月FDA向同种疗法药物制造商发出首封涉AI警告信，确立"AI辅助、人工负责"原则，对医药AI监管具有重要先例意义。评分53。 | [链接](https://teledirectmd.com/health-guides/fda-first-ai-warning-letter-2026/) |
+| 2026-06-23 | SmartAlert：ML驱动住院患者CBC不必要复查智能减少 / SmartAlert ML-Driven Clinical Decision Support for Lab Utilization | Stanford University School of Medicine | 8个急诊单元9270例住院患者RCT，ML-CDS预测稳定结果减少CBC复查，52小时内重复次数从1.82降至1.54（p<0.01），NEJM AI发表。评分76。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIcs2501086) |
+| 2026-06-23 | AIM-NASH：FDA与EMA联合认可首款AI病理数字工具作为NASH临床试验终点 / AIM-NASH FDA/EMA Dual Approval as AI-Enabled Clinical Trial Endpoint | Yale School of Medicine | 评述FDA与EMA首次联合认可AI病理工具为临床试验终点的里程碑意义，探讨AI辅助终点裁定对证据生成和监管框架的深远影响，NEJM AI发表。评分66。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIe2600354) |
+| 2026-06-23 | 隐私保护Swarm联邦学习腹腔镜阑尾切除术视频分析 / Privacy-Preserving Swarm Learning for Laparoscopic Appendectomy | TUD Dresden University of Technology | 6个国际外科中心397例腹腔镜阑尾切除术视频，去中心化弱监督深度学习+Swarm联邦学习预测病理分期，性能与集中式训练相当，NEJM AI发表。评分63。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2501116) |
 
 ---
 
