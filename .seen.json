@@ -937,7 +937,21 @@
     "2606.12953",
     "2606.17062",
     "2602.03302",
-    "2505.08341"
+    "2505.08341",
+    "2606.19092",
+    "2606.17474",
+    "2606.16723",
+    "2606.12824",
+    "2606.03641",
+    "2606.03543",
+    "2606.21447",
+    "2606.24408",
+    "2606.24351",
+    "2606.22318",
+    "2606.21351",
+    "2606.03416",
+    "2603.10764",
+    "2603.21925"
   ],
   "doi": [
     "10.1038/s41746-026-02535-3",
@@ -1144,7 +1158,11 @@
     "10.1038/s41746-026-02344-8",
     "10.1038/s41746-026-02811-2",
     "10.1038/s41746-026-02673-8",
-    "10.1038/s41746-026-02553-1"
+    "10.1038/s41746-026-02553-1",
+    "10.1038/s41746-026-02684-5",
+    "10.1038/s41746-026-02509-5",
+    "10.1038/s41586-026-10688-0",
+    "10.1038/s41746-026-02593-7"
   ],
   "url": [
     "https://www.euronews.com/my-europe/2026/05/21/the-eu-simplified-its-toughest-ai-law-what-changed-and-why-it-matters",
@@ -2444,7 +2462,12 @@
     "https://www.businesswire.com/news/home/20260610245220/en/dermasensor-announces-class-iib-ce-mark-and-collaboration-with-nhs-marking-the-beginning-of-its-global-expansion",
     "https://www.nature.com/articles/s41591-026-04438-y",
     "https://www.ema.europa.eu/en/documents/minutes/summary-notes-meeting-hma-ema-group-focused-ai-industry-stakeholders-february-2026_en.pdf",
-    "https://arxiv.org/abs/2605.03490"
+    "https://arxiv.org/abs/2605.03490",
+    "1a8be52a",
+    "7760ea1b",
+    "2a84bae5",
+    "dd13f794",
+    "2eb65392"
   ],
   "title_hash": [
     "118485bf937464ffe978361da62473aa",
@@ -4043,6 +4066,29 @@
     "99b3dc8fbee597eec55e71ef1b650255",
     "057e63fe62b3ee5f6506bc708a75f082",
     "21cb1b6483a8b4741084229a9ba67ed4",
-    "d94e8012fa54dd03f5977164b2afec73"
+    "d94e8012fa54dd03f5977164b2afec73",
+    "75940733",
+    "219372a9",
+    "2939d757",
+    "23ad57d6",
+    "d427779e",
+    "2eb599ea",
+    "401f83d3",
+    "b833bb5c",
+    "c231e217",
+    "012ba23f",
+    "3d430475",
+    "2c9be2c8",
+    "a0438cbd",
+    "11955f4d",
+    "516abfc9",
+    "d9a82d75",
+    "656aeecf",
+    "8e04343d",
+    "88d51e0a",
+    "02bfab97",
+    "ada96bf5",
+    "f3ddddf2",
+    "86d6a0a0"
   ]
 }

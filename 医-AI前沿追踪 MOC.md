@@ -196,6 +196,7 @@ type: tracker-moc
 | 2026-06-21 | 31 | [[2026-06-21\|查看]] | ALERT-UWF RCT：AI辅助超广角视网膜紧急转诊分诊（厦门眼科，NCT07643129，评分60）+ 可穿戴ECG个性化房颤短期预测队列（arXiv，评分56）+ FDA首封AI警告信：生成式AI文件须人工审核（评分53） |
 | 2026-06-22 | 27 | [[2026-06-22\|查看]] | LLM辅助再分析376例未解决儿童罕见病提升4.8%诊断率（NEJM AI，OpenAI o3，评分76）+ AI-ECG诊断促成心脏移植首例病例报告（Nature Medicine，评分56）+ EMA/FDA联合《良好AI实践原则》（评分55） |
 | 2026-06-23 | 21 | [[2026-06-23\|查看]] | SmartAlert住院CBC复查智能减少RCT（Stanford/NEJM AI，n=9270，评分76）+ AIM-NASH AI临床试验终点FDA/EMA双认可里程碑（NEJM AI，评分66）+ 多国Swarm联邦学习腹腔镜阑尾切除术（NEJM AI，397例，评分63） |
+| 2026-06-24 | 23 | [[2026-06-24\|查看]] | Eyenuk EyeArt获FDA追加批准多相机自主糖网筛查（眼科×FM，评分60）+ T2D随访MDP优化22154例队列（评分56）+ 美敦力Stealth AXiS获CE认证ENT手术系统（评分55） |
 
 ---
 
@@ -235,6 +236,9 @@ type: tracker-moc
 | 2026-06-23 | SmartAlert：ML驱动住院患者CBC不必要复查智能减少 / SmartAlert ML-Driven Clinical Decision Support for Lab Utilization | Stanford University School of Medicine | 8个急诊单元9270例住院患者RCT，ML-CDS预测稳定结果减少CBC复查，52小时内重复次数从1.82降至1.54（p<0.01），NEJM AI发表。评分76。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIcs2501086) |
 | 2026-06-23 | AIM-NASH：FDA与EMA联合认可首款AI病理数字工具作为NASH临床试验终点 / AIM-NASH FDA/EMA Dual Approval as AI-Enabled Clinical Trial Endpoint | Yale School of Medicine | 评述FDA与EMA首次联合认可AI病理工具为临床试验终点的里程碑意义，探讨AI辅助终点裁定对证据生成和监管框架的深远影响，NEJM AI发表。评分66。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIe2600354) |
 | 2026-06-23 | 隐私保护Swarm联邦学习腹腔镜阑尾切除术视频分析 / Privacy-Preserving Swarm Learning for Laparoscopic Appendectomy | TUD Dresden University of Technology | 6个国际外科中心397例腹腔镜阑尾切除术视频，去中心化弱监督深度学习+Swarm联邦学习预测病理分期，性能与集中式训练相当，NEJM AI发表。评分63。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2501116) |
+| 2026-06-24 | Eyenuk EyeArt眼底AI获FDA追加批准多相机自主糖网筛查 / Eyenuk EyeArt AI System FDA Multi-Camera Clearance | Eyenuk / FDA | EyeArt v2.2.0获FDA追加批准，支持Topcon NW400等多品牌相机，全球首家多相机FDA批准自主DR筛查AI，无需散瞳，眼科×FM里程碑。评分60。 | [链接](https://www.ophthalmologytimes.com/view/eyenuk-ceo-and-founder-gives-insight-into-fda-clearance-of-additional-camera-for-eyeart-ai) |
+| 2026-06-24 | 基于马尔可夫决策过程的2型糖尿病随访间隔优化 / Context-Aware T2D Follow-Up Interval Optimization via MDP | University of Maryland | 构建上下文MDP模型，利用22154例T2D患者EHR数据，通过PCA聚类识别低/高风险亚群并定制最优随访间隔策略，临床决策支持大规模队列验证。评分56。 | [链接](https://arxiv.org/abs/2606.19092) |
+| 2026-06-24 | 美敦力Stealth AXiS手术系统获CE认证（ENT扩展） / Medtronic Stealth AXiS Surgical System CE Mark for ENT | Medtronic | 全球首款将规划、导航与机器人技术合一的外科平台获CE认证覆盖耳鼻喉科，集成AI自动神经束成像与实时多模态影像导航，监管里程碑。评分55。 | [链接](https://news.medtronic.com/Medtronic-Receives-CE-Mark-for-Stealth-AXiS-TM-Surgical-System-for-Ear,-Nose,-and-Throat-Procedures) |
 
 ---
 
