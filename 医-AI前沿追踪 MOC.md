@@ -197,6 +197,7 @@ type: tracker-moc
 | 2026-06-22 | 27 | [[2026-06-22\|查看]] | LLM辅助再分析376例未解决儿童罕见病提升4.8%诊断率（NEJM AI，OpenAI o3，评分76）+ AI-ECG诊断促成心脏移植首例病例报告（Nature Medicine，评分56）+ EMA/FDA联合《良好AI实践原则》（评分55） |
 | 2026-06-23 | 21 | [[2026-06-23\|查看]] | SmartAlert住院CBC复查智能减少RCT（Stanford/NEJM AI，n=9270，评分76）+ AIM-NASH AI临床试验终点FDA/EMA双认可里程碑（NEJM AI，评分66）+ 多国Swarm联邦学习腹腔镜阑尾切除术（NEJM AI，397例，评分63） |
 | 2026-06-24 | 23 | [[2026-06-24\|查看]] | Eyenuk EyeArt获FDA追加批准多相机自主糖网筛查（眼科×FM，评分60）+ T2D随访MDP优化22154例队列（评分56）+ 美敦力Stealth AXiS获CE认证ENT手术系统（评分55） |
+| 2026-06-25 | 23 | [[2026-06-25\|查看]] | AI标准化临床检查培训OSCE RCT（NEJM AI，247例，评分77）+ AI-ECG驱动全球首例心脏移植（Nature Medicine，评分69）+ Aidoc First Read AI胸片报告获FDA突破性认定（评分50） |
 
 ---
 
@@ -239,6 +240,9 @@ type: tracker-moc
 | 2026-06-24 | Eyenuk EyeArt眼底AI获FDA追加批准多相机自主糖网筛查 / Eyenuk EyeArt AI System FDA Multi-Camera Clearance | Eyenuk / FDA | EyeArt v2.2.0获FDA追加批准，支持Topcon NW400等多品牌相机，全球首家多相机FDA批准自主DR筛查AI，无需散瞳，眼科×FM里程碑。评分60。 | [链接](https://www.ophthalmologytimes.com/view/eyenuk-ceo-and-founder-gives-insight-into-fda-clearance-of-additional-camera-for-eyeart-ai) |
 | 2026-06-24 | 基于马尔可夫决策过程的2型糖尿病随访间隔优化 / Context-Aware T2D Follow-Up Interval Optimization via MDP | University of Maryland | 构建上下文MDP模型，利用22154例T2D患者EHR数据，通过PCA聚类识别低/高风险亚群并定制最优随访间隔策略，临床决策支持大规模队列验证。评分56。 | [链接](https://arxiv.org/abs/2606.19092) |
 | 2026-06-24 | 美敦力Stealth AXiS手术系统获CE认证（ENT扩展） / Medtronic Stealth AXiS Surgical System CE Mark for ENT | Medtronic | 全球首款将规划、导航与机器人技术合一的外科平台获CE认证覆盖耳鼻喉科，集成AI自动神经束成像与实时多模态影像导航，监管里程碑。评分55。 | [链接](https://news.medtronic.com/Medtronic-Receives-CE-Mark-for-Stealth-AXiS-TM-Surgical-System-for-Ear,-Nose,-and-Throat-Procedures) |
+| 2026-06-25 | AI标准化临床检查培训对OSCE考试成绩的影响 / AI-Standardized Clinical Examination Training on OSCE Performance | CHU Nîmes / France | 单盲双中心RCT（247名早期实习医学生），GPT-4驱动AI标准化临床检查培训后OSCE成绩显著提升并改善情绪准备度，NEJM AI发表。评分77。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2500066) |
+| 2026-06-25 | AI增强诊断促成心脏移植的全球首例案例报告 / A Case of Artificial Intelligence-Enhanced Diagnostics Leading to Heart Transplantation | NewYork-Presbyterian / Columbia University | EchoNext AI通过标准ECG检出临床医生漏诊的心力衰竭，最终引导患者接受心脏移植手术，是AI临床决策重大里程碑，Nature Medicine发表。评分69。 | [链接](https://www.nature.com/articles/s41591-026-04454-y) |
+| 2026-06-25 | Aidoc First Read获FDA突破性设备认定：AI自动起草胸片放射学报告 / Aidoc First Read FDA Breakthrough Device Designation | Aidoc | FDA于2026年6月25日授予First Read突破性设备认定，AI分析胸部X光并生成初步放射报告文本，覆盖四类危及生命的发现，监管里程碑。评分50。 | [链接](https://www.prnewswire.com/news-releases/aidoc-receives-fda-breakthrough-device-designation-for-ai-that-drafts-radiology-reports-302809910.html) |
 
 ---
 
