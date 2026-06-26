@@ -198,6 +198,7 @@ type: tracker-moc
 | 2026-06-23 | 21 | [[2026-06-23\|查看]] | SmartAlert住院CBC复查智能减少RCT（Stanford/NEJM AI，n=9270，评分76）+ AIM-NASH AI临床试验终点FDA/EMA双认可里程碑（NEJM AI，评分66）+ 多国Swarm联邦学习腹腔镜阑尾切除术（NEJM AI，397例，评分63） |
 | 2026-06-24 | 23 | [[2026-06-24\|查看]] | Eyenuk EyeArt获FDA追加批准多相机自主糖网筛查（眼科×FM，评分60）+ T2D随访MDP优化22154例队列（评分56）+ 美敦力Stealth AXiS获CE认证ENT手术系统（评分55） |
 | 2026-06-25 | 23 | [[2026-06-25\|查看]] | AI标准化临床检查培训OSCE RCT（NEJM AI，247例，评分77）+ AI-ECG驱动全球首例心脏移植（Nature Medicine，评分69）+ Aidoc First Read AI胸片报告获FDA突破性认定（评分50） |
+| 2026-06-26 | 37 | [[2026-06-26\|查看]] | RAG+GPT-4临床试验受试者筛查队列（NEJM AI，COPILOT-HF，评分67）+ RaDaR罕见病诊断专用推理LLM随机试验+21.44pp（北京协和，评分65）+ AI听写助手多中心8581例（JAMA，评分65）+ AMD治疗预测AI（Lancet DH，眼科，评分64） |
 
 ---
 
