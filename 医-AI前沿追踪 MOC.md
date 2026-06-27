@@ -199,6 +199,7 @@ type: tracker-moc
 | 2026-06-24 | 23 | [[2026-06-24\|查看]] | Eyenuk EyeArt获FDA追加批准多相机自主糖网筛查（眼科×FM，评分60）+ T2D随访MDP优化22154例队列（评分56）+ 美敦力Stealth AXiS获CE认证ENT手术系统（评分55） |
 | 2026-06-25 | 23 | [[2026-06-25\|查看]] | AI标准化临床检查培训OSCE RCT（NEJM AI，247例，评分77）+ AI-ECG驱动全球首例心脏移植（Nature Medicine，评分69）+ Aidoc First Read AI胸片报告获FDA突破性认定（评分50） |
 | 2026-06-26 | 37 | [[2026-06-26\|查看]] | RAG+GPT-4临床试验受试者筛查队列（NEJM AI，COPILOT-HF，评分67）+ RaDaR罕见病诊断专用推理LLM随机试验+21.44pp（北京协和，评分65）+ AI听写助手多中心8581例（JAMA，评分65）+ AMD治疗预测AI（Lancet DH，眼科，评分64） |
+| 2026-06-27 | 17 | [[2026-06-27\|查看]] | 生成式AI基层医疗整群RCT（Nature Medicine，肯尼亚9600例，评分79）+ MASAI乳腺癌筛查RCT终期结果（Lancet，105934例，AI减少27%侵袭性癌症，评分78）+ Aidoc AI胸片报告获FDA突破性认定（评分53） |
 
 ---
 
@@ -244,6 +245,9 @@ type: tracker-moc
 | 2026-06-25 | AI标准化临床检查培训对OSCE考试成绩的影响 / AI-Standardized Clinical Examination Training on OSCE Performance | CHU Nîmes / France | 单盲双中心RCT（247名早期实习医学生），GPT-4驱动AI标准化临床检查培训后OSCE成绩显著提升并改善情绪准备度，NEJM AI发表。评分77。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2500066) |
 | 2026-06-25 | AI增强诊断促成心脏移植的全球首例案例报告 / A Case of Artificial Intelligence-Enhanced Diagnostics Leading to Heart Transplantation | NewYork-Presbyterian / Columbia University | EchoNext AI通过标准ECG检出临床医生漏诊的心力衰竭，最终引导患者接受心脏移植手术，是AI临床决策重大里程碑，Nature Medicine发表。评分69。 | [链接](https://www.nature.com/articles/s41591-026-04454-y) |
 | 2026-06-25 | Aidoc First Read获FDA突破性设备认定：AI自动起草胸片放射学报告 / Aidoc First Read FDA Breakthrough Device Designation | Aidoc | FDA于2026年6月25日授予First Read突破性设备认定，AI分析胸部X光并生成初步放射报告文本，覆盖四类危及生命的发现，监管里程碑。评分50。 | [链接](https://www.prnewswire.com/news-releases/aidoc-receives-fda-breakthrough-device-designation-for-ai-that-drafts-radiology-reports-302809910.html) |
+| 2026-06-27 | 生成式AI基层医疗整群RCT / Generative AI-enabled clinical decision support in primary care | KEMRI-Wellcome Trust / LSHTM | 肯尼亚16家基层机构9600例整群RCT，AI辅助决策工具显著提升文档与决策质量，Nature Medicine发表，高收入国家外首批医疗AI RCT证据。评分79。 | [链接](https://www.nature.com/articles/s41591-026-04503-6) |
+| 2026-06-27 | MASAI乳腺癌筛查AI终期结果 / MASAI RCT Final Results: AI-Supported Mammography Screening | Karolinska Institutet / ScreenPoint Medical | 105934名女性大规模RCT终期结果发表于《柳叶刀》：AI辅助筛查侵袭性癌症减少27%、放射科工作量下降44%，迄今最大规模癌症筛查AI RCT。评分78。 | [链接](https://www.eurekalert.org/news-releases/1114399) |
+| 2026-06-27 | Aidoc AI胸片报告获FDA突破性认定 / Aidoc First Read FDA Breakthrough Device Designation | Aidoc | FDA于2026年6月25日授予Aidoc First Read突破性器械认定，基于CARE基础模型自动分析胸片并生成初步放射学报告文本，监管里程碑。评分53。 | [链接](https://www.aidoc.com/about/news/aidoc-receives-fda-breakthrough-device-designation-for-ai-that-drafts-radiology-reports/) |
 
 ---
 
