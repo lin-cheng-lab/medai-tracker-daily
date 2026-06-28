@@ -200,6 +200,7 @@ type: tracker-moc
 | 2026-06-25 | 23 | [[2026-06-25\|查看]] | AI标准化临床检查培训OSCE RCT（NEJM AI，247例，评分77）+ AI-ECG驱动全球首例心脏移植（Nature Medicine，评分69）+ Aidoc First Read AI胸片报告获FDA突破性认定（评分50） |
 | 2026-06-26 | 37 | [[2026-06-26\|查看]] | RAG+GPT-4临床试验受试者筛查队列（NEJM AI，COPILOT-HF，评分67）+ RaDaR罕见病诊断专用推理LLM随机试验+21.44pp（北京协和，评分65）+ AI听写助手多中心8581例（JAMA，评分65）+ AMD治疗预测AI（Lancet DH，眼科，评分64） |
 | 2026-06-27 | 17 | [[2026-06-27\|查看]] | 生成式AI基层医疗整群RCT（Nature Medicine，肯尼亚9600例，评分79）+ MASAI乳腺癌筛查RCT终期结果（Lancet，105934例，AI减少27%侵袭性癌症，评分78）+ Aidoc AI胸片报告获FDA突破性认定（评分53） |
+| 2026-06-28 | 40 | [[2026-06-28\|查看]] | Talos基因组自动化重分析助力儿童罕见病大规模诊断（Nature Medicine，队列，评分65）+ MHRA国家AI医疗监管委员会调查结果报告（评分42）+ Google DeepMind AMIE博客：从诊断扩展至纵向疾病管理（评分41） |
 
 ---
 
@@ -237,6 +238,9 @@ type: tracker-moc
 | 2026-06-21 | 基于连续可穿戴ECG的个性化深度学习短期房颤预测 / Personalized Short-Term AF Prediction from Continuous Wearable ECG | Unknown (arXiv 2026) | 个性化LSTM/Transformer模型在大型可穿戴ECG数据集上通过AUROC 0.90+实现短期房颤预测，远超通用模型，推动可穿戴心脏AI个性化新范式。评分56。 | [链接](https://arxiv.org/abs/2606.10900) |
 | 2026-06-21 | FDA发出首封AI相关警告信：AI生成GMP文件须人工审核 / FDA Issues First AI Warning Letter for Unreviewed AI-Generated Manufacturing Documents | FDA | 2026年4月FDA向同种疗法药物制造商发出首封涉AI警告信，确立"AI辅助、人工负责"原则，对医药AI监管具有重要先例意义。评分53。 | [链接](https://teledirectmd.com/health-guides/fda-first-ai-warning-letter-2026/) |
 | 2026-06-23 | SmartAlert：ML驱动住院患者CBC不必要复查智能减少 / SmartAlert ML-Driven Clinical Decision Support for Lab Utilization | Stanford University School of Medicine | 8个急诊单元9270例住院患者RCT，ML-CDS预测稳定结果减少CBC复查，52小时内重复次数从1.82降至1.54（p<0.01），NEJM AI发表。评分76。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIcs2501086) |
+| 2026-06-28 | Talos基因组数据自动化重分析助力儿童罕见病大规模诊断 / Automated Reanalysis of Genomic Data for Rare Disease Diagnosis | Murdoch Children's Research Institute | 多中心队列研究，自动化重分析基因组数据系统性发现初次分析未检出的儿童罕见病致病变异，大幅提升确诊率，Nature Medicine发表。评分65。 | [链接](https://www.nature.com/articles/s41591-026-04477-5) |
+| 2026-06-28 | Pre-AF 13：从出院报告挖掘的可解释房颤风险评分 / Pre-AF 13: Interpretable AF Risk Score from Discharge Reports | National Research Cardiology Center, Russia | 基于NLP从真实临床出院报告中提取13个可解释特征构建房颤风险评分，单中心真实世界数据验证临床可用性，arXiv。评分42。 | [链接](https://arxiv.org/abs/2606.10725) |
+| 2026-06-28 | Google DeepMind AMIE博客：从诊断扩展至纵向疾病管理 / AMIE: From Diagnosis to Longitudinal Disease Management | Google DeepMind | DeepMind发布AMIE系统扩展更新博客，展示对话AI代理从单次诊断扩展至长期疾病随访管理能力，方法创新显著，评分41。 | [链接](https://deepmind.google/blog/amie-from-diagnosis-to-longitudinal-disease-management/) |
 | 2026-06-23 | AIM-NASH：FDA与EMA联合认可首款AI病理数字工具作为NASH临床试验终点 / AIM-NASH FDA/EMA Dual Approval as AI-Enabled Clinical Trial Endpoint | Yale School of Medicine | 评述FDA与EMA首次联合认可AI病理工具为临床试验终点的里程碑意义，探讨AI辅助终点裁定对证据生成和监管框架的深远影响，NEJM AI发表。评分66。 | [链接](https://ai.nejm.org/doi/full/10.1056/AIe2600354) |
 | 2026-06-23 | 隐私保护Swarm联邦学习腹腔镜阑尾切除术视频分析 / Privacy-Preserving Swarm Learning for Laparoscopic Appendectomy | TUD Dresden University of Technology | 6个国际外科中心397例腹腔镜阑尾切除术视频，去中心化弱监督深度学习+Swarm联邦学习预测病理分期，性能与集中式训练相当，NEJM AI发表。评分63。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2501116) |
 | 2026-06-24 | Eyenuk EyeArt眼底AI获FDA追加批准多相机自主糖网筛查 / Eyenuk EyeArt AI System FDA Multi-Camera Clearance | Eyenuk / FDA | EyeArt v2.2.0获FDA追加批准，支持Topcon NW400等多品牌相机，全球首家多相机FDA批准自主DR筛查AI，无需散瞳，眼科×FM里程碑。评分60。 | [链接](https://www.ophthalmologytimes.com/view/eyenuk-ceo-and-founder-gives-insight-into-fda-clearance-of-additional-camera-for-eyeart-ai) |
