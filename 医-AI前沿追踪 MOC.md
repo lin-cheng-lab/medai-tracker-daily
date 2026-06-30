@@ -169,6 +169,9 @@ type: tracker-moc
 | 2026-06-22 | LLM辅助再分析未解决儿童罕见病提升诊断率 / LLM-Assisted Reanalysis of Unresolved Rare Disease Cases | Boston Children's Hospital / OpenAI | OpenAI o3辅助再分析376例经标准基因检测未解决儿童罕见病，额外确诊18例（4.8%），NEJM AI发表，评分76。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIcs2501343) |
 | 2026-06-22 | AI增强诊断促成心脏移植首例病例报告 / First Case of AI-Assisted Diagnosis Leading to Heart Transplantation | Columbia University | AI-ECG分析识别隐匿性心脏疾病并提示心脏移植指征，Nature Medicine首例报告，标志AI诊断进入高风险临床决策领域，评分56。 | [链接](https://www.nature.com/articles/s41591-026-04454-y) |
 | 2026-06-22 | EMA与FDA联合发布《良好AI实践原则》/ EMA-FDA Joint Principles for Good AI Practice | EMA / FDA | 首个跨大西洋监管机构联合AI实践原则，为药品与医疗器械领域AI系统开发、评估与监督设立国际共识标准，监管里程碑，评分55。 | [链接](https://www.ema.europa.eu/en/news/good-ai-practice) |
+| 2026-06-30 | Hetairos：H&E切片预测102种CNS肿瘤甲基化亚型 / Hetairos histology-based AI for CNS tumor methylation subtypes | DKFZ / Heidelberg University Hospital | 9606例患者11中心4大洲验证，准确率0.87超越5名神经病理学家（0.68 vs 0.30），周转时间从12天缩至12分钟，Nature Cancer多中心队列，评分78。 | [链接](https://www.nature.com/articles/s43018-026-01186-3) |
+| 2026-06-30 | 深度学习乳腺癌风险评分纵向变化分析 / Longitudinal Analysis of DL Breast Cancer Risk Scores Over Time | Harvard Medical School / MGH | 六个影像中心2009-2019年筛查钼靶序列，AI评分可在确诊前10年出现升高，动态评分轨迹显著优于单次截面评分，Radiology多中心队列，评分69。 | [链接](https://pubs.rsna.org/doi/10.1148/radiol.251309) |
+| 2026-06-30 | 专家盲法评估620个真实临床查询中专科AI与通用LLM / Expert Evaluation of Specialist vs General Clinical AI at Point-of-Care | 多机构 | 620个真实临床查询盲法评估，专科AI在准确性、实用性、来源质量、可验证性和完整性方面超通用LLM 25-39个百分点，arXiv cohort，评分56。 | [链接](https://arxiv.org/abs/2606.28960) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -201,6 +204,7 @@ type: tracker-moc
 | 2026-06-26 | 37 | [[2026-06-26\|查看]] | RAG+GPT-4临床试验受试者筛查队列（NEJM AI，COPILOT-HF，评分67）+ RaDaR罕见病诊断专用推理LLM随机试验+21.44pp（北京协和，评分65）+ AI听写助手多中心8581例（JAMA，评分65）+ AMD治疗预测AI（Lancet DH，眼科，评分64） |
 | 2026-06-27 | 17 | [[2026-06-27\|查看]] | 生成式AI基层医疗整群RCT（Nature Medicine，肯尼亚9600例，评分79）+ MASAI乳腺癌筛查RCT终期结果（Lancet，105934例，AI减少27%侵袭性癌症，评分78）+ Aidoc AI胸片报告获FDA突破性认定（评分53） |
 | 2026-06-28 | 40 | [[2026-06-28\|查看]] | Talos基因组自动化重分析助力儿童罕见病大规模诊断（Nature Medicine，队列，评分65）+ MHRA国家AI医疗监管委员会调查结果报告（评分42）+ Google DeepMind AMIE博客：从诊断扩展至纵向疾病管理（评分41） |
+| 2026-06-30 | 56 | [[2026-06-30\|查看]] | Hetairos CNS肿瘤病理AI预测102种甲基化亚型（Nature Cancer，9606例，评分78）+ 深度学习乳腺癌风险评分纵向分析（Radiology，哈佛/MGH，评分69）+ 专科AI盲法评估620临床查询超通用LLM（arXiv cohort，评分56） |
 
 ---
 
