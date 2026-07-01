@@ -205,6 +205,7 @@ type: tracker-moc
 | 2026-06-27 | 17 | [[2026-06-27\|查看]] | 生成式AI基层医疗整群RCT（Nature Medicine，肯尼亚9600例，评分79）+ MASAI乳腺癌筛查RCT终期结果（Lancet，105934例，AI减少27%侵袭性癌症，评分78）+ Aidoc AI胸片报告获FDA突破性认定（评分53） |
 | 2026-06-28 | 40 | [[2026-06-28\|查看]] | Talos基因组自动化重分析助力儿童罕见病大规模诊断（Nature Medicine，队列，评分65）+ MHRA国家AI医疗监管委员会调查结果报告（评分42）+ Google DeepMind AMIE博客：从诊断扩展至纵向疾病管理（评分41） |
 | 2026-06-30 | 56 | [[2026-06-30\|查看]] | Hetairos CNS肿瘤病理AI预测102种甲基化亚型（Nature Cancer，9606例，评分78）+ 深度学习乳腺癌风险评分纵向分析（Radiology，哈佛/MGH，评分69）+ 专科AI盲法评估620临床查询超通用LLM（arXiv cohort，评分56） |
+| 2026-07-01 | 25 | [[2026-07-01\|查看]] | UCSF生成式AI乳腺肿瘤患者教育RCT（ClinicalTrials，评分58）+ Roche MS步态MCID智能手机队列（评分52）+ 首例人体量子纠缠成像（Jagiellonian，评分50） |
 
 ---
 
