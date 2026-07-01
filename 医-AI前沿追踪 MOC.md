@@ -227,6 +227,7 @@ type: tracker-moc
 | 月份 | 时间窗 | entries | 月精选 |
 |:---:|---|:---:|---|
 | 2026-05 | 2026-05-01 ~ 2026-05-31 | 784 | [[月精选/2026-05\|查看]] |
+| 2026-06 | 2026-06-01 ~ 2026-06-30 | 752 | [[月精选/2026-06\|查看]] |
 | 2026-06-07 | 飞利浦Verida光谱CT获FDA 510(k)批准 / Philips Verida AI-Powered Spectral CT FDA Clearance | Royal Philips | 全球首款AI驱动第三代纳米面板双层探测器光谱CT系统获FDA 510(k)许可，实现常规扫描即全光谱成像，适用放射/心脏/肿瘤科，监管里程碑，评分58。 | [链接](https://www.usa.philips.com/a-w/about/news/archive/standard/news/press/2026/philips-receives-fda-510k-clearance-for-verida-the-worlds-first-ai-powered-detector-based-spectral-ct-advancing-diagnostic-precision-across-clinical-applications.html) |
 | 2026-06-15 | Coredio心衰AI平台获FDA突破性认定（数字孪生+ML） / Coredio CPSE FDA Breakthrough Device | Coredio | 融合心血管物理数字孪生与AI，通过消费级智能手表实现等效心导管血流动力学评估，2026-05-28获FDA突破性认定，评分55。 | [链接](https://www.businesswire.com/news/home/20260528980762/en/FDA-Grants-Coredio-Breakthrough-Designation-for-AI-Platform-Bringing-Advanced-Heart-Failure-Assessment-Beyond-the-Hospital) |
 | 2026-06-15 | PathAI PathAssist Derm获FDA突破性设备认定 / PathAI Dermatopathology AI FDA Breakthrough | PathAI | AI分析皮肤病变全切片图像辅助皮肤病理科医生诊断，解决阅片差异大问题，2026-03-03获FDA突破性认定，评分55。 | [链接](https://www.pathai.com/news/pathai-receives-u.s.-fda-breakthrough-device-designation-for-pathassist-derm-an-ai-powered-pathology-solution-to-transform-dermatopathology-workflow) |
