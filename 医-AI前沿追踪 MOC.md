@@ -206,6 +206,7 @@ type: tracker-moc
 | 2026-06-28 | 40 | [[2026-06-28\|查看]] | Talos基因组自动化重分析助力儿童罕见病大规模诊断（Nature Medicine，队列，评分65）+ MHRA国家AI医疗监管委员会调查结果报告（评分42）+ Google DeepMind AMIE博客：从诊断扩展至纵向疾病管理（评分41） |
 | 2026-06-30 | 56 | [[2026-06-30\|查看]] | Hetairos CNS肿瘤病理AI预测102种甲基化亚型（Nature Cancer，9606例，评分78）+ 深度学习乳腺癌风险评分纵向分析（Radiology，哈佛/MGH，评分69）+ 专科AI盲法评估620临床查询超通用LLM（arXiv cohort，评分56） |
 | 2026-07-01 | 25 | [[2026-07-01\|查看]] | UCSF生成式AI乳腺肿瘤患者教育RCT（ClinicalTrials，评分58）+ Roche MS步态MCID智能手机队列（评分52）+ 首例人体量子纠缠成像（Jagiellonian，评分50） |
+| 2026-07-02 | 29 | [[2026-07-02\|查看]] | TriageMaster-70B：LLM仅凭叙述与生命体征急诊ACS分诊（npj Digital Medicine，n=16940，评分80）+ FedFound全生命周期脑连接组联邦FM（npj DM，n=22911，评分56）+ EchoRisk多中心超声心动图基准（MICCAI 2026，422例，评分56） |
 
 ---
 
