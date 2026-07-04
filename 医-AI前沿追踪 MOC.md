@@ -172,6 +172,9 @@ type: tracker-moc
 | 2026-06-30 | Hetairos：H&E切片预测102种CNS肿瘤甲基化亚型 / Hetairos histology-based AI for CNS tumor methylation subtypes | DKFZ / Heidelberg University Hospital | 9606例患者11中心4大洲验证，准确率0.87超越5名神经病理学家（0.68 vs 0.30），周转时间从12天缩至12分钟，Nature Cancer多中心队列，评分78。 | [链接](https://www.nature.com/articles/s43018-026-01186-3) |
 | 2026-06-30 | 深度学习乳腺癌风险评分纵向变化分析 / Longitudinal Analysis of DL Breast Cancer Risk Scores Over Time | Harvard Medical School / MGH | 六个影像中心2009-2019年筛查钼靶序列，AI评分可在确诊前10年出现升高，动态评分轨迹显著优于单次截面评分，Radiology多中心队列，评分69。 | [链接](https://pubs.rsna.org/doi/10.1148/radiol.251309) |
 | 2026-06-30 | 专家盲法评估620个真实临床查询中专科AI与通用LLM / Expert Evaluation of Specialist vs General Clinical AI at Point-of-Care | 多机构 | 620个真实临床查询盲法评估，专科AI在准确性、实用性、来源质量、可验证性和完整性方面超通用LLM 25-39个百分点，arXiv cohort，评分56。 | [链接](https://arxiv.org/abs/2606.28960) |
+| 2026-07-03 | COMPASS泛癌症FM预测免疫治疗结局 / Generalizable AI predicts immunotherapy outcomes across cancers | Harvard Medical School (Zitnik Lab) | 概念瓶颈Transformer基础模型，44个免疫生物学概念编码10,184例患者33种癌症，跨16队列AUROC+8.5%，Nature Medicine，评分80。 | [链接](https://www.nature.com/articles/s41591-026-04502-7) |
+| 2026-07-03 | MedGuards：多智能体医疗错误检测与纠正系统 / MedGuards Multi-Agent System for Reliable Medical Error Detection | Anonymous (OpenReview 2026) | 专用智能体分别负责错误检测/定位/纠正，置信度引导仲裁机制解决智能体分歧，四个多语言临床数据集验证，评分45。 | [链接](https://arxiv.org/abs/2606.25651) |
+| 2026-07-03 | NMPA脑机接口医疗器械分类指导原则 / NMPA BCI Device Classification Guidelines | NMPA | 中国首份BCI器械分类官方指南，植入式/非侵入式BCI默认三类，为BCI企业提供可预期中国监管路径，评分42。 | [链接](https://www.china-briefing.com/news/china-medical-device-classification-brain-computer-interfaces/) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -206,6 +209,7 @@ type: tracker-moc
 | 2026-06-28 | 40 | [[2026-06-28\|查看]] | Talos基因组自动化重分析助力儿童罕见病大规模诊断（Nature Medicine，队列，评分65）+ MHRA国家AI医疗监管委员会调查结果报告（评分42）+ Google DeepMind AMIE博客：从诊断扩展至纵向疾病管理（评分41） |
 | 2026-06-30 | 56 | [[2026-06-30\|查看]] | Hetairos CNS肿瘤病理AI预测102种甲基化亚型（Nature Cancer，9606例，评分78）+ 深度学习乳腺癌风险评分纵向分析（Radiology，哈佛/MGH，评分69）+ 专科AI盲法评估620临床查询超通用LLM（arXiv cohort，评分56） |
 | 2026-07-01 | 25 | [[2026-07-01\|查看]] | UCSF生成式AI乳腺肿瘤患者教育RCT（ClinicalTrials，评分58）+ Roche MS步态MCID智能手机队列（评分52）+ 首例人体量子纠缠成像（Jagiellonian，评分50） |
+| 2026-07-03 | 36 | [[2026-07-03\|查看]] | COMPASS泛癌症基础模型跨33种癌症预测免疫治疗结局（Nature Medicine，10,184例，评分80）+ MedGuards多智能体医疗错误检测纠正系统（评分45）+ NMPA脑机接口医疗器械分类指导原则（评分42） |
 
 ---
 
