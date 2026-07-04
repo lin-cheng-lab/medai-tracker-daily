@@ -61,6 +61,7 @@ type: tracker-moc
 | 2026-05-20 | 19 | [[2026-05-20\|查看]] | 视网膜成像多病种AI框架（Nature Medicine，n=107,730）+ FDA批准首款连续AI脓毒症监测系统（Bayesian Health，n=764,000）|
 | 2026-05-21 | 35 | [[2026-05-21\|查看]] | iHealthScreen AI糖网RCT临床试验注册（ClinicalTrials）+ NMPA批准全球首款商业化有创BCI（神念医疗NEO）+ Cognita胸片生成式AI获FDA突破性认定 |
 | 2026-05-22 | 20 | [[2026-05-22\|查看]] | LLM临床推理基准评测（NEJM AI，o3最高67.8%领先）+ 肾移植EHR-AI风险预测RCT（npj Digital Medicine，76例中性）+ 欧盟AI法案医疗器械延期至2028年 |
+| 2026-07-04 | 20 | [[2026-07-04\|查看]] | 代谢组学ML预测癌症免疫治疗结局（Nature Medicine，16队列1714例）+ OCT-AI眼科分诊真实世界评估（Frontiers Ophthalmology，247例）+ Aidoc基础模型AI获FDA批准 |
 
 ---
 
@@ -263,6 +264,9 @@ type: tracker-moc
 | 2026-06-27 | 生成式AI基层医疗整群RCT / Generative AI-enabled clinical decision support in primary care | KEMRI-Wellcome Trust / LSHTM | 肯尼亚16家基层机构9600例整群RCT，AI辅助决策工具显著提升文档与决策质量，Nature Medicine发表，高收入国家外首批医疗AI RCT证据。评分79。 | [链接](https://www.nature.com/articles/s41591-026-04503-6) |
 | 2026-06-27 | MASAI乳腺癌筛查AI终期结果 / MASAI RCT Final Results: AI-Supported Mammography Screening | Karolinska Institutet / ScreenPoint Medical | 105934名女性大规模RCT终期结果发表于《柳叶刀》：AI辅助筛查侵袭性癌症减少27%、放射科工作量下降44%，迄今最大规模癌症筛查AI RCT。评分78。 | [链接](https://www.eurekalert.org/news-releases/1114399) |
 | 2026-06-27 | Aidoc AI胸片报告获FDA突破性认定 / Aidoc First Read FDA Breakthrough Device Designation | Aidoc | FDA于2026年6月25日授予Aidoc First Read突破性器械认定，基于CARE基础模型自动分析胸片并生成初步放射学报告文本，监管里程碑。评分53。 | [链接](https://www.aidoc.com/about/news/aidoc-receives-fda-breakthrough-device-designation-for-ai-that-drafts-radiology-reports/) |
+| 2026-07-04 | 血浆代谢组学ML识别癌症免疫治疗代谢决定因素 / Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling | Memorial Sloan Kettering Cancer Center | 血浆代谢蛋白质组学联合机器学习在16个临床队列1714例中识别癌症免疫治疗预测性生物标志物，Nature Medicine发表。评分60。 | [链接](https://www.nature.com/articles/s41591-026-04481-9) |
+| 2026-07-04 | OCT-AI眼科分诊真实世界评估 / Real-world evaluation of an OCT-based AI decision-support system for neovascular AMD triage | 欧洲多中心 / deepeye Medical | 247例真实世界队列验证OCT-AI系统精准分诊新生血管AMD活动性，减少不必要转诊与治疗延误，Frontiers in Ophthalmology。评分58（眼科加权）。 | [链接](https://www.frontiersin.org/journals/ophthalmology/articles/10.3389/fopht.2026.1870572/full) |
+| 2026-07-04 | Aidoc获FDA 510(k)批准：医疗行业首款综合基础模型AI多病种体部CT分诊系统 / Aidoc First Comprehensive Foundation Model AI Triage for Body CT | Aidoc | 基于CARE基础模型的综合AI分诊方案获FDA批准，可从单次体部CT扫描同时检测多种急危重症，首款基础模型多适应证AI分诊工具。评分53。 | [链接](https://www.aidoc.com/about/news/aidoc-secures-landmark-fda-clearance/) |
 
 ---
 
