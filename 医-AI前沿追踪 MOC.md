@@ -62,6 +62,7 @@ type: tracker-moc
 | 2026-05-21 | 35 | [[2026-05-21\|查看]] | iHealthScreen AI糖网RCT临床试验注册（ClinicalTrials）+ NMPA批准全球首款商业化有创BCI（神念医疗NEO）+ Cognita胸片生成式AI获FDA突破性认定 |
 | 2026-05-22 | 20 | [[2026-05-22\|查看]] | LLM临床推理基准评测（NEJM AI，o3最高67.8%领先）+ 肾移植EHR-AI风险预测RCT（npj Digital Medicine，76例中性）+ 欧盟AI法案医疗器械延期至2028年 |
 | 2026-07-04 | 20 | [[2026-07-04\|查看]] | 代谢组学ML预测癌症免疫治疗结局（Nature Medicine，16队列1714例）+ OCT-AI眼科分诊真实世界评估（Frontiers Ophthalmology，247例）+ Aidoc基础模型AI获FDA批准 |
+| 2026-07-05 | 17 | [[2026-07-05\|查看]] | 住院患者低血糖LSTM实时预测前瞻性评估（Cedars-Sinai，n=143,124，npj Digital Medicine）+ NMPA累计批准127款AI医用软件 + 欧盟AI法案第50条透明度义务8月2日生效 |
 
 ---
 
@@ -176,6 +177,9 @@ type: tracker-moc
 | 2026-07-03 | COMPASS泛癌症FM预测免疫治疗结局 / Generalizable AI predicts immunotherapy outcomes across cancers | Harvard Medical School (Zitnik Lab) | 概念瓶颈Transformer基础模型，44个免疫生物学概念编码10,184例患者33种癌症，跨16队列AUROC+8.5%，Nature Medicine，评分80。 | [链接](https://www.nature.com/articles/s41591-026-04502-7) |
 | 2026-07-03 | MedGuards：多智能体医疗错误检测与纠正系统 / MedGuards Multi-Agent System for Reliable Medical Error Detection | Anonymous (OpenReview 2026) | 专用智能体分别负责错误检测/定位/纠正，置信度引导仲裁机制解决智能体分歧，四个多语言临床数据集验证，评分45。 | [链接](https://arxiv.org/abs/2606.25651) |
 | 2026-07-03 | NMPA脑机接口医疗器械分类指导原则 / NMPA BCI Device Classification Guidelines | NMPA | 中国首份BCI器械分类官方指南，植入式/非侵入式BCI默认三类，为BCI企业提供可预期中国监管路径，评分42。 | [链接](https://www.china-briefing.com/news/china-medical-device-classification-brain-computer-interfaces/) |
+| 2026-07-05 | 住院患者低血糖实时预测深度学习模型的开发与前瞻性评估 / Real-time deep learning model for inpatient hypoglycemia prediction | Cedars-Sinai Medical Center | 基于LSTM训练于143,124例住院记录（2014-2025年），实现提前24小时低血糖预警并完成前瞻性临床部署评估，npj Digital Medicine，评分66。 | [链接](https://www.nature.com/articles/s41746-026-02874-1) |
+| 2026-07-05 | 医生与AI对LLM临床能力评估存在系统性分歧 / Physicians and AI diverge in evaluating LLMs on real clinical cases | 多中心研究联盟 | 400余名医生7专科研究，发现对LLM临床能力评估因职级与执业环境存在系统性偏差，揭示临床AI评测方法论缺陷，npj Digital Medicine，评分56。 | [链接](https://www.nature.com/articles/s41746-026-02942-6) |
+| 2026-07-05 | 国家药监局累计批准AI医用软件127款 / China NMPA AI Medical Software Approvals Reach 127 Products | NMPA | 2026年上半年新增13款，放射科占81%，心脏科/眼科/消化科多点扩展，三类证占比约80%，为中国医疗AI监管最新全景，评分53。 | [链接](https://chinamedglobal.com/blog/nmpa-approved-ai-medical-devices-list-landscape-data-analysis) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -211,6 +215,7 @@ type: tracker-moc
 | 2026-06-30 | 56 | [[2026-06-30\|查看]] | Hetairos CNS肿瘤病理AI预测102种甲基化亚型（Nature Cancer，9606例，评分78）+ 深度学习乳腺癌风险评分纵向分析（Radiology，哈佛/MGH，评分69）+ 专科AI盲法评估620临床查询超通用LLM（arXiv cohort，评分56） |
 | 2026-07-01 | 25 | [[2026-07-01\|查看]] | UCSF生成式AI乳腺肿瘤患者教育RCT（ClinicalTrials，评分58）+ Roche MS步态MCID智能手机队列（评分52）+ 首例人体量子纠缠成像（Jagiellonian，评分50） |
 | 2026-07-03 | 36 | [[2026-07-03\|查看]] | COMPASS泛癌症基础模型跨33种癌症预测免疫治疗结局（Nature Medicine，10,184例，评分80）+ MedGuards多智能体医疗错误检测纠正系统（评分45）+ NMPA脑机接口医疗器械分类指导原则（评分42） |
+| 2026-07-05 | 17 | [[2026-07-05\|查看]] | 住院患者低血糖LSTM实时预测前瞻性评估（Cedars-Sinai，n=143,124，npj Digital Medicine，评分66）+ NMPA累计批准127款AI医用软件（评分53）+ 欧盟AI法案第50条透明度义务8月2日生效（评分40） |
 
 ---
 
