@@ -63,6 +63,7 @@ type: tracker-moc
 | 2026-05-22 | 20 | [[2026-05-22\|查看]] | LLM临床推理基准评测（NEJM AI，o3最高67.8%领先）+ 肾移植EHR-AI风险预测RCT（npj Digital Medicine，76例中性）+ 欧盟AI法案医疗器械延期至2028年 |
 | 2026-07-04 | 20 | [[2026-07-04\|查看]] | 代谢组学ML预测癌症免疫治疗结局（Nature Medicine，16队列1714例）+ OCT-AI眼科分诊真实世界评估（Frontiers Ophthalmology，247例）+ Aidoc基础模型AI获FDA批准 |
 | 2026-07-05 | 17 | [[2026-07-05\|查看]] | 住院患者低血糖LSTM实时预测前瞻性评估（Cedars-Sinai，n=143,124，npj Digital Medicine）+ NMPA累计批准127款AI医用软件 + 欧盟AI法案第50条透明度义务8月2日生效 |
+| 2026-07-06 | 14 | [[2026-07-06\|查看]] | UpDoc：首款FDA批准的患者端临床LLM（胰岛素管理）（HLTH / STAT News） |
 
 ---
 
@@ -180,6 +181,9 @@ type: tracker-moc
 | 2026-07-05 | 住院患者低血糖实时预测深度学习模型的开发与前瞻性评估 / Real-time deep learning model for inpatient hypoglycemia prediction | Cedars-Sinai Medical Center | 基于LSTM训练于143,124例住院记录（2014-2025年），实现提前24小时低血糖预警并完成前瞻性临床部署评估，npj Digital Medicine，评分66。 | [链接](https://www.nature.com/articles/s41746-026-02874-1) |
 | 2026-07-05 | 医生与AI对LLM临床能力评估存在系统性分歧 / Physicians and AI diverge in evaluating LLMs on real clinical cases | 多中心研究联盟 | 400余名医生7专科研究，发现对LLM临床能力评估因职级与执业环境存在系统性偏差，揭示临床AI评测方法论缺陷，npj Digital Medicine，评分56。 | [链接](https://www.nature.com/articles/s41746-026-02942-6) |
 | 2026-07-05 | 国家药监局累计批准AI医用软件127款 / China NMPA AI Medical Software Approvals Reach 127 Products | NMPA | 2026年上半年新增13款，放射科占81%，心脏科/眼科/消化科多点扩展，三类证占比约80%，为中国医疗AI监管最新全景，评分53。 | [链接](https://chinamedglobal.com/blog/nmpa-approved-ai-medical-devices-list-landscape-data-analysis) |
+| 2026-07-06 | UpDoc：首款FDA批准的患者端临床LLM（胰岛素管理） / UpDoc: First FDA-Cleared Patient-Facing  | UpDoc（初创公司） | UpDoc V1.0获得FDA 510(k)批准（K253281），成为首款面向患者的临床大模型处方软件，用于2型糖尿病。评分58。 | [链接](https://hlth.com/insights/news/updoc-debuts-first-fda-cleared-patient-facing-clinical-llm-for-insulin-management) |
+| 2026-07-06 | NCT07463833：放射肿瘤学AI辅助治疗前同行评审随机对照试验于2026年 / NCT07463833: RCT of AI-Enhanced Pretreat | UNC Lineberger Comprehens | UNC Lineberger综合癌症中心于2026年7月启动NCT07463833随机对照试验，评估AI增强的放射肿瘤治。评分56。 | [链接](https://clinicaltrials.gov/study/NCT07463833) |
+| 2026-07-06 | 数字孪生预测心脏再同步治疗起搏位点选择成功率 / Digital Twins Predict Cardiac Resynchron | 多机构（medRxiv预印本） | 研究者为74例患者用CT/MRI构建个性化3D心脏数字孪生模型，结合机器学习预测CRT导联位置疗效；在19例验证患者中，。评分53。 | [链接](https://yesilscience.com/digital-twins-predict-cardiac-pacing-success/) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
