@@ -64,6 +64,7 @@ type: tracker-moc
 | 2026-07-04 | 20 | [[2026-07-04\|查看]] | 代谢组学ML预测癌症免疫治疗结局（Nature Medicine，16队列1714例）+ OCT-AI眼科分诊真实世界评估（Frontiers Ophthalmology，247例）+ Aidoc基础模型AI获FDA批准 |
 | 2026-07-05 | 17 | [[2026-07-05\|查看]] | 住院患者低血糖LSTM实时预测前瞻性评估（Cedars-Sinai，n=143,124，npj Digital Medicine）+ NMPA累计批准127款AI医用软件 + 欧盟AI法案第50条透明度义务8月2日生效 |
 | 2026-07-06 | 18 | [[2026-07-06\|查看]] | UpDoc首款FDA批准患者端临床LLM（score=58）+ HemaGuide血液肿瘤AI智能体（Nature Medicine，score=57）+ LLM-EHR编码器超越专用模型（Charité/MIT，npj Digital Medicine，score=57）+ NCT07463833放射肿瘤AI RCT启动（score=56） |
+| 2026-07-07 | 26 | [[2026-07-07\|查看]] | TriageMaster-70B LLM急诊ACS智能分诊（npj DM，n=16,940，评分77）+ CKD进展AI跨种族预测（npj DM，n=569,680，评分66）+ 单导联ECG精度桥接（npj DM，评分64）|
 
 ---
 
@@ -184,6 +185,9 @@ type: tracker-moc
 | 2026-07-06 | UpDoc：首款FDA批准的患者端临床LLM（胰岛素管理） / UpDoc: First FDA-Cleared Patient-Facing Clinical LLM | UpDoc（初创公司） | UpDoc V1.0获得FDA 510(k)批准（K253281），成为首款面向患者的临床大模型处方软件，用于2型糖尿病胰岛素管理，8周达标率81% vs 对照组25%，评分58。 | [链接](https://hlth.com/insights/news/updoc-debuts-first-fda-cleared-patient-facing-clinical-llm-for-insulin-management) |
 | 2026-07-06 | HemaGuide：血液肿瘤临床决策AI智能体 / Clinical decision support in hematological malignancies using a case-grounded AI agent | DKFZ / Heidelberg University Hospital | 模块化LLM智能体以2000+真实肿瘤委员会病例为记忆库，45例专家盲测在6个基础模型上均显著提升与肿瘤委员会决策一致性，Nature Medicine，评分57。 | [链接](https://www.nature.com/articles/s41591-026-04494-4) |
 | 2026-07-06 | 大语言模型是强大的EHR编码器 / Large Language Models are Powerful EHR Encoders | Charité – Universitätsmedizin Berlin / MIT CSAIL | 通用LLM嵌入在EHRSHOT 15项临床预测任务上频繁超越专用EHR基础模型，无需私有医疗训练数据，npj Digital Medicine，评分57。 | [链接](https://arxiv.org/abs/2502.17403) |
+| 2026-07-07 | TriageMaster-70B：LLM用于急诊急性冠脉综合征首次接诊智能分诊 / Large language models for ACS triage at first medical contact | 北京大学第三医院 | 70B参数LLM实现急诊ACS智能分诊，近1.7万患者队列验证，首次接诊分诊任务，npj Digital Medicine，评分77。 | [链接](https://doi.org/10.1038/s41746-026-02904-y) |
+| 2026-07-07 | 跨多元人群2型糖尿病慢性肾脏病进展AI风险预测 / AI Risk Prediction of CKD Progression in T2DM | 香港理工大学 | 基础模型跨种族队列预测2型糖尿病慢性肾病进展，验证于56.9万患者，npj Digital Medicine，评分66。 | [链接](https://doi.org/10.1038/s41746-026-02439-2) |
+| 2026-07-07 | 弥合临床与家庭单导联心电图的AI精度鸿沟 / Bridging the Gap from Clinical to Home Single-Lead ECG | 台湾国防医学院 | 量化并克服家庭单导联ECG的AI精度损失，提升模型跨场景泛化能力，npj Digital Medicine，评分64。 | [链接](https://doi.org/10.1038/s41746-026-02919-5) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -220,6 +224,8 @@ type: tracker-moc
 | 2026-07-01 | 25 | [[2026-07-01\|查看]] | UCSF生成式AI乳腺肿瘤患者教育RCT（ClinicalTrials，评分58）+ Roche MS步态MCID智能手机队列（评分52）+ 首例人体量子纠缠成像（Jagiellonian，评分50） |
 | 2026-07-03 | 36 | [[2026-07-03\|查看]] | COMPASS泛癌症基础模型跨33种癌症预测免疫治疗结局（Nature Medicine，10,184例，评分80）+ MedGuards多智能体医疗错误检测纠正系统（评分45）+ NMPA脑机接口医疗器械分类指导原则（评分42） |
 | 2026-07-05 | 17 | [[2026-07-05\|查看]] | 住院患者低血糖LSTM实时预测前瞻性评估（Cedars-Sinai，n=143,124，npj Digital Medicine，评分66）+ NMPA累计批准127款AI医用软件（评分53）+ 欧盟AI法案第50条透明度义务8月2日生效（评分40） |
+| 2026-07-06 | 18 | [[2026-07-06\|查看]] | UpDoc首款FDA批准患者端临床LLM（评分58）+ HemaGuide血液肿瘤AI智能体（Nature Medicine，评分57）+ LLM-EHR编码器超越专用模型（Charité/MIT，评分57）|
+| 2026-07-07 | 26 | [[2026-07-07\|查看]] | TriageMaster-70B LLM急诊ACS智能分诊（npj DM，n=16,940，评分77）+ CKD进展AI跨种族预测（npj DM，n=569,680，评分66）+ 单导联ECG精度桥接（评分64）|
 
 ---
 
