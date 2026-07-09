@@ -65,6 +65,7 @@ type: tracker-moc
 | 2026-07-05 | 17 | [[2026-07-05\|查看]] | 住院患者低血糖LSTM实时预测前瞻性评估（Cedars-Sinai，n=143,124，npj Digital Medicine）+ NMPA累计批准127款AI医用软件 + 欧盟AI法案第50条透明度义务8月2日生效 |
 | 2026-07-06 | 18 | [[2026-07-06\|查看]] | UpDoc首款FDA批准患者端临床LLM（score=58）+ HemaGuide血液肿瘤AI智能体（Nature Medicine，score=57）+ LLM-EHR编码器超越专用模型（Charité/MIT，npj Digital Medicine，score=57）+ NCT07463833放射肿瘤AI RCT启动（score=56） |
 | 2026-07-07 | 26 | [[2026-07-07\|查看]] | TriageMaster-70B LLM急诊ACS智能分诊（npj DM，n=16,940，评分77）+ CKD进展AI跨种族预测（npj DM，n=569,680，评分66）+ 单导联ECG精度桥接（npj DM，评分64）|
+| 2026-07-08 | 40 | [[2026-07-08\|查看]] | 跨人群T2DM慢性肾病进展AI风险预测（HK PolyU，npj Digital Medicine，56.9万例，score=66）+ 患者对AI起草门诊消息认知（Duke，JAMA，1455例，score=62）+ 奥地利全国共病网络分析（Vienna，545,558例，score=58）+ FDA首款患者端LLM SaMD：UpDoc监管路径（score=53） |
 
 ---
 
@@ -188,6 +189,9 @@ type: tracker-moc
 | 2026-07-07 | TriageMaster-70B：LLM用于急诊急性冠脉综合征首次接诊智能分诊 / Large language models for ACS triage at first medical contact | 北京大学第三医院 | 70B参数LLM实现急诊ACS智能分诊，近1.7万患者队列验证，首次接诊分诊任务，npj Digital Medicine，评分77。 | [链接](https://doi.org/10.1038/s41746-026-02904-y) |
 | 2026-07-07 | 跨多元人群2型糖尿病慢性肾脏病进展AI风险预测 / AI Risk Prediction of CKD Progression in T2DM | 香港理工大学 | 基础模型跨种族队列预测2型糖尿病慢性肾病进展，验证于56.9万患者，npj Digital Medicine，评分66。 | [链接](https://doi.org/10.1038/s41746-026-02439-2) |
 | 2026-07-07 | 弥合临床与家庭单导联心电图的AI精度鸿沟 / Bridging the Gap from Clinical to Home Single-Lead ECG | 台湾国防医学院 | 量化并克服家庭单导联ECG的AI精度损失，提升模型跨场景泛化能力，npj Digital Medicine，评分64。 | [链接](https://doi.org/10.1038/s41746-026-02919-5) |
+| 2026-07-08 | 跨人群2型糖尿病慢性肾病进展AI风险预测 / Risk Prediction of CKD Progression in T2DM Across Diverse Populations | The Hong Kong Polytechnic University | 56.9万例香港EHR构建AI模型预测10年慢性肾病进展风险，AUC 87.1%，多族裔验证，npj Digital Medicine，评分66。 | [链接](https://www.nature.com/articles/s41746-026-02439-2) |
+| 2026-07-08 | 患者对AI起草电子门诊消息的认知与满意度 / Patient Perspectives on AI-Drafted Electronic Portal Messages | Duke University Health System | 1455例患者调查，AI起草消息满意度略优于人工；告知AI来源后满意度下降，揭示透明度对接受度的关键影响，JAMA Network Open，评分62。 | [链接](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2851278) |
+| 2026-07-08 | 共病网络分析揭示奥地利本国与非本国住院患者诊断差异 / Comorbidity Network Analysis Reveals Diagnostic Disparities Between Austrian and Non-Austrian Inpatients | Medical University of Vienna | 1300万次住院数据全国队列，非本国患者代谢与心血管疾病负担更高，本国患者抑郁症共病更多，arXiv cohort，评分58。 | [链接](https://arxiv.org/abs/2607.04296) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
