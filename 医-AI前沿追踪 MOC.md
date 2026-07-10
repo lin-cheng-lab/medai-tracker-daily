@@ -66,6 +66,7 @@ type: tracker-moc
 | 2026-07-06 | 18 | [[2026-07-06\|查看]] | UpDoc首款FDA批准患者端临床LLM（score=58）+ HemaGuide血液肿瘤AI智能体（Nature Medicine，score=57）+ LLM-EHR编码器超越专用模型（Charité/MIT，npj Digital Medicine，score=57）+ NCT07463833放射肿瘤AI RCT启动（score=56） |
 | 2026-07-07 | 26 | [[2026-07-07\|查看]] | TriageMaster-70B LLM急诊ACS智能分诊（npj DM，n=16,940，评分77）+ CKD进展AI跨种族预测（npj DM，n=569,680，评分66）+ 单导联ECG精度桥接（npj DM，评分64）|
 | 2026-07-08 | 40 | [[2026-07-08\|查看]] | 跨人群T2DM慢性肾病进展AI风险预测（HK PolyU，npj Digital Medicine，56.9万例，score=66）+ 患者对AI起草门诊消息认知（Duke，JAMA，1455例，score=62）+ 奥地利全国共病网络分析（Vienna，545,558例，score=58）+ FDA首款患者端LLM SaMD：UpDoc监管路径（score=53） |
+| 2026-07-09 | 50 | [[2026-07-09\|查看]] | Nanox.AI多中心RCT AI检测偶发冠脉钙化支持他汀预防（SCCT 2026，score=57）+ AI多夜睡眠监测降低OSA误诊率（npj Digital Medicine，score=55）+ Absentia Labs AI数字肝脏模型首入FDA ISTAND资格认定（score=53）+ MRI乳腺癌治疗前独立于分子亚型的结构表型（score=52） |
 
 ---
 
