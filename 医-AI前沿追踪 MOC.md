@@ -68,6 +68,7 @@ type: tracker-moc
 | 2026-07-08 | 40 | [[2026-07-08\|查看]] | 跨人群T2DM慢性肾病进展AI风险预测（HK PolyU，npj Digital Medicine，56.9万例，score=66）+ 患者对AI起草门诊消息认知（Duke，JAMA，1455例，score=62）+ 奥地利全国共病网络分析（Vienna，545,558例，score=58）+ FDA首款患者端LLM SaMD：UpDoc监管路径（score=53） |
 | 2026-07-09 | 50 | [[2026-07-09\|查看]] | Nanox.AI多中心RCT AI检测偶发冠脉钙化支持他汀预防（SCCT 2026，score=57）+ AI多夜睡眠监测降低OSA误诊率（npj Digital Medicine，score=55）+ Absentia Labs AI数字肝脏模型首入FDA ISTAND资格认定（score=53）+ MRI乳腺癌治疗前独立于分子亚型的结构表型（score=52） |
 | 2026-07-10 | 23 | [[2026-07-10\|查看]] | 方向性AI建议医疗RCT揭示责任护栏导致建议方向偏差（Peking Univ，score=57）+ iPredict-DR关键临床试验NCT07151001（iHealthScreen，score=54）+ iPredict-DR FDA 510(k)眼底糖网AI自主筛查（score=50）+ EAGLE计算病理43任务基准测试超越专用模型（Nature Communications，score=49）|
+| 2026-07-11 | 14 | [[2026-07-11\|查看]] | NeuroVFM神经影像通用基础模型（Nature Medicine，566,915例，score=68）+ DEEP-AF多中心RCT AI增强心电图房颤检测（score=61）+ UPRETINA眼底AI临床验证DR/AMD/青光眼AUROC 0.978（眼科，score=54）+ AIM-NASH AI终点获EMA/FDA双认证（NEJM AI，score=50）|
 
 ---
 
