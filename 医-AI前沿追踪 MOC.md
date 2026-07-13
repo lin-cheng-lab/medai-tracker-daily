@@ -69,6 +69,7 @@ type: tracker-moc
 | 2026-07-09 | 50 | [[2026-07-09\|查看]] | Nanox.AI多中心RCT AI检测偶发冠脉钙化支持他汀预防（SCCT 2026，score=57）+ AI多夜睡眠监测降低OSA误诊率（npj Digital Medicine，score=55）+ Absentia Labs AI数字肝脏模型首入FDA ISTAND资格认定（score=53）+ MRI乳腺癌治疗前独立于分子亚型的结构表型（score=52） |
 | 2026-07-10 | 23 | [[2026-07-10\|查看]] | 方向性AI建议医疗RCT揭示责任护栏导致建议方向偏差（Peking Univ，score=57）+ iPredict-DR关键临床试验NCT07151001（iHealthScreen，score=54）+ iPredict-DR FDA 510(k)眼底糖网AI自主筛查（score=50）+ EAGLE计算病理43任务基准测试超越专用模型（Nature Communications，score=49）|
 | 2026-07-11 | 14 | [[2026-07-11\|查看]] | NeuroVFM神经影像通用基础模型（Nature Medicine，566,915例，score=68）+ DEEP-AF多中心RCT AI增强心电图房颤检测（score=61）+ UPRETINA眼底AI临床验证DR/AMD/青光眼AUROC 0.978（眼科，score=54）+ AIM-NASH AI终点获EMA/FDA双认证（NEJM AI，score=50）|
+| 2026-07-12 | 32 | [[2026-07-12\|查看]] | POLY-HF RCT：三合一复方片降低HFrEF住院率60%（Nature Medicine，score=77）+ 深度学习H&E乳腺癌风险超越Oncotype DX（Lancet Oncology，8284例，score=73）+ NEVA神经母细胞瘤VLM 11任务（Nature Communications，score=70）|
 
 ---
 
@@ -195,6 +196,9 @@ type: tracker-moc
 | 2026-07-08 | 跨人群2型糖尿病慢性肾病进展AI风险预测 / Risk Prediction of CKD Progression in T2DM Across Diverse Populations | The Hong Kong Polytechnic University | 56.9万例香港EHR构建AI模型预测10年慢性肾病进展风险，AUC 87.1%，多族裔验证，npj Digital Medicine，评分66。 | [链接](https://www.nature.com/articles/s41746-026-02439-2) |
 | 2026-07-08 | 患者对AI起草电子门诊消息的认知与满意度 / Patient Perspectives on AI-Drafted Electronic Portal Messages | Duke University Health System | 1455例患者调查，AI起草消息满意度略优于人工；告知AI来源后满意度下降，揭示透明度对接受度的关键影响，JAMA Network Open，评分62。 | [链接](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2851278) |
 | 2026-07-08 | 共病网络分析揭示奥地利本国与非本国住院患者诊断差异 / Comorbidity Network Analysis Reveals Diagnostic Disparities Between Austrian and Non-Austrian Inpatients | Medical University of Vienna | 1300万次住院数据全国队列，非本国患者代谢与心血管疾病负担更高，本国患者抑郁症共病更多，arXiv cohort，评分58。 | [链接](https://arxiv.org/abs/2607.04296) |
+| 2026-07-12 | POLY-HF：心衰三合一复方片RCT / Polypill for heart failure with reduced ejection fraction: the POLY-HF randomized trial | UT Southwestern Medical Center | 212例HFrEF患者RCT证明美托洛尔+螺内酯+恩格列净三合一复方片降低60%心衰住院率，Nature Medicine，评分77。 | [链接](https://www.nature.com/articles/s41591-026-04504-5) |
+| 2026-07-12 | 深度学习H&E乳腺癌复发风险预测超越Oncotype DX / Deep Learning on H&E Slides Predicts Breast Cancer Recurrence Risk | Multiple centers | TAILORx 8,284例验证，AI病理分层灵敏度0.85 vs Oncotype DX的0.33，Lancet Oncology发表，评分73。 | [链接](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00727-2/fulltext) |
+| 2026-07-12 | NEVA神经母细胞瘤统一视觉语言模型 / A unified vision-language model for precision oncology in neuroblastoma | Multi-institutional | 1238例多中心队列11项临床任务，NMYC扩增预测AUROC 0.924，亚型分类AUC 0.916，超越10种基础模型，评分70。 | [链接](https://www.nature.com/articles/s41467-026-74865-5) |
 | 2026-05-23 | 30 | [[2026-05-23\|查看]] | 全量扫描30条新内容（含FlexiCT 266,227例CT通用基础模型 + 多Cluster综合） |
 | 2026-05-24 | 19 | [[2026-05-24\|查看]] | 环境AI医疗记录员RCT（NEJM AI，UCLA）+ PREVENT/SCORE2 640万人心血管验证（Nature Medicine）+ OpenAI o1急诊超越医生（哈佛/BIDMC） |
 | 2026-05-27 | 26 | [[2026-05-27\|查看]] | FDA授予SPOT-MAS 10多癌种液体活检突破性器械认定 + EyeAgent眼科53工具Agentic AI + MorphoXAI全切片可解释框架（Mayo，npj Digital Medicine） |
@@ -233,6 +237,11 @@ type: tracker-moc
 | 2026-07-05 | 17 | [[2026-07-05\|查看]] | 住院患者低血糖LSTM实时预测前瞻性评估（Cedars-Sinai，n=143,124，npj Digital Medicine，评分66）+ NMPA累计批准127款AI医用软件（评分53）+ 欧盟AI法案第50条透明度义务8月2日生效（评分40） |
 | 2026-07-06 | 18 | [[2026-07-06\|查看]] | UpDoc首款FDA批准患者端临床LLM（评分58）+ HemaGuide血液肿瘤AI智能体（Nature Medicine，评分57）+ LLM-EHR编码器超越专用模型（Charité/MIT，评分57）|
 | 2026-07-07 | 26 | [[2026-07-07\|查看]] | TriageMaster-70B LLM急诊ACS智能分诊（npj DM，n=16,940，评分77）+ CKD进展AI跨种族预测（npj DM，n=569,680，评分66）+ 单导联ECG精度桥接（评分64）|
+| 2026-07-08 | 40 | [[2026-07-08\|查看]] | 跨人群T2DM慢性肾病进展AI风险预测（HK PolyU，npj Digital Medicine，56.9万例，score=66）+ 患者对AI起草门诊消息认知（Duke，JAMA，1455例，score=62）+ 奥地利全国共病网络分析（Vienna，545,558例，score=58）|
+| 2026-07-09 | 50 | [[2026-07-09\|查看]] | Nanox.AI多中心RCT AI检测偶发冠脉钙化支持他汀预防（SCCT 2026，score=57）+ AI多夜睡眠监测降低OSA误诊率（npj Digital Medicine，score=55）+ Absentia Labs AI数字肝脏模型首入FDA ISTAND（score=53）|
+| 2026-07-10 | 23 | [[2026-07-10\|查看]] | 方向性AI建议医疗RCT揭示责任护栏导致建议方向偏差（Peking Univ，score=57）+ iPredict-DR关键临床试验NCT07151001（score=54）+ EAGLE计算病理43任务基准（Nature Communications，score=49）|
+| 2026-07-11 | 14 | [[2026-07-11\|查看]] | NeuroVFM神经影像通用基础模型（Nature Medicine，566,915例，score=68）+ DEEP-AF多中心RCT AI增强心电图房颤检测（score=61）+ UPRETINA眼底AI临床验证（眼科，score=54）|
+| 2026-07-12 | 32 | [[2026-07-12\|查看]] | POLY-HF RCT：三合一复方片降低HFrEF住院率60%（Nature Medicine，score=77）+ 深度学习H&E乳腺癌风险超越Oncotype DX（Lancet Oncology，8284例，score=73）+ NEVA神经母细胞瘤VLM（Nature Communications，score=70）|
 
 ---
 
