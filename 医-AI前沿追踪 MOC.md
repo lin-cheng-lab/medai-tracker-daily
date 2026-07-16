@@ -71,6 +71,7 @@ type: tracker-moc
 | 2026-07-11 | 14 | [[2026-07-11\|查看]] | NeuroVFM神经影像通用基础模型（Nature Medicine，566,915例，score=68）+ DEEP-AF多中心RCT AI增强心电图房颤检测（score=61）+ UPRETINA眼底AI临床验证DR/AMD/青光眼AUROC 0.978（眼科，score=54）+ AIM-NASH AI终点获EMA/FDA双认证（NEJM AI，score=50）|
 | 2026-07-12 | 32 | [[2026-07-12\|查看]] | POLY-HF RCT：三合一复方片降低HFrEF住院率60%（Nature Medicine，score=77）+ 深度学习H&E乳腺癌风险超越Oncotype DX（Lancet Oncology，8284例，score=73）+ NEVA神经母细胞瘤VLM 11任务（Nature Communications，score=70）|
 | 2026-07-13 | 20 | [[2026-07-13\|查看]] | 泰国大规模胸片胸部疾病检测系统临床验证（Mahidol，ECCV 2026，score=48）+ MedPMC 1100万医学图文对基础模型框架（Yale/Korea/WU，score=46）+ LongMedBench长时程临床决策医学Agent基准（MICCAI 2026，score=41）|
+| 2026-07-16 | 32 | [[2026-07-16\|查看]] | 因果AI-ICU脓毒性休克血流动力学（3136例cohort，medRxiv，55pt）+ Insilico AI药物Rentosertib三期RCT（320例，54pt）+ AI眼底多病种临床研究（ClinicalTrials，眼科加权，54pt）|
 
 ---
 
