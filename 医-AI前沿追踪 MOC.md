@@ -71,6 +71,7 @@ type: tracker-moc
 | 2026-07-11 | 14 | [[2026-07-11\|查看]] | NeuroVFM神经影像通用基础模型（Nature Medicine，566,915例，score=68）+ DEEP-AF多中心RCT AI增强心电图房颤检测（score=61）+ UPRETINA眼底AI临床验证DR/AMD/青光眼AUROC 0.978（眼科，score=54）+ AIM-NASH AI终点获EMA/FDA双认证（NEJM AI，score=50）|
 | 2026-07-12 | 32 | [[2026-07-12\|查看]] | POLY-HF RCT：三合一复方片降低HFrEF住院率60%（Nature Medicine，score=77）+ 深度学习H&E乳腺癌风险超越Oncotype DX（Lancet Oncology，8284例，score=73）+ NEVA神经母细胞瘤VLM 11任务（Nature Communications，score=70）|
 | 2026-07-13 | 20 | [[2026-07-13\|查看]] | 泰国大规模胸片胸部疾病检测系统临床验证（Mahidol，ECCV 2026，score=48）+ MedPMC 1100万医学图文对基础模型框架（Yale/Korea/WU，score=46）+ LongMedBench长时程临床决策医学Agent基准（MICCAI 2026，score=41）|
+| 2026-07-15 | 35 | [[2026-07-15\|查看]] | RetiAF：多模态FM基于视网膜眼底图像预测心房颤动（npj DM，score=69）+ NITROGEN免插补变换器AD预测（EPFL/CHUV，11819例，score=64）+ 清华大学LLM门诊前瞻性RCT注册（NCT07641478，score=56）|
 
 ---
 
