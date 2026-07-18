@@ -73,6 +73,7 @@ type: tracker-moc
 | 2026-07-13 | 20 | [[2026-07-13\|查看]] | 泰国大规模胸片胸部疾病检测系统临床验证（Mahidol，ECCV 2026，score=48）+ MedPMC 1100万医学图文对基础模型框架（Yale/Korea/WU，score=46）+ LongMedBench长时程临床决策医学Agent基准（MICCAI 2026，score=41）|
 | 2026-07-16 | 32 | [[2026-07-16\|查看]] | 因果AI-ICU脓毒性休克血流动力学（3136例cohort，medRxiv，55pt）+ Insilico AI药物Rentosertib三期RCT（320例，54pt）+ AI眼底多病种临床研究（ClinicalTrials，眼科加权，54pt）|
 | 2026-07-17 | 18 | [[2026-07-17\|查看]] | AI辅助胎儿异常超声扫描多中心RCT（NEJM AI，73pt）+ AI预后工具改善结直肠癌肝转移临床决策（npj Digital Medicine，64pt）+ 多维MRI特权学习预测缺血性卒中预后（npj Digital Medicine，56pt）|
+| 2026-07-18 | 45 | [[2026-07-18\|查看]] | AutoDVT多中心双盲AI近端DVT检测（NEJM AI，58pt）+ TRACE-PCa纵向MRI预测前列腺癌进展（arXiv，48pt）+ OpenAI×Penda Health临床AI Copilot降低诊断错误率16%（44pt）|
 
 ---
 
