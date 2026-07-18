@@ -72,6 +72,7 @@ type: tracker-moc
 | 2026-07-12 | 32 | [[2026-07-12\|查看]] | POLY-HF RCT：三合一复方片降低HFrEF住院率60%（Nature Medicine，score=77）+ 深度学习H&E乳腺癌风险超越Oncotype DX（Lancet Oncology，8284例，score=73）+ NEVA神经母细胞瘤VLM 11任务（Nature Communications，score=70）|
 | 2026-07-13 | 20 | [[2026-07-13\|查看]] | 泰国大规模胸片胸部疾病检测系统临床验证（Mahidol，ECCV 2026，score=48）+ MedPMC 1100万医学图文对基础模型框架（Yale/Korea/WU，score=46）+ LongMedBench长时程临床决策医学Agent基准（MICCAI 2026，score=41）|
 | 2026-07-16 | 32 | [[2026-07-16\|查看]] | 因果AI-ICU脓毒性休克血流动力学（3136例cohort，medRxiv，55pt）+ Insilico AI药物Rentosertib三期RCT（320例，54pt）+ AI眼底多病种临床研究（ClinicalTrials，眼科加权，54pt）|
+| 2026-07-17 | 18 | [[2026-07-17\|查看]] | AI辅助胎儿异常超声扫描多中心RCT（NEJM AI，73pt）+ AI预后工具改善结直肠癌肝转移临床决策（npj Digital Medicine，64pt）+ 多维MRI特权学习预测缺血性卒中预后（npj Digital Medicine，56pt）|
 
 ---
 
@@ -302,6 +303,12 @@ type: tracker-moc
 | 2026-07-04 | 血浆代谢组学ML识别癌症免疫治疗代谢决定因素 / Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling | Memorial Sloan Kettering Cancer Center | 血浆代谢蛋白质组学联合机器学习在16个临床队列1714例中识别癌症免疫治疗预测性生物标志物，Nature Medicine发表。评分60。 | [链接](https://www.nature.com/articles/s41591-026-04481-9) |
 | 2026-07-04 | OCT-AI眼科分诊真实世界评估 / Real-world evaluation of an OCT-based AI decision-support system for neovascular AMD triage | 欧洲多中心 / deepeye Medical | 247例真实世界队列验证OCT-AI系统精准分诊新生血管AMD活动性，减少不必要转诊与治疗延误，Frontiers in Ophthalmology。评分58（眼科加权）。 | [链接](https://www.frontiersin.org/journals/ophthalmology/articles/10.3389/fopht.2026.1870572/full) |
 | 2026-07-04 | Aidoc获FDA 510(k)批准：医疗行业首款综合基础模型AI多病种体部CT分诊系统 / Aidoc First Comprehensive Foundation Model AI Triage for Body CT | Aidoc | 基于CARE基础模型的综合AI分诊方案获FDA批准，可从单次体部CT扫描同时检测多种急危重症，首款基础模型多适应证AI分诊工具。评分53。 | [链接](https://www.aidoc.com/about/news/aidoc-secures-landmark-fda-clearance/) |
+| 2026-07-16 | 基于因果AI的ICU脓毒性休克早期血流动力学管理 / The Causal Artificial Intelligence Clinician for early haemodynamic management of septic shock in ICU | 多中心ICU | 图形因果推理模型分析3136例ICU患者，偏离AI升压药推荐导致院内死亡率5.61倍增加，medRxiv发表。评分55。 | [链接](https://www.medrxiv.org/content/10.64898/2026.07.06.26357375v1.full) |
+| 2026-07-16 | Insilico Medicine启动AI研发药物Rentosertib三期临床试验 / Insilico Medicine Initiates Phase III Clinical Trial for AI-Discovered Rentosertib | Insilico Medicine | AI发现的TNIK抑制剂Rentosertib进入320例IPF三期RCT，二期FVC改善+98.4mL，AI药物大规模临床里程碑。评分54。 | [链接](https://insilico.com/news/xmjsn4l091-insilico-initiates-phase-iii-clinical-tr) |
+| 2026-07-16 | AI辅助眼底后段多病种检测临床研究：糖网、黄斑变性、视网膜静脉阻塞与青光眼 / AI-Assisted Detection of Posterior Segment Diseases | 多中心眼科机构 | 系统评估AI辅助检测DR/AMD/RVO/青光眼四类眼底疾病性能，ClinicalTrials.gov注册，眼科AI高级别循证证据。评分54（眼科加权）。 | [链接](https://clinicaltrials.gov/study/NCT07318428) |
+| 2026-07-17 | AI辅助胎儿异常超声扫描随机对照试验（NEJM AI）/ AI to Assist in the Fetal Anomaly Ultrasound Scan: A Randomized Controlled Trial | 多中心RCT机构 | 多中心RCT证实AI辅助系统可显著提升胎儿异常超声筛查诊断准确率及扫描效能，NEJM AI发表，产前影像AI最高级别循证依据。评分73。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2400747) |
+| 2026-07-17 | AI预后工具对结直肠癌肝转移临床医师决策表现的影响 / Impact of an AI prognostic tool on clinician performance in colorectal liver metastases | 多机构合作 | AI预后辅助工具显著提升外科医师对结直肠肝转移患者治疗方案与参考基准的一致性，npj Digital Medicine发表。评分64。 | [链接](https://www.nature.com/articles/s41746-026-02606-5) |
+| 2026-07-17 | 多维MRI表征与特权学习预测缺血性卒中患者功能预后 / Multi-dimensional MRI and privileged learning for ischemic stroke functional outcome prediction | 多机构合作 | 多模态MRI联合特权学习框架预测急性缺血性卒中功能预后，整合多序列影像特征优于单模态基线，npj Digital Medicine发表。评分56。 | [链接](https://www.nature.com/articles/s41746-026-02708-0) |
 
 ---
 
