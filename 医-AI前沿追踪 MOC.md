@@ -75,6 +75,7 @@ type: tracker-moc
 | 2026-07-17 | 18 | [[2026-07-17\|查看]] | AI辅助胎儿异常超声扫描多中心RCT（NEJM AI，73pt）+ AI预后工具改善结直肠癌肝转移临床决策（npj Digital Medicine，64pt）+ 多维MRI特权学习预测缺血性卒中预后（npj Digital Medicine，56pt）|
 | 2026-07-18 | 45 | [[2026-07-18\|查看]] | AutoDVT多中心双盲AI近端DVT检测（NEJM AI，58pt）+ TRACE-PCa纵向MRI预测前列腺癌进展（arXiv，48pt）+ OpenAI×Penda Health临床AI Copilot降低诊断错误率16%（44pt）|
 | 2026-07-19 | 28 | [[2026-07-19\|查看]] | 动态心电图可解释AI心力衰竭风险早期预测（npj Digital Medicine，7万例cohort，72pt）+ Endo-Histo内镜组织学融合FM溃疡性结肠炎RCT（ECCO-JCC，68pt）+ CMS拟建立Medicare AI诊断软件新支付类别（监管首创，53pt）|
+| 2026-07-20 | 14 | [[2026-07-20\|查看]] | 人机协作肿瘤临床试验资格预筛RCT（Nature Communications，355例，72pt）+ 眼科AI诊断多中心RCT登记NCT07154680（52pt）+ Harrison.ai非增强脑CT急性梗死分诊FDA批准（48pt）+ BunkerHill CAC AI冠脉钙化FDA批准（48pt）|
 
 ---
 
