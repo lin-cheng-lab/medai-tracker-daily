@@ -76,6 +76,7 @@ type: tracker-moc
 | 2026-07-18 | 45 | [[2026-07-18\|查看]] | AutoDVT多中心双盲AI近端DVT检测（NEJM AI，58pt）+ TRACE-PCa纵向MRI预测前列腺癌进展（arXiv，48pt）+ OpenAI×Penda Health临床AI Copilot降低诊断错误率16%（44pt）|
 | 2026-07-19 | 28 | [[2026-07-19\|查看]] | 动态心电图可解释AI心力衰竭风险早期预测（npj Digital Medicine，7万例cohort，72pt）+ Endo-Histo内镜组织学融合FM溃疡性结肠炎RCT（ECCO-JCC，68pt）+ CMS拟建立Medicare AI诊断软件新支付类别（监管首创，53pt）|
 | 2026-07-20 | 14 | [[2026-07-20\|查看]] | 人机协作肿瘤临床试验资格预筛RCT（Nature Communications，355例，72pt）+ 眼科AI诊断多中心RCT登记NCT07154680（52pt）+ Harrison.ai非增强脑CT急性梗死分诊FDA批准（48pt）+ BunkerHill CAC AI冠脉钙化FDA批准（48pt）|
+| 2026-07-21 | 19 | [[2026-07-21\|查看]] | ASRS 2026：AI筛查平台使视网膜临床试验随机化率提升37.5%（眼科×Agent，62pt）+ NOHARM研究：执业医师首选OpenEvidence超所有AI总和（45pt）+ ARPA-H资助Sonus超声AI孕产健康项目（9000万美元上限，40pt）|
 
 ---
 
