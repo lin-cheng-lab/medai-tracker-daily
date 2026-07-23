@@ -76,6 +76,7 @@ type: tracker-moc
 | 2026-07-18 | 45 | [[2026-07-18\|查看]] | AutoDVT多中心双盲AI近端DVT检测（NEJM AI，58pt）+ TRACE-PCa纵向MRI预测前列腺癌进展（arXiv，48pt）+ OpenAI×Penda Health临床AI Copilot降低诊断错误率16%（44pt）|
 | 2026-07-19 | 28 | [[2026-07-19\|查看]] | 动态心电图可解释AI心力衰竭风险早期预测（npj Digital Medicine，7万例cohort，72pt）+ Endo-Histo内镜组织学融合FM溃疡性结肠炎RCT（ECCO-JCC，68pt）+ CMS拟建立Medicare AI诊断软件新支付类别（监管首创，53pt）|
 | 2026-07-20 | 14 | [[2026-07-20\|查看]] | 人机协作肿瘤临床试验资格预筛RCT（Nature Communications，355例，72pt）+ 眼科AI诊断多中心RCT登记NCT07154680（52pt）+ Harrison.ai非增强脑CT急性梗死分诊FDA批准（48pt）+ BunkerHill CAC AI冠脉钙化FDA批准（48pt）|
+| 2026-07-23 | 29 | [[2026-07-23\|查看]] | 自监督驱动医学FM表征收敛（RWTH Aachen，65万胸片，46pt）+ OCT-Bench多模态LLM视网膜OCT理解基准（眼科加权，46pt）+ 德拉华HB191禁AI持医疗执照立法（监管首创，40pt）|
 
 ---
 
@@ -313,6 +314,9 @@ type: tracker-moc
 | 2026-07-17 | AI辅助胎儿异常超声扫描随机对照试验（NEJM AI）/ AI to Assist in the Fetal Anomaly Ultrasound Scan: A Randomized Controlled Trial | 多中心RCT机构 | 多中心RCT证实AI辅助系统可显著提升胎儿异常超声筛查诊断准确率及扫描效能，NEJM AI发表，产前影像AI最高级别循证依据。评分73。 | [链接](https://ai.nejm.org/doi/abs/10.1056/AIoa2400747) |
 | 2026-07-17 | AI预后工具对结直肠癌肝转移临床医师决策表现的影响 / Impact of an AI prognostic tool on clinician performance in colorectal liver metastases | 多机构合作 | AI预后辅助工具显著提升外科医师对结直肠肝转移患者治疗方案与参考基准的一致性，npj Digital Medicine发表。评分64。 | [链接](https://www.nature.com/articles/s41746-026-02606-5) |
 | 2026-07-17 | 多维MRI表征与特权学习预测缺血性卒中患者功能预后 / Multi-dimensional MRI and privileged learning for ischemic stroke functional outcome prediction | 多机构合作 | 多模态MRI联合特权学习框架预测急性缺血性卒中功能预后，整合多序列影像特征优于单模态基线，npj Digital Medicine发表。评分56。 | [链接](https://www.nature.com/articles/s41746-026-02708-0) |
+| 2026-07-23 | 自监督比临床监督更能驱动医学基础模型表征收敛 / Self-supervision drives representational convergence in medical foundation models more than clinical supervision | RWTH Aachen University Hospital | 系统比较18种图像与7种文本编码器在5类影像模态、65万张胸片数据上，自监督预训练收敛率(40.4%)显著优于标签监督(21.1%)和图文对比(3.3%)。评分46。 | [arxiv:2607.20274](https://arxiv.org/abs/2607.20274) |
+| 2026-07-23 | 多模态大语言模型能理解OCT图像吗？ / Can Multimodal Large Language Models Understand OCT? | 未列出 | 发布OCT-Bench：从7个公开数据集提取10076道题/4137张OCT图像，按感知-认知-推理三维度20项细粒度任务系统评估多模态LLM对视网膜OCT的理解能力。评分46（眼科加权）。 | [arxiv:2607.16609](https://arxiv.org/abs/2607.16609) |
+| 2026-07-23 | 德拉华州HB 191：AI不得持有医疗执照或使用受保护职业称谓 / Delaware HB 191: AI Agents Prohibited from Holding Medical Licenses | State of Delaware | 2026年7月1日正式生效，全美首批禁止非人类实体以专业身份获得医疗执照或使用受保护职业称谓的州立法，监管首创，评分40。 | [链接](https://www.acr.org/News-and-Publications/2026/delaware-bars-ai-medical-licenses) |
 
 ---
 
