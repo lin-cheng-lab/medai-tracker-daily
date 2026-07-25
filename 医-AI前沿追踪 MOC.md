@@ -77,6 +77,8 @@ type: tracker-moc
 | 2026-07-19 | 28 | [[2026-07-19\|查看]] | 动态心电图可解释AI心力衰竭风险早期预测（npj Digital Medicine，7万例cohort，72pt）+ Endo-Histo内镜组织学融合FM溃疡性结肠炎RCT（ECCO-JCC，68pt）+ CMS拟建立Medicare AI诊断软件新支付类别（监管首创，53pt）|
 | 2026-07-20 | 14 | [[2026-07-20\|查看]] | 人机协作肿瘤临床试验资格预筛RCT（Nature Communications，355例，72pt）+ 眼科AI诊断多中心RCT登记NCT07154680（52pt）+ Harrison.ai非增强脑CT急性梗死分诊FDA批准（48pt）+ BunkerHill CAC AI冠脉钙化FDA批准（48pt）|
 | 2026-07-23 | 29 | [[2026-07-23\|查看]] | 自监督驱动医学FM表征收敛（RWTH Aachen，65万胸片，46pt）+ OCT-Bench多模态LLM视网膜OCT理解基准（眼科加权，46pt）+ 德拉华HB191禁AI持医疗执照立法（监管首创，40pt）|
+| 2026-07-24 | 23 | [[2026-07-24\|查看]] | neuropacs获FDA De Novo授权：首个帕金森综合征AI-MRI诊断器械（64pt）+ Clairity Allix5 FDA De Novo：首个乳腺X线5年癌症风险AI平台（64pt）+ 血液RNA液体活检阿尔茨海默病早期检测（59pt，Nature Medicine）|
+| 2026-07-25 | 32 | [[2026-07-25\|查看]] | 遗传性视网膜病变AI辅助临床决策支持RCT（78pt，Nature Medicine RCT）+ PathBind病理VLM视觉定位评测（50pt）+ FDA Dexcom TEMPO数字健康器械试点（48pt）|
 
 ---
 
@@ -325,6 +327,14 @@ type: tracker-moc
 | 2026-07-24 | 通用跨模态医疗AI训练数据集偏差检测方法 / Detecting dataset bias in medical AI using a generalized and modality agnostic auditing approach | Johns Hopkins Univer | 与FDA合作开发G-AUDIT工具，自动扫描医疗AI训练数据（含影像、文本、表格）中可能导致模型错误学习的隐性偏差特征，为监管机构提供可扩展的医疗AI安全审计框...（XAI/评测基准）评分44。 | [DOI](https://www.eurekalert.org/news-releases/1136582) |
 | 2026-07-24 | WHO欧洲区全球AI健康高级别会议：构建AI医疗治理与伦理问责框架 / WHO/Europe Global Conference: Shaping AI in Health — Lisbon, July 15-16, 2026 | WHO | WHO欧洲区与葡萄牙联合主办全球AI健康高级别会议（2026年7月15-16日，里斯本），聚焦AI治理与战略领导力、法律伦理责任框架及公平投资策略，旨在将政治承...（监管伦理/对齐）评分38。 | [链接](https://www.who.int/europe/news-room/events/item/2026/07/15/default-calendar/global-who-conference--shaping-ai-in-health) |
 | 2026-07-24 | MedGame：LLM赋能医学教育叙事游戏化 / MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education | Medical Education AI | 将静态临床病案转化为以决策为中心的可执行叙事游戏，构建MedGame Bench（5000例基准与评估协议）用于医学叙事生成与病案演导评测。（评测基准/临床推理）评分37。 | [arxiv:2607.21570](https://arxiv.org/abs/2607.21570) |
+| 2026-07-25 | 遗传性视网膜病变AI辅助临床决策支持系统：多中心随机对照试验 / AI-based clinician decision support for inherited retinal diseases: multicenter RCT | 未列出（多中心RCT） | 开发Retina4IRD系统，基于RETFound预训练ViT从视网膜图像预测17种遗传性视网膜病变基因型，多中心RCT验证，Nature Medicine发表。评分78（眼科加权）。 | [链接](https://www.nature.com/articles/s41591-026-04545-w) |
+| 2026-07-25 | PathBind：病理视觉语言模型真的「看见」了吗？——文本概念与视觉区域绑定评测 / PathBind: Do Pathology VLMs Truly See? | Sichuan University | 构建PathBind基准评估病理VLM视觉定位能力，发现SOTA模型普遍存在「对齐幻觉」，2600张切片病理VLM视觉-语言失配问题首次系统揭示。评分50。 | [arxiv:2607.21065](https://arxiv.org/abs/2607.21065) |
+| 2026-07-25 | FDA宣布Dexcom为TEMPO数字健康器械试点首个参与者 / FDA Selects Dexcom as First TEMPO Pilot Participant | FDA / Dexcom | FDA宣布Dexcom AI血糖程序豁免部分上市前审查，整合G7/Stelo数据与营养活动睡眠上下文，数字健康器械新监管路径首例。评分48。 | [链接](https://www.businesswire.com/news/home/20260722426337/en/Dexcom-Announced-as-First-Participant-Selected-for-FDAs-TEMPO-Digital-Health-Devices-Pilot-Program/default.aspx) |
+| 2026-07-25 | NVIDIA开源首个GPU加速医学物理仿真框架 / NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework | NVIDIA | NVIDIA在Isaac for Healthcare发布开源GPU加速仿真框架，支持8192并行环境，将手术机器人策略训练压缩至2分钟，NVIDIA Blog发布。评分41。 | [链接](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/) |
+| 2026-07-25 | 欧盟《AI法》修订法规2026/1744正式刊载——医械AI合规截止期延至2028年 / EU Regulation 2026/1744 Published: Medical Device AI Deadlines Extended to 2028 | EU (European Parliament & Council) | 欧盟数字综合法（EU 2026/1744）7月24日刊载EU官方公报，7月27日生效；嵌入医疗器械高风险AI合规期从2026-08延至2028-08。评分40。 | [链接](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng) |
+| 2026-07-25 | FDA发布MDUFA VI草案承诺函（FY2028-2032）/ FDA Releases MDUFA VI Draft Commitments Letter (FY2028-2032) | FDA | FDA明确将生成式AI和代理AI纳入MDUFA VI（2028-2032财年）专项审评政策与人员建设，强化真实世界证据监测框架。评分40。 | [链接](https://www.mondaq.com/unitedstates/healthcare/1818056/fda-releases-draft-commitments-letter-for-medical-devices-review-public-meeting-scheduled) |
+| 2026-07-25 | 超声心动图域漂移校准与域适应方法基准研究 / Bridging Domain Shift in Echocardiography: Calibration and Adaptation Benchmark | Brunel University London | 系统对比超声心动图跨中心域漂移下8种校准与域适应方法，温度缩放等无需重训的后校准方法在不牺牲精度的情况下显著提升跨中心预测可靠性。评分39。 | [arxiv:2607.19643](https://arxiv.org/abs/2607.19643) |
+| 2026-07-25 | 医疗LLM诊断中的证据使用行为审计 / Auditing Evidence Use in Medical LLM Diagnosis | University of Electronic Science and Technology of China | 将患者信息分解为证据单元，评分候选诊断，区分合理鉴别诊断与系统性推理失效，揭示当前LLM普遍存在非结构化证据检索偏差。评分36。 | [arxiv:2607.20848](https://arxiv.org/abs/2607.20848) |
 
 ---
 
