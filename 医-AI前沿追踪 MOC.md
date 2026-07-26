@@ -79,6 +79,7 @@ type: tracker-moc
 | 2026-07-23 | 29 | [[2026-07-23\|查看]] | 自监督驱动医学FM表征收敛（RWTH Aachen，65万胸片，46pt）+ OCT-Bench多模态LLM视网膜OCT理解基准（眼科加权，46pt）+ 德拉华HB191禁AI持医疗执照立法（监管首创，40pt）|
 | 2026-07-24 | 23 | [[2026-07-24\|查看]] | neuropacs获FDA De Novo授权：首个帕金森综合征AI-MRI诊断器械（64pt）+ Clairity Allix5 FDA De Novo：首个乳腺X线5年癌症风险AI平台（64pt）+ 血液RNA液体活检阿尔茨海默病早期检测（59pt，Nature Medicine）|
 | 2026-07-25 | 32 | [[2026-07-25\|查看]] | 遗传性视网膜病变AI辅助临床决策支持RCT（78pt，Nature Medicine RCT）+ PathBind病理VLM视觉定位评测（50pt）+ FDA Dexcom TEMPO数字健康器械试点（48pt）|
+| 2026-07-26 | 32 | [[2026-07-26\|查看]] | AI机器人前列腺癌术视频Frame-to-Outcome预测术后性功能（62pt，npj Digital Medicine）+ 可穿戴指环PPG双侧心血管监测（62pt，1810例，npj Digital Medicine）+ ReXGroundingCT胸部CT病灶分割数据集（58pt，Harvard/NEJM AI）|
 
 ---
 
@@ -335,6 +336,9 @@ type: tracker-moc
 | 2026-07-25 | FDA发布MDUFA VI草案承诺函（FY2028-2032）/ FDA Releases MDUFA VI Draft Commitments Letter (FY2028-2032) | FDA | FDA明确将生成式AI和代理AI纳入MDUFA VI（2028-2032财年）专项审评政策与人员建设，强化真实世界证据监测框架。评分40。 | [链接](https://www.mondaq.com/unitedstates/healthcare/1818056/fda-releases-draft-commitments-letter-for-medical-devices-review-public-meeting-scheduled) |
 | 2026-07-25 | 超声心动图域漂移校准与域适应方法基准研究 / Bridging Domain Shift in Echocardiography: Calibration and Adaptation Benchmark | Brunel University London | 系统对比超声心动图跨中心域漂移下8种校准与域适应方法，温度缩放等无需重训的后校准方法在不牺牲精度的情况下显著提升跨中心预测可靠性。评分39。 | [arxiv:2607.19643](https://arxiv.org/abs/2607.19643) |
 | 2026-07-25 | 医疗LLM诊断中的证据使用行为审计 / Auditing Evidence Use in Medical LLM Diagnosis | University of Electronic Science and Technology of China | 将患者信息分解为证据单元，评分候选诊断，区分合理鉴别诊断与系统性推理失效，揭示当前LLM普遍存在非结构化证据检索偏差。评分36。 | [arxiv:2607.20848](https://arxiv.org/abs/2607.20848) |
+| 2026-07-26 | AI机器人前列腺癌术视频Frame-to-Outcome预测术后性功能 / AI-Based Frame-to-Outcome Analysis of Robotic Prostatectomy Surgical Video | Cedars-Sinai Medical Center | 逐帧分析机器人辅助前列腺癌根治术神经保留阶段视频，自动提取外科姿态序列并预测术后性功能恢复，npj Digital Medicine，评分62。 | [doi:10.1038/s41746-026-02927-5](https://www.nature.com/articles/s41746-026-02927-5) |
+| 2026-07-26 | 可穿戴指环AI增强PPG大规模双侧心血管监测 / Large-scale Bilateral Cardiovascular Monitoring via Wearable Rings | 多机构联合 | 97,559份样本/1810名参与者双手同步PPG，心率MAE从10.65降至3.21 bpm，提供大规模双侧可穿戴心血管基准数据集，npj Digital Medicine，评分62。 | [doi:10.1038/s41746-026-03036-z](https://www.nature.com/articles/s41746-026-03036-z) |
+| 2026-07-26 | ReXGroundingCT：基于自由文本报告的三维胸部CT病灶分割数据集 / ReXGroundingCT: A 3D Chest CT Dataset for Segmentation of Findings from Free-Text Reports | Harvard University | 3,142例CT扫描+8,028条14类病灶像素级标注，GPT-4多语言标准化，MICCAI 2026挑战启动，NEJM AI发表，评分58。 | [arxiv:2507.22030](https://arxiv.org/abs/2507.22030) |
 
 ---
 
