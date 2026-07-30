@@ -79,6 +79,7 @@ type: tracker-moc
 | 2026-07-23 | 29 | [[2026-07-23\|查看]] | 自监督驱动医学FM表征收敛（RWTH Aachen，65万胸片，46pt）+ OCT-Bench多模态LLM视网膜OCT理解基准（眼科加权，46pt）+ 德拉华HB191禁AI持医疗执照立法（监管首创，40pt）|
 | 2026-07-24 | 23 | [[2026-07-24\|查看]] | neuropacs获FDA De Novo授权：首个帕金森综合征AI-MRI诊断器械（64pt）+ Clairity Allix5 FDA De Novo：首个乳腺X线5年癌症风险AI平台（64pt）+ 血液RNA液体活检阿尔茨海默病早期检测（59pt，Nature Medicine）|
 | 2026-07-25 | 32 | [[2026-07-25\|查看]] | 遗传性视网膜病变AI辅助临床决策支持RCT（78pt，Nature Medicine RCT）+ PathBind病理VLM视觉定位评测（50pt）+ FDA Dexcom TEMPO数字健康器械试点（48pt）|
+| 2026-07-29 | 20 | [[2026-07-29\|查看]] | 少数族裔痴呆风险AI（UK Biobank 49万例，npj DM，69pt）+ FunPiQ眼底像素级质量基准（MICCAI 2026，61pt）+ 170万人心脏健康FM（55pt）+ Global RETFound Beta 74国眼科FM（45pt）+ MAST医疗AI超智能测试框架（Nature Medicine，42pt）+ EU AI法案8月2日高风险条款生效（监管，40pt）|
 
 ---
 
