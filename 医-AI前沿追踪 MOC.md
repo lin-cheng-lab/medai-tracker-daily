@@ -81,6 +81,7 @@ type: tracker-moc
 | 2026-07-25 | 32 | [[2026-07-25\|查看]] | 遗传性视网膜病变AI辅助临床决策支持RCT（78pt，Nature Medicine RCT）+ PathBind病理VLM视觉定位评测（50pt）+ FDA Dexcom TEMPO数字健康器械试点（48pt）|
 | 2026-07-29 | 20 | [[2026-07-29\|查看]] | 少数族裔痴呆风险AI（UK Biobank 49万例，npj DM，69pt）+ FunPiQ眼底像素级质量基准（MICCAI 2026，61pt）+ 170万人心脏健康FM（55pt）+ Global RETFound Beta 74国眼科FM（45pt）+ MAST医疗AI超智能测试框架（Nature Medicine，42pt）+ EU AI法案8月2日高风险条款生效（监管，40pt）|
 
+| 2026-07-31 | 32 | [[2026-07-31\|查看]] | AI触发快速响应的实施与院内死亡率关联（NEJM AI，23132例）（67pt） + AI驱动的胰腺导管腺癌肿瘤异质性量化与生（npj Digital Medicine，1020例）（62pt） + ThinkSono获FDA 510(k)（FDA 510(k)，1691例）（59pt） |
 ---
 
 ## ⭐ 收藏池（累积 Top 推荐）
@@ -89,6 +90,9 @@ type: tracker-moc
 
 | 日期 | 标题(中/英) | 机构 | 一句话 | 链接 |
 |:---:|---|---|---|---|
+| 2026-07-31 | AI触发快速响应的实施与院内死亡率关联 / Implementation of an AI-Triggered Rapid Response — Association with Mortality | Rutgers Robert Wood Johnson Medical School / RWJBarnabas Health | 11家医院23,132例高危患者中，Epic恶化指数自动触发快速响应团队，风险校正院内死亡率降低18%（23.1%→18.6%），为AI预警系统提供多中心准实验证据。 | [链接](https://ai.nejm.org/doi/10.1056/AIoa2500973) |
+| 2026-07-31 | AI驱动的胰腺导管腺癌肿瘤异质性量化与生存预测 / AI-driven Tumor Heterogeneity Quantification and Survival Prediction in Pancreatic Ductal Adenocarcinoma | Shao L, Ke X, Wang Y et al.（多中心） | HPSurv整合病理组织分类、空间异质性量化与生存Transformer，5个独立队列共1020例胰腺癌患者，平均C指数0.761，优于传统临床病理预后模型。 | [链接](https://www.nature.com/articles/s41746-026-02979-7) |
+| 2026-07-31 | ThinkSono获FDA 510(k)批准：首款AI引导非专业操作者执行DVT超声检查软件 / ThinkSono Receives FDA 510(k) Clearance for First AI-Powered DVT Ultrasound Guidance Software | FDA / ThinkSono | 2026年7月29日，ThinkSono的AI超声引导软件获FDA 510(k)批准，非专业医护人员经60-90分钟培训即可执行DVT诊断级下肢静脉超声。1691例多中心双盲研究显示灵敏度92.9%、特异度97.1%，该器械此前于2026年2月获FDA突破性医疗器械认定，开创AI扩展点护超声应用新类别。 | [链接](https://venousnews.com/us-fda-clears-thinksonos-ultrasound-ai-software-for-deep-vein-thrombosis/) |
 | 2026-05-05 | MASAI RCT：AI辅助乳腺X线筛查与标准双读对比 / MASAI study | Lund University | >10.5万女性RCT证实AI辅助筛查灵敏度提升6.7%，Lancet发表，乳腺癌AI筛查最高级别循证证据。 | [链接](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)02464-X/abstract) |
 | 2026-05-05 | SPARK：癌症病理学自主科学发现智能体框架 / Agentic framework for autonomous cancer pathology discovery | Univ. Hospital Cologne | 跨18队列5种癌症类型自主生成并验证组织生物标志物，Nature Medicine，开创病理AI自主科研新范式。 | [链接](https://www.nature.com/articles/s41591-026-04357-y) |
 | 2026-05-05 | 谷歌DeepMind AI协诊员 / Google DeepMind AI Co-clinician | Google DeepMind | 「规划器+对话器」双Agent架构，98次主诊零严重错误，在140个评估维度持平或超越执业医师水平。 | [链接](https://deepmind.google/blog/ai-co-clinician/) |
