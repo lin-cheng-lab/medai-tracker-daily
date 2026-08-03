@@ -82,6 +82,7 @@ type: tracker-moc
 | 2026-07-29 | 20 | [[2026-07-29\|查看]] | 少数族裔痴呆风险AI（UK Biobank 49万例，npj DM，69pt）+ FunPiQ眼底像素级质量基准（MICCAI 2026，61pt）+ 170万人心脏健康FM（55pt）+ Global RETFound Beta 74国眼科FM（45pt）+ MAST医疗AI超智能测试框架（Nature Medicine，42pt）+ EU AI法案8月2日高风险条款生效（监管，40pt）|
 
 | 2026-07-31 | 32 | [[2026-07-31\|查看]] | AI触发快速响应的实施与院内死亡率关联（NEJM AI，23132例）（67pt） + AI驱动的胰腺导管腺癌肿瘤异质性量化与生（npj Digital Medicine，1020例）（62pt） + ThinkSono获FDA 510(k)（FDA 510(k)，1691例）（59pt） |
+| 2026-08-02 | 39 | [[2026-08-02\|查看]] | DULCE集群RCT：AI心电图检测社区肝硬化使诊断率翻倍（Nature Medicine，15596例）（86pt） + Brainomix AI卒中影像使NHS 107家医院EVT取栓率翻倍（Lancet Digital Health，45万例）（80pt） + 脓毒症ML恶化预测（npj Digital Medicine，47936例）（64pt） |
 ---
 
 ## ⭐ 收藏池（累积 Top 推荐）
@@ -90,6 +91,9 @@ type: tracker-moc
 
 | 日期 | 标题(中/英) | 机构 | 一句话 | 链接 |
 |:---:|---|---|---|---|
+| 2026-08-02 | DULCE集群随机试验：AI心电图实现社区肝硬化筛查诊断率翻倍 / DULCE Trial: AI-ECG Detects Undiagnosed Liver Cirrhosis in Primary Care, Doubling Diagnosis Rate | Mayo Clinic | DULCE集群RCT（98支初级卫生机构团队，15596例），AI-ECG将高级慢性肝病新诊率从0.5%提升至1.0%，Nature Medicine发表。评分86。 | [链接](https://www.nature.com/articles/s41591-025-04058-y) |
+| 2026-08-02 | Brainomix AI卒中影像使英国NHS 107家医院取栓率翻倍 / Brainomix AI Stroke Imaging Doubles EVT Rate Across 107 NHS England Hospitals | Brainomix / NHS England | Lancet Digital Health前瞻性观察研究（450,000+患者，107家NHS医院），Brainomix 360 AI实施后EVT率从2.3%升至4.6%，约15,000名患者直接获益。评分80。 | [链接](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00109-8/fulltext) |
+| 2026-08-02 | 机器学习预测脓毒症患者病情恶化轨迹 / Machine learning predicts sepsis deterioration trajectories | 上海交通大学医学院附属瑞金医院 | 多中心47936例ICU脓毒症，ML模型识别三种恶化轨迹，AUROC 0.92，提前17.6小时预警，减少ICU住院1.8天及28天死亡率5.7%，npj Digital Medicine发表。评分64。 | [链接](https://www.nature.com/articles/s41746-026-02565-x) |
 | 2026-07-31 | AI触发快速响应的实施与院内死亡率关联 / Implementation of an AI-Triggered Rapid Response — Association with Mortality | Rutgers Robert Wood Johnson Medical School / RWJBarnabas Health | 11家医院23,132例高危患者中，Epic恶化指数自动触发快速响应团队，风险校正院内死亡率降低18%（23.1%→18.6%），为AI预警系统提供多中心准实验证据。 | [链接](https://ai.nejm.org/doi/10.1056/AIoa2500973) |
 | 2026-07-31 | AI驱动的胰腺导管腺癌肿瘤异质性量化与生存预测 / AI-driven Tumor Heterogeneity Quantification and Survival Prediction in Pancreatic Ductal Adenocarcinoma | Shao L, Ke X, Wang Y et al.（多中心） | HPSurv整合病理组织分类、空间异质性量化与生存Transformer，5个独立队列共1020例胰腺癌患者，平均C指数0.761，优于传统临床病理预后模型。 | [链接](https://www.nature.com/articles/s41746-026-02979-7) |
 | 2026-07-31 | ThinkSono获FDA 510(k)批准：首款AI引导非专业操作者执行DVT超声检查软件 / ThinkSono Receives FDA 510(k) Clearance for First AI-Powered DVT Ultrasound Guidance Software | FDA / ThinkSono | 2026年7月29日，ThinkSono的AI超声引导软件获FDA 510(k)批准，非专业医护人员经60-90分钟培训即可执行DVT诊断级下肢静脉超声。1691例多中心双盲研究显示灵敏度92.9%、特异度97.1%，该器械此前于2026年2月获FDA突破性医疗器械认定，开创AI扩展点护超声应用新类别。 | [链接](https://venousnews.com/us-fda-clears-thinksonos-ultrasound-ai-software-for-deep-vein-thrombosis/) |
